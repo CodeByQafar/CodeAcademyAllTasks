@@ -12,3 +12,4 @@ C:\Users\II novbe\Desktop\CodeAcdemyTasks\ClassTask11.30.2025\ClassTask11.30.202
 C:\Users\II novbe\Desktop\CodeAcdemyTasks\ClassTask11.30.2025\ClassTask11.30.2025\obj\Debug\net8.0\ClassTask11.30.2025.pdb
 C:\Users\II novbe\Desktop\CodeAcdemyTasks\ClassTask11.30.2025\ClassTask11.30.2025\obj\Debug\net8.0\ClassTask11.30.2025.genruntimeconfig.cache
 C:\Users\II novbe\Desktop\CodeAcdemyTasks\ClassTask11.30.2025\ClassTask11.30.2025\obj\Debug\net8.0\ref\ClassTask11.30.2025.dll
+C:\Users\II novbe\Desktop\CodeAcdemyTasks\ClassTask11.30.2025\ClassTask11.30.2025\obj\Debug\net8.0\ClassTask11.30.2025.sourcelink.json

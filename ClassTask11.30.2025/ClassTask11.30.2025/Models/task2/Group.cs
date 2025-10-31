@@ -1,4 +1,5 @@
 ﻿
+using ClassTask11._30._2025.Exceptions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,13 +8,13 @@ using System.Threading.Tasks;
 
 namespace ClassTask11._30._2025.Models.task2
 {
-    internal class Group
+    internal class Groupp
     {
-        string no;
-        Student[] students;
-        int StudentLimit;
+       public string no;
+       public Student[] students;
+       public int StudentLimit;
 
-        public Group(string no, Student[] students, int StudentLimit)
+        public Groupp(string no, Student[] students, int StudentLimit)
         {
             if (noChecker(no))
             {
@@ -21,7 +22,7 @@ namespace ClassTask11._30._2025.Models.task2
             }
             else
             {
-                throw new Exception();
+                throw new InvalidNoException("Invalid no name");
             }
 
             this.students = students;
@@ -32,7 +33,7 @@ namespace ClassTask11._30._2025.Models.task2
         {
             if (students.Length < StudentLimit)
             {
-                Student[] res = new Student[students.Length];
+                Student[] res = new Student[students.Length+1];
                 for (int i = 0; i < students.Length; i++)
                 {
                     res[i] = students[i];
@@ -42,12 +43,12 @@ namespace ClassTask11._30._2025.Models.task2
             }
             else
             {
-                Console.WriteLine("you reache max student limit");
+                throw new StudentLimitException("you reached max student limit");
             }
         }
-        public bool noChecker(string no)
+        public bool noChecker(string No)
         {
-            if (this.no.Substring(0, 2).All(char.IsUpper) && this.no.Substring(2).All(char.IsDigit) && this.no.Length == 5)
+            if (No.Substring(0, 2).All(char.IsUpper) && No.Substring(2).All(char.IsDigit) && No.Length == 5)
             {
                 return true;
             }
