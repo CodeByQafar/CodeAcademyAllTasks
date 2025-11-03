@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.30.2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18438F82-C70F-46C4-869A-1BFA75167D59}|ClassTask11.30.2025\\ClassTask11.30.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.30.2025\\classtask11.30.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18438F82-C70F-46C4-869A-1BFA75167D59}|ClassTask11.30.2025\\ClassTask11.30.2025.csproj|solutionrelative:classtask11.30.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18438F82-C70F-46C4-869A-1BFA75167D59}|ClassTask11.30.2025\\ClassTask11.30.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.30.2025\\classtask11.30.2025\\models\\task2\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18438F82-C70F-46C4-869A-1BFA75167D59}|ClassTask11.30.2025\\ClassTask11.30.2025.csproj|solutionrelative:classtask11.30.2025\\models\\task2\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18438F82-C70F-46C4-869A-1BFA75167D59}|ClassTask11.30.2025\\ClassTask11.30.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.30.2025\\classtask11.30.2025\\models\\task2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18438F82-C70F-46C4-869A-1BFA75167D59}|ClassTask11.30.2025\\ClassTask11.30.2025.csproj|solutionrelative:classtask11.30.2025\\models\\task2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18438F82-C70F-46C4-869A-1BFA75167D59}|ClassTask11.30.2025\\ClassTask11.30.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.30.2025\\classtask11.30.2025\\exceptions\\invalidnoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18438F82-C70F-46C4-869A-1BFA75167D59}|ClassTask11.30.2025\\ClassTask11.30.2025.csproj|solutionrelative:classtask11.30.2025\\exceptions\\invalidnoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18438F82-C70F-46C4-869A-1BFA75167D59}|ClassTask11.30.2025\\ClassTask11.30.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.30.2025\\classtask11.30.2025\\exceptions\\studentlimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +19,12 @@
       "RelativeMoniker": "D:0:0:{18438F82-C70F-46C4-869A-1BFA75167D59}|ClassTask11.30.2025\\ClassTask11.30.2025.csproj|solutionrelative:classtask11.30.2025\\exceptions\\productnotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18438F82-C70F-46C4-869A-1BFA75167D59}|ClassTask11.30.2025\\ClassTask11.30.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.30.2025\\classtask11.30.2025\\exceptions\\invalidnoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18438F82-C70F-46C4-869A-1BFA75167D59}|ClassTask11.30.2025\\ClassTask11.30.2025.csproj|solutionrelative:classtask11.30.2025\\exceptions\\invalidnoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18438F82-C70F-46C4-869A-1BFA75167D59}|ClassTask11.30.2025\\ClassTask11.30.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.30.2025\\classtask11.30.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18438F82-C70F-46C4-869A-1BFA75167D59}|ClassTask11.30.2025\\ClassTask11.30.2025.csproj|solutionrelative:classtask11.30.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18438F82-C70F-46C4-869A-1BFA75167D59}|ClassTask11.30.2025\\ClassTask11.30.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.30.2025\\classtask11.30.2025\\models\\task2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18438F82-C70F-46C4-869A-1BFA75167D59}|ClassTask11.30.2025\\ClassTask11.30.2025.csproj|solutionrelative:classtask11.30.2025\\models\\task2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18438F82-C70F-46C4-869A-1BFA75167D59}|ClassTask11.30.2025\\ClassTask11.30.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.30.2025\\classtask11.30.2025\\models\\task1\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{18438F82-C70F-46C4-869A-1BFA75167D59}|ClassTask11.30.2025\\ClassTask11.30.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.30.2025\\classtask11.30.2025\\models\\task1\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18438F82-C70F-46C4-869A-1BFA75167D59}|ClassTask11.30.2025\\ClassTask11.30.2025.csproj|solutionrelative:classtask11.30.2025\\models\\task1\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18438F82-C70F-46C4-869A-1BFA75167D59}|ClassTask11.30.2025\\ClassTask11.30.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.30.2025\\classtask11.30.2025\\models\\task2\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18438F82-C70F-46C4-869A-1BFA75167D59}|ClassTask11.30.2025\\ClassTask11.30.2025.csproj|solutionrelative:classtask11.30.2025\\models\\task2\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "NoteBook.cs",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.30.2025\\ClassTask11.30.2025\\Models\\task1\\NoteBook.cs",
               "RelativeDocumentMoniker": "ClassTask11.30.2025\\Models\\task1\\NoteBook.cs",
@@ -75,8 +75,7 @@
               "RelativeToolTip": "ClassTask11.30.2025\\Models\\task1\\NoteBook.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T13:40:52.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T13:40:52.732Z"
             },
             {
               "$type": "Document",
@@ -93,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "InvalidNoException.cs",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.30.2025\\ClassTask11.30.2025\\Exceptions\\InvalidNoException.cs",
               "RelativeDocumentMoniker": "ClassTask11.30.2025\\Exceptions\\InvalidNoException.cs",
@@ -106,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.30.2025\\ClassTask11.30.2025\\Models\\task2\\Student.cs",
               "RelativeDocumentMoniker": "ClassTask11.30.2025\\Models\\task2\\Student.cs",
@@ -114,25 +113,24 @@
               "RelativeToolTip": "ClassTask11.30.2025\\Models\\task2\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T14:34:25.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T14:34:25.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.30.2025\\ClassTask11.30.2025\\Program.cs",
               "RelativeDocumentMoniker": "ClassTask11.30.2025\\Program.cs",
               "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.30.2025\\ClassTask11.30.2025\\Program.cs",
               "RelativeToolTip": "ClassTask11.30.2025\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T13:37:02.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Phone.cs",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.30.2025\\ClassTask11.30.2025\\Models\\task1\\Phone.cs",
               "RelativeDocumentMoniker": "ClassTask11.30.2025\\Models\\task1\\Phone.cs",
@@ -140,12 +138,11 @@
               "RelativeToolTip": "ClassTask11.30.2025\\Models\\task1\\Phone.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T13:41:04.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T13:41:04.902Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.30.2025\\ClassTask11.30.2025\\Models\\task1\\Product.cs",
               "RelativeDocumentMoniker": "ClassTask11.30.2025\\Models\\task1\\Product.cs",
@@ -153,12 +150,11 @@
               "RelativeToolTip": "ClassTask11.30.2025\\Models\\task1\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T13:40:40.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T13:40:40.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Store.cs",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.30.2025\\ClassTask11.30.2025\\Models\\task1\\Store.cs",
               "RelativeDocumentMoniker": "ClassTask11.30.2025\\Models\\task1\\Store.cs",
@@ -166,18 +162,17 @@
               "RelativeToolTip": "ClassTask11.30.2025\\Models\\task1\\Store.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T13:41:15.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T13:41:15.152Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Group.cs",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.30.2025\\ClassTask11.30.2025\\Models\\task2\\Group.cs",
               "RelativeDocumentMoniker": "ClassTask11.30.2025\\Models\\task2\\Group.cs",
               "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.30.2025\\ClassTask11.30.2025\\Models\\task2\\Group.cs",
               "RelativeToolTip": "ClassTask11.30.2025\\Models\\task2\\Group.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T14:36:02.533Z",
               "EditorCaption": ""

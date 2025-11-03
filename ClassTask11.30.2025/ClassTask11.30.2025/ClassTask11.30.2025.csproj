@@ -9,7 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Exceptions\NewFolder\" />
+    <Compile Remove="Exceptions\NewFolder\**" />
+    <EmbeddedResource Remove="Exceptions\NewFolder\**" />
+    <None Remove="Exceptions\NewFolder\**" />
   </ItemGroup>
 
 </Project>
