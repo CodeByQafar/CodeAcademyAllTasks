@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.04.2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0F531E-E820-4C76-8715-7FBAFB5E7DE6}|ClassTask11.04.2025\\ClassTask11.04.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.04.2025\\classtask11.04.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0F531E-E820-4C76-8715-7FBAFB5E7DE6}|ClassTask11.04.2025\\ClassTask11.04.2025.csproj|solutionrelative:classtask11.04.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0F531E-E820-4C76-8715-7FBAFB5E7DE6}|ClassTask11.04.2025\\ClassTask11.04.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.04.2025\\classtask11.04.2025\\models\\temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0F531E-E820-4C76-8715-7FBAFB5E7DE6}|ClassTask11.04.2025\\ClassTask11.04.2025.csproj|solutionrelative:classtask11.04.2025\\models\\temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0F531E-E820-4C76-8715-7FBAFB5E7DE6}|ClassTask11.04.2025\\ClassTask11.04.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.04.2025\\classtask11.04.2025\\deligates\\deligate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0F531E-E820-4C76-8715-7FBAFB5E7DE6}|ClassTask11.04.2025\\ClassTask11.04.2025.csproj|solutionrelative:classtask11.04.2025\\deligates\\deligate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0F531E-E820-4C76-8715-7FBAFB5E7DE6}|ClassTask11.04.2025\\ClassTask11.04.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.04.2025\\classtask11.04.2025\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0F531E-E820-4C76-8715-7FBAFB5E7DE6}|ClassTask11.04.2025\\ClassTask11.04.2025.csproj|solutionrelative:classtask11.04.2025\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0F531E-E820-4C76-8715-7FBAFB5E7DE6}|ClassTask11.04.2025\\ClassTask11.04.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.04.2025\\classtask11.04.2025\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0F531E-E820-4C76-8715-7FBAFB5E7DE6}|ClassTask11.04.2025\\ClassTask11.04.2025.csproj|solutionrelative:classtask11.04.2025\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0F531E-E820-4C76-8715-7FBAFB5E7DE6}|ClassTask11.04.2025\\ClassTask11.04.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.04.2025\\classtask11.04.2025\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0F531E-E820-4C76-8715-7FBAFB5E7DE6}|ClassTask11.04.2025\\ClassTask11.04.2025.csproj|solutionrelative:classtask11.04.2025\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TemperatureSensor.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.04.2025\\ClassTask11.04.2025\\Models\\TemperatureSensor.cs",
+              "RelativeDocumentMoniker": "ClassTask11.04.2025\\Models\\TemperatureSensor.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.04.2025\\ClassTask11.04.2025\\Models\\TemperatureSensor.cs",
+              "RelativeToolTip": "ClassTask11.04.2025\\Models\\TemperatureSensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:36:33.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "deligate.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.04.2025\\ClassTask11.04.2025\\Deligates\\deligate.cs",
+              "RelativeDocumentMoniker": "ClassTask11.04.2025\\Deligates\\deligate.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.04.2025\\ClassTask11.04.2025\\Deligates\\deligate.cs*",
+              "RelativeToolTip": "ClassTask11.04.2025\\Deligates\\deligate.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:27:32.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.04.2025\\ClassTask11.04.2025\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "ClassTask11.04.2025\\Models\\Library.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.04.2025\\ClassTask11.04.2025\\Models\\Library.cs",
+              "RelativeToolTip": "ClassTask11.04.2025\\Models\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:39:00.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.04.2025\\ClassTask11.04.2025\\Enums\\Genre.cs",
+              "RelativeDocumentMoniker": "ClassTask11.04.2025\\Enums\\Genre.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.04.2025\\ClassTask11.04.2025\\Enums\\Genre.cs",
+              "RelativeToolTip": "ClassTask11.04.2025\\Enums\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:36:56.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.04.2025\\ClassTask11.04.2025\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "ClassTask11.04.2025\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.04.2025\\ClassTask11.04.2025\\Models\\Book.cs",
+              "RelativeToolTip": "ClassTask11.04.2025\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:36:41.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.04.2025\\ClassTask11.04.2025\\Program.cs",
+              "RelativeDocumentMoniker": "ClassTask11.04.2025\\Program.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.04.2025\\ClassTask11.04.2025\\Program.cs*",
+              "RelativeToolTip": "ClassTask11.04.2025\\Program.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T13:35:23.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
