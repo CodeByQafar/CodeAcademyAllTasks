@@ -1,0 +1,6 @@
+error line 1;
+line 2;
+line 3;
+error line 4;
+line 5;
+error line 6;

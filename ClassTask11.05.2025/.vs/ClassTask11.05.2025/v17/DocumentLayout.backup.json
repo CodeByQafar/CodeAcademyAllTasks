@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.05.2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.05.2025\\classtask11.05.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|solutionrelative:classtask11.05.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.05.2025\\classtask11.05.2025\\task 4\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|solutionrelative:classtask11.05.2025\\task 4\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.05.2025\\classtask11.05.2025\\task 3\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|solutionrelative:classtask11.05.2025\\task 3\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.05.2025\\classtask11.05.2025\\task 4\\person.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|solutionrelative:classtask11.05.2025\\task 4\\person.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.05.2025\\classtask11.05.2025\\task 2\\copy.txt||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|solutionrelative:classtask11.05.2025\\task 2\\copy.txt||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.05.2025\\classtask11.05.2025\\task 3\\error.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|solutionrelative:classtask11.05.2025\\task 3\\error.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.05.2025\\classtask11.05.2025\\task 1\\index.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|solutionrelative:classtask11.05.2025\\task 1\\index.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "person.json",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.05.2025\\ClassTask11.05.2025\\task 4\\person.json",
+              "RelativeDocumentMoniker": "ClassTask11.05.2025\\task 4\\person.json",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.05.2025\\ClassTask11.05.2025\\task 4\\person.json",
+              "RelativeToolTip": "ClassTask11.05.2025\\task 4\\person.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T14:06:10.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "person.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.05.2025\\ClassTask11.05.2025\\task 4\\person.cs",
+              "RelativeDocumentMoniker": "ClassTask11.05.2025\\task 4\\person.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.05.2025\\ClassTask11.05.2025\\task 4\\person.cs",
+              "RelativeToolTip": "ClassTask11.05.2025\\task 4\\person.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:54:16.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "error.txt",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.05.2025\\ClassTask11.05.2025\\task 3\\error.txt",
+              "RelativeDocumentMoniker": "ClassTask11.05.2025\\task 3\\error.txt",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.05.2025\\ClassTask11.05.2025\\task 3\\error.txt",
+              "RelativeToolTip": "ClassTask11.05.2025\\task 3\\error.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-05T13:41:39.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "text.txt",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.05.2025\\ClassTask11.05.2025\\task 3\\text.txt",
+              "RelativeDocumentMoniker": "ClassTask11.05.2025\\task 3\\text.txt",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.05.2025\\ClassTask11.05.2025\\task 3\\text.txt",
+              "RelativeToolTip": "ClassTask11.05.2025\\task 3\\text.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-05T13:39:10.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "copy.txt",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.05.2025\\ClassTask11.05.2025\\task 2\\copy.txt",
+              "RelativeDocumentMoniker": "ClassTask11.05.2025\\task 2\\copy.txt",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.05.2025\\ClassTask11.05.2025\\task 2\\copy.txt",
+              "RelativeToolTip": "ClassTask11.05.2025\\task 2\\copy.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-05T13:28:54.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.txt",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.05.2025\\ClassTask11.05.2025\\task 1\\index.txt",
+              "RelativeDocumentMoniker": "ClassTask11.05.2025\\task 1\\index.txt",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.05.2025\\ClassTask11.05.2025\\task 1\\index.txt",
+              "RelativeToolTip": "ClassTask11.05.2025\\task 1\\index.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-05T13:19:48.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.05.2025\\ClassTask11.05.2025\\Program.cs",
+              "RelativeDocumentMoniker": "ClassTask11.05.2025\\Program.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.05.2025\\ClassTask11.05.2025\\Program.cs",
+              "RelativeToolTip": "ClassTask11.05.2025\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwBkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:17:50.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
