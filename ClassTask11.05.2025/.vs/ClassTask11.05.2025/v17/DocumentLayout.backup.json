@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|solutionrelative:classtask11.05.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.05.2025\\classtask11.05.2025\\task 4\\person.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|solutionrelative:classtask11.05.2025\\task 4\\person.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.05.2025\\classtask11.05.2025\\task 4\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|solutionrelative:classtask11.05.2025\\task 4\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.05.2025\\classtask11.05.2025\\task 3\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|solutionrelative:classtask11.05.2025\\task 3\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.05.2025\\classtask11.05.2025\\task 4\\person.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|solutionrelative:classtask11.05.2025\\task 4\\person.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A575F07-FD4D-47D7-8736-9B87B772A797}|ClassTask11.05.2025\\ClassTask11.05.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.05.2025\\classtask11.05.2025\\task 2\\copy.txt||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,20 +42,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "person.json",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.05.2025\\ClassTask11.05.2025\\task 4\\person.json",
               "RelativeDocumentMoniker": "ClassTask11.05.2025\\task 4\\person.json",
               "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.05.2025\\ClassTask11.05.2025\\task 4\\person.json",
               "RelativeToolTip": "ClassTask11.05.2025\\task 4\\person.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-05T14:06:10.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "person.cs",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.05.2025\\ClassTask11.05.2025\\task 4\\person.cs",
               "RelativeDocumentMoniker": "ClassTask11.05.2025\\task 4\\person.cs",
@@ -81,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "text.txt",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.05.2025\\ClassTask11.05.2025\\task 3\\text.txt",
               "RelativeDocumentMoniker": "ClassTask11.05.2025\\task 3\\text.txt",
@@ -100,7 +100,7 @@
               "RelativeDocumentMoniker": "ClassTask11.05.2025\\task 2\\copy.txt",
               "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.05.2025\\ClassTask11.05.2025\\task 2\\copy.txt",
               "RelativeToolTip": "ClassTask11.05.2025\\task 2\\copy.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-11-05T13:28:54.377Z",
               "EditorCaption": ""
@@ -126,7 +126,7 @@
               "RelativeDocumentMoniker": "ClassTask11.05.2025\\Program.cs",
               "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.05.2025\\ClassTask11.05.2025\\Program.cs",
               "RelativeToolTip": "ClassTask11.05.2025\\Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAwwBkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T13:17:50.349Z",
               "EditorCaption": ""
