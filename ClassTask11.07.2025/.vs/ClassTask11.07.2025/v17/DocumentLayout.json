@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.07.2025\\classtask11.07.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|solutionrelative:classtask11.07.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.07.2025\\classtask11.07.2025\\task 3\\models\\currencyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|solutionrelative:classtask11.07.2025\\task 3\\models\\currencyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.07.2025\\classtask11.07.2025\\task 3\\enums\\currecy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|solutionrelative:classtask11.07.2025\\task 3\\enums\\currecy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.07.2025\\classtask11.07.2025\\task 2\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|solutionrelative:classtask11.07.2025\\task 2\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.07.2025\\classtask11.07.2025\\task 2\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|solutionrelative:classtask11.07.2025\\task 2\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.07.2025\\classtask11.07.2025\\task 2\\models\\employee .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|solutionrelative:classtask11.07.2025\\task 2\\models\\employee .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.07.2025\\classtask11.07.2025\\task 2\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|solutionrelative:classtask11.07.2025\\task 2\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.07.2025\\classtask11.07.2025\\task 2\\exceptions\\capacitylimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|solutionrelative:classtask11.07.2025\\task 2\\exceptions\\capacitylimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.07.2025\\classtask11.07.2025\\task 2\\exceptions\\employeealreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|solutionrelative:classtask11.07.2025\\task 2\\exceptions\\employeealreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.07.2025\\classtask11.07.2025\\task 1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|solutionrelative:classtask11.07.2025\\task 1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.07.2025\\classtask11.07.2025\\task 1\\exceptions\\productcountiszeroexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|solutionrelative:classtask11.07.2025\\task 1\\exceptions\\productcountiszeroexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacdemytasks\\classtask11.07.2025\\classtask11.07.2025\\task 1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC18964-F888-46EC-BBF9-23D21DDAA0B3}|ClassTask11.07.2025\\ClassTask11.07.2025.csproj|solutionrelative:classtask11.07.2025\\task 1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrencyConverter.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\task 3\\Models\\CurrencyConverter.cs",
+              "RelativeDocumentMoniker": "ClassTask11.07.2025\\task 3\\Models\\CurrencyConverter.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\task 3\\Models\\CurrencyConverter.cs",
+              "RelativeToolTip": "ClassTask11.07.2025\\task 3\\Models\\CurrencyConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T15:09:30.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Currecy.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\task 3\\Enums\\Currecy.cs",
+              "RelativeDocumentMoniker": "ClassTask11.07.2025\\task 3\\Enums\\Currecy.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\task 3\\Enums\\Currecy.cs",
+              "RelativeToolTip": "ClassTask11.07.2025\\task 3\\Enums\\Currecy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T15:07:06.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee .cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\task 2\\Models\\Employee .cs",
+              "RelativeDocumentMoniker": "ClassTask11.07.2025\\task 2\\Models\\Employee .cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\task 2\\Models\\Employee .cs",
+              "RelativeToolTip": "ClassTask11.07.2025\\task 2\\Models\\Employee .cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:10:38.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\task 2\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "ClassTask11.07.2025\\task 2\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\task 2\\Models\\Person.cs",
+              "RelativeToolTip": "ClassTask11.07.2025\\task 2\\Models\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:07:20.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\task 2\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "ClassTask11.07.2025\\task 2\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\task 2\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "ClassTask11.07.2025\\task 2\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:07:06.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeAlreadyExistsException.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\task 2\\Exceptions\\EmployeeAlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "ClassTask11.07.2025\\task 2\\Exceptions\\EmployeeAlreadyExistsException.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\task 2\\Exceptions\\EmployeeAlreadyExistsException.cs",
+              "RelativeToolTip": "ClassTask11.07.2025\\task 2\\Exceptions\\EmployeeAlreadyExistsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:06:59.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CapacityLimitException.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\task 2\\Exceptions\\CapacityLimitException.cs",
+              "RelativeDocumentMoniker": "ClassTask11.07.2025\\task 2\\Exceptions\\CapacityLimitException.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\task 2\\Exceptions\\CapacityLimitException.cs",
+              "RelativeToolTip": "ClassTask11.07.2025\\task 2\\Exceptions\\CapacityLimitException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:06:51.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\task 1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ClassTask11.07.2025\\task 1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\task 1\\Models\\Product.cs",
+              "RelativeToolTip": "ClassTask11.07.2025\\task 1\\Models\\Product.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:27:21.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\task 1\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "ClassTask11.07.2025\\task 1\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\task 1\\Models\\Book.cs",
+              "RelativeToolTip": "ClassTask11.07.2025\\task 1\\Models\\Book.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:27:16.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\Program.cs",
+              "RelativeDocumentMoniker": "ClassTask11.07.2025\\Program.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\Program.cs",
+              "RelativeToolTip": "ClassTask11.07.2025\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:26:41.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\task 2\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "ClassTask11.07.2025\\task 2\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\task 2\\Models\\Department.cs",
+              "RelativeToolTip": "ClassTask11.07.2025\\task 2\\Models\\Department.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAQwGsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:13:58.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductCountIsZeroException .cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\task 1\\Exceptions\\ProductCountIsZeroException .cs",
+              "RelativeDocumentMoniker": "ClassTask11.07.2025\\task 1\\Exceptions\\ProductCountIsZeroException .cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcdemyTasks\\ClassTask11.07.2025\\ClassTask11.07.2025\\task 1\\Exceptions\\ProductCountIsZeroException .cs",
+              "RelativeToolTip": "ClassTask11.07.2025\\task 1\\Exceptions\\ProductCountIsZeroException .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:42:42.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
