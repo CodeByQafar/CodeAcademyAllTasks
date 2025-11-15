@@ -1,13 +1,12 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
-
-namespace MetingApp11._13._2025.Models
+﻿using MetingApp_Helpers;
+namespace MetingApp_Models
 {
     public static class MeetingSchedule
     {
-      public  static List<Meeting> Meetings=new List<Meeting>();
+        public static List<Meeting> Meetings = new List<Meeting>();
 
 
-     public static void SetMeeting(string Name, DateTime FromDate, DateTime ToDate)
+        public static void SetMeeting(string Name, DateTime FromDate, DateTime ToDate)
         {
             bool isOverlaping = false;
             foreach (Meeting meeting in Meetings)
@@ -18,14 +17,16 @@ namespace MetingApp11._13._2025.Models
                     break;
                 }
             }
-            if (!isOverlaping) {
-                Meetings.Add(new Meeting(Name,FromDate,ToDate));
-                Console.WriteLine("meeting elave olundu");
+            if (!isOverlaping)
+            {
+                Meetings.Add(new Meeting(Name, FromDate, ToDate));
 
+                Helpers.ConsoleWriteline(ConsoleColor.Green, "meeting elave olundu");
             }
             else
             {
-                Console.WriteLine("meetingler ust uste dusur");
+                Helpers.ConsoleWriteline(ConsoleColor.Red, "meetingler ust uste dusur");
+
             }
 
         }
@@ -38,7 +39,8 @@ namespace MetingApp11._13._2025.Models
         public static bool IsExistsMeetingByName(string name)
         {
             int count = Meetings.FindAll(e => e.Name == name).Count;
-            if (count > 0) {
+            if (count > 0)
+            {
                 return true;
             }
             return false;
@@ -47,7 +49,6 @@ namespace MetingApp11._13._2025.Models
         public static List<Meeting> GetExistMeetings(string name)
         {
             List<Meeting> filterredMeeting = Meetings.FindAll(e => e.Name == name);
-          
             return filterredMeeting;
         }
     }

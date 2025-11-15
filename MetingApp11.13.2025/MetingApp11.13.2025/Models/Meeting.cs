@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
-namespace MetingApp11._13._2025.Models
+namespace MetingApp_Models
 {
     public class Meeting
     {
