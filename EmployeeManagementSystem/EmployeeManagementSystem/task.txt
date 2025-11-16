@@ -1,0 +1,46 @@
+﻿Layihənin məqsəqi C# dilində obyekt yönümlü proqramlaşdırma prinsiplərindən istifadə edərək sadə işçi idarəetmə sistemi hazırlamaqdır.
+-Console Menuda aşağıdakılar olmalıdır:
+1. Add Employee
+2. Remove Employee
+3. Search Employee
+4. Update Employee
+5. List Employees
+6. Sort Employees
+7. Filter Employees
+
+- Folders
+-Models Folderi - Person, Employee,Contact,Enum
+-Services Folderi - EmployeeService
+-Exceptions Folderi - DuplicateEmployeeException, EmployeeNotFoundException,NameEmptyException, NameLengthException, InvalidSalaryException, InvalidWorkInfoException,FileLoadException-Data Folderi -  employees.json
+
+Person Class: ID və Name property olmalıdır, abstract PrintInfo methodu  olmalıdır. Name boş ola bilməz və minimum 3 maksimum 25 olmalıdır. Uygun gəlmədikdə NameEmptyException və NameLengthException atılmalıdır.
+Printİnfo methodunda bütün informasiya yazilmalidir. Null gələ biləcək informasiyalarda null gələbdə  "N/A", normal info gələndə həmin informasiya yazılmalıdır. HireDate - də isə sadəcə ayın tarihi görünsün saat lazım deyil.
+
+Property-lər:
+Position (enum) (NullAble olacaq)
+Salary (decimal)(Salary > 0 olmalıdır və əks halda InvalidSalaryException atılmalıdır) (Nullable olacaq.)
+Department (string) (Boş ola bilməz və minumum 5, maksimum 6 simvol olmalıdır. Əks halda NameEmptyException və ya NameLengthException)
+HireDate (DateTime) → yalnız constructor-da set
+WorkInfo (struct) 
+Enums:
+Position : Junior, Middle, Senior, Manager
+
+
+Struct:
+WorkInfo - OfficeNumber(boş ola bilməz, əks halda InvalidWorkInfoException atılmalıdır)  və Floor olmalıdır(floor > 0 olmalıdır,əks halda InvalidWorkInfoException atılmalıdır). Qeyd-dərsdə də dediyim kimi burda constructor mütləq olmalıdır.
+
+Interface — IPrintable ( Employee implement ederek informasiya yazdiracaq.)
+
+
+
+Aşağıdakı metodlar tələb olunur:
+AddEmployee (Duplicate ID varsa DuplicateEmployeeException atılsın.)
+RemoveEmploye
+SearchEmployee
+UpdateEmployee
+ListEmployees
+SortEmployees (ID, Name, HireDate, Salary üzrə sort ola bilər)
+FilterEmployees (Example filtrlər:  Adına görə və  Min–Max salary)
+SaveToFile (JSON serialize (Newtonsoft.Json icazəlidir)
+LoadFromFile(File mövcud deyilsə → boş list və Oxunmursa → FileLoadException
+Son Tarix: 24 Noyabr 23:59
