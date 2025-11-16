@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\MetingApp11.13.2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{025ED250-E3CF-43FE-B959-8A70A806B841}|MetingApp11.13.2025\\MetingApp11.13.2025.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\metingapp11.13.2025\\metingapp11.13.2025\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{025ED250-E3CF-43FE-B959-8A70A806B841}|MetingApp11.13.2025\\MetingApp11.13.2025.csproj|solutionrelative:metingapp11.13.2025\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{025ED250-E3CF-43FE-B959-8A70A806B841}|MetingApp11.13.2025\\MetingApp11.13.2025.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\metingapp11.13.2025\\metingapp11.13.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{025ED250-E3CF-43FE-B959-8A70A806B841}|MetingApp11.13.2025\\MetingApp11.13.2025.csproj|solutionrelative:metingapp11.13.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,12 +11,16 @@
       "RelativeMoniker": "D:0:0:{025ED250-E3CF-43FE-B959-8A70A806B841}|MetingApp11.13.2025\\MetingApp11.13.2025.csproj|solutionrelative:metingapp11.13.2025\\models\\meetingschedule .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{025ED250-E3CF-43FE-B959-8A70A806B841}|MetingApp11.13.2025\\MetingApp11.13.2025.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\metingapp11.13.2025\\metingapp11.13.2025\\models\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025ED250-E3CF-43FE-B959-8A70A806B841}|MetingApp11.13.2025\\MetingApp11.13.2025.csproj|solutionrelative:metingapp11.13.2025\\models\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{025ED250-E3CF-43FE-B959-8A70A806B841}|MetingApp11.13.2025\\MetingApp11.13.2025.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\metingapp11.13.2025\\metingapp11.13.2025\\helpers\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{025ED250-E3CF-43FE-B959-8A70A806B841}|MetingApp11.13.2025\\MetingApp11.13.2025.csproj|solutionrelative:metingapp11.13.2025\\helpers\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{025ED250-E3CF-43FE-B959-8A70A806B841}|MetingApp11.13.2025\\MetingApp11.13.2025.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\metingapp11.13.2025\\metingapp11.13.2025\\models\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{025ED250-E3CF-43FE-B959-8A70A806B841}|MetingApp11.13.2025\\MetingApp11.13.2025.csproj|solutionrelative:metingapp11.13.2025\\models\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{025ED250-E3CF-43FE-B959-8A70A806B841}|MetingApp11.13.2025\\MetingApp11.13.2025.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\metingapp11.13.2025\\metingapp11.13.2025\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025ED250-E3CF-43FE-B959-8A70A806B841}|MetingApp11.13.2025\\MetingApp11.13.2025.csproj|solutionrelative:metingapp11.13.2025\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +38,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Controller.cs",
               "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\MetingApp11.13.2025\\MetingApp11.13.2025\\Controllers\\Controller.cs",
               "RelativeDocumentMoniker": "MetingApp11.13.2025\\Controllers\\Controller.cs",
-              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\MetingApp11.13.2025\\MetingApp11.13.2025\\Controllers\\Controller.cs*",
-              "RelativeToolTip": "MetingApp11.13.2025\\Controllers\\Controller.cs*",
-              "ViewState": "AgIAADYAAAAAAAAAAAAjwEEAAABaAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\MetingApp11.13.2025\\MetingApp11.13.2025\\Controllers\\Controller.cs",
+              "RelativeToolTip": "MetingApp11.13.2025\\Controllers\\Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T13:36:00.058Z",
               "EditorCaption": ""
@@ -57,27 +57,27 @@
               "RelativeDocumentMoniker": "MetingApp11.13.2025\\Helpers\\Helpers.cs",
               "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\MetingApp11.13.2025\\MetingApp11.13.2025\\Helpers\\Helpers.cs",
               "RelativeToolTip": "MetingApp11.13.2025\\Helpers\\Helpers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T12:26:39.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MeetingSchedule .cs",
               "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\MetingApp11.13.2025\\MetingApp11.13.2025\\Models\\MeetingSchedule .cs",
               "RelativeDocumentMoniker": "MetingApp11.13.2025\\Models\\MeetingSchedule .cs",
               "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\MetingApp11.13.2025\\MetingApp11.13.2025\\Models\\MeetingSchedule .cs",
               "RelativeToolTip": "MetingApp11.13.2025\\Models\\MeetingSchedule .cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwDAAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T13:49:56.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Meeting.cs",
               "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\MetingApp11.13.2025\\MetingApp11.13.2025\\Models\\Meeting.cs",
               "RelativeDocumentMoniker": "MetingApp11.13.2025\\Models\\Meeting.cs",
@@ -90,13 +90,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\MetingApp11.13.2025\\MetingApp11.13.2025\\Program.cs",
               "RelativeDocumentMoniker": "MetingApp11.13.2025\\Program.cs",
               "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\MetingApp11.13.2025\\MetingApp11.13.2025\\Program.cs",
               "RelativeToolTip": "MetingApp11.13.2025\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCkAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T14:48:53.344Z",
               "EditorCaption": ""

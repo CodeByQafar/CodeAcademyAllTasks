@@ -108,7 +108,7 @@ namespace MyApp
             bool isId = int.TryParse(Console.ReadLine(), out id);
             if (!isId)
             {
-                Console.WriteLine("only number");
+                Console.WriteLine("only number ");
                 goto taskId;
 
             }
