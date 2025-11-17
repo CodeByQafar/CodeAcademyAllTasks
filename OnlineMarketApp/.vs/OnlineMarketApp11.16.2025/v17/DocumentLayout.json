@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\OnlineMarketApp\\",
+  "WorkspaceRootPath": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\OnlineMarketApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\onlinemarketapp\\onlinemarketapp11.16.2025\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|solutionrelative:onlinemarketapp11.16.2025\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\onlinemarketapp\\onlinemarketapp11.16.2025\\models\\carditem models\\cartitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|solutionrelative:onlinemarketapp11.16.2025\\models\\carditem models\\cartitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\onlinemarketapp\\onlinemarketapp11.16.2025\\models\\onlinemarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|solutionrelative:onlinemarketapp11.16.2025\\models\\onlinemarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\onlinemarketapp\\onlinemarketapp11.16.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\onlinemarketapp\\onlinemarketapp11.16.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|solutionrelative:onlinemarketapp11.16.2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\onlinemarketapp\\onlinemarketapp11.16.2025\\models\\common\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\onlinemarketapp\\onlinemarketapp11.16.2025\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|solutionrelative:onlinemarketapp11.16.2025\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\onlinemarketapp\\onlinemarketapp11.16.2025\\models\\carditem models\\cartitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|solutionrelative:onlinemarketapp11.16.2025\\models\\carditem models\\cartitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\onlinemarketapp\\onlinemarketapp11.16.2025\\models\\onlinemarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|solutionrelative:onlinemarketapp11.16.2025\\models\\onlinemarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\onlinemarketapp\\onlinemarketapp11.16.2025\\models\\common\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|solutionrelative:onlinemarketapp11.16.2025\\models\\common\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\onlinemarketapp\\onlinemarketapp11.16.2025\\models\\product models\\productlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\onlinemarketapp\\onlinemarketapp11.16.2025\\models\\product models\\productlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|solutionrelative:onlinemarketapp11.16.2025\\models\\product models\\productlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\onlinemarketapp\\onlinemarketapp11.16.2025\\models\\carditem models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\onlinemarketapp\\onlinemarketapp11.16.2025\\models\\carditem models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|solutionrelative:onlinemarketapp11.16.2025\\models\\carditem models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\onlinemarketapp\\onlinemarketapp11.16.2025\\models\\product models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\onlinemarketapp\\onlinemarketapp11.16.2025\\models\\product models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DB60871-F5F0-428D-AC30-8228ACD108EC}|OnlineMarketApp11.16.2025\\OnlineMarketApp11.16.2025.csproj|solutionrelative:onlinemarketapp11.16.2025\\models\\product models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,15 +42,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\CardItem Models\\CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\CardItem Models\\CartItem.cs",
               "RelativeDocumentMoniker": "OnlineMarketApp11.16.2025\\Models\\CardItem Models\\CartItem.cs",
-              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\CardItem Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\CardItem Models\\CartItem.cs",
               "RelativeToolTip": "OnlineMarketApp11.16.2025\\Models\\CardItem Models\\CartItem.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\Product Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\Product Models\\Product.cs",
               "RelativeDocumentMoniker": "OnlineMarketApp11.16.2025\\Models\\Product Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\Product Models\\Product.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\Product Models\\Product.cs",
               "RelativeToolTip": "OnlineMarketApp11.16.2025\\Models\\Product Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -70,11 +70,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CartItemList.cs",
-              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\CardItem Models\\CartItemList.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\CardItem Models\\CartItemList.cs",
               "RelativeDocumentMoniker": "OnlineMarketApp11.16.2025\\Models\\CardItem Models\\CartItemList.cs",
-              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\CardItem Models\\CartItemList.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\CardItem Models\\CartItemList.cs",
               "RelativeToolTip": "OnlineMarketApp11.16.2025\\Models\\CardItem Models\\CartItemList.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,9 +84,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "BaseModel.cs",
-              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\Common\\BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\Common\\BaseModel.cs",
               "RelativeDocumentMoniker": "OnlineMarketApp11.16.2025\\Models\\Common\\BaseModel.cs",
-              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\Common\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\Common\\BaseModel.cs",
               "RelativeToolTip": "OnlineMarketApp11.16.2025\\Models\\Common\\BaseModel.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -96,9 +96,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ProductList.cs",
-              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\Product Models\\ProductList.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\Product Models\\ProductList.cs",
               "RelativeDocumentMoniker": "OnlineMarketApp11.16.2025\\Models\\Product Models\\ProductList.cs",
-              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\Product Models\\ProductList.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\Product Models\\ProductList.cs",
               "RelativeToolTip": "OnlineMarketApp11.16.2025\\Models\\Product Models\\ProductList.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAA8wBUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -106,11 +106,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Controller.cs",
-              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Controllers\\Controller.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Controllers\\Controller.cs",
               "RelativeDocumentMoniker": "OnlineMarketApp11.16.2025\\Controllers\\Controller.cs",
-              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Controllers\\Controller.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Controllers\\Controller.cs",
               "RelativeToolTip": "OnlineMarketApp11.16.2025\\Controllers\\Controller.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAowBcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,11 +119,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "OnlineMarket.cs",
-              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\OnlineMarket.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\OnlineMarket.cs",
               "RelativeDocumentMoniker": "OnlineMarketApp11.16.2025\\Models\\OnlineMarket.cs",
-              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\OnlineMarket.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Models\\OnlineMarket.cs",
               "RelativeToolTip": "OnlineMarketApp11.16.2025\\Models\\OnlineMarket.cs",
               "ViewState": "AgIAAGEAAAAAAAAAAAAcwGoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,15 +131,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Program.cs",
               "RelativeDocumentMoniker": "OnlineMarketApp11.16.2025\\Program.cs",
-              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Program.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\OnlineMarketApp\\OnlineMarketApp11.16.2025\\Program.cs",
               "RelativeToolTip": "OnlineMarketApp11.16.2025\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAgwDMAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T10:27:58.258Z"
+              "WhenOpened": "2025-11-16T10:27:58.258Z",
+              "EditorCaption": ""
             }
           ]
         }

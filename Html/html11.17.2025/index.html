@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {}
+
+        table {
+            border: 0px;
+        }
+
+        body {
+            padding-bottom: 200px;
+        }
+
+        th,
+        td {
+            border: 1px solid;
+            padding: 5px;
+            text-align: center;
+        }
+
+        th {
+            font-weight: bolder;
+        }
+
+        table {
+            border-collapse: collapse;
+        }
+    </style>
+</head>
+
+<body>
+    <table>
+        <tr>
+            <th>No.</th>
+            <th>Full Name</th>
+            <th>Position</th>
+            <th>Salary</th>
+            <th>Type</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Ridvan</td>
+            <td>25</td>
+            <td>25</td>
+            <td rowspan="4">Company Founder</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Veli</td>
+            <td>25</td>
+            <td>23</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Kazim</td>
+            <td>25</td>
+            <td>30</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Tebriz</td>
+            <td>25</td>
+            <td>30</td>
+        </tr>
+        <tr>
+            <td colspan="3"> Total Expense</td>
+            <td>108</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <ul>
+        <li>Test1</li>
+        <li>Test1</li>
+        <ul>
+            <li>Test2-1</li>
+            <li>Test2-2</li>
+            <li>Test2-3</li>
+        </ul>
+        <li>Test3</li>
+        <li>Test4</li>
+        <ul>
+            <li>Test4-1</li>
+            <li>Test4-2</li>
+            <ul>
+                <li>Test4-2-1</li>
+                <li>Test4-2-2</li>
+                <li>Test4-2-3</li>
+            </ul>
+            <li>Test4-3</li>
+            <ul>
+                <li>Test4-3-1</li>
+                <li>Blog-3-2</li>
+
+            </ul>
+        </ul>
+    </ul>
+
+    <hr>
+
+
+    <table>
+        <tr>
+            <th>Column 1</th>
+            <th>Column 2</th>
+            <th>Column 3</th>
+        </tr>
+        <tr>
+            <td rowspan="2">Row 1 cell 1</td>
+            <td>Row 1 cell 2</td>
+            <td>Row 1 cell 3</td>
+
+        </tr>
+        <tr>
+
+            <td>Row 2 cell 2</td>
+            <td>Row 2 cell 3</td>
+
+        </tr>
+        <tr>
+            <td colspan="3">Row 3cell 1</td>
+        </tr>
+    </table>
+    <hr>
+
+    <table>
+        <tr>
+            <th rowspan="3">Day</th>
+            <th colspan="3">Seminar</th>
+        </tr>
+        <tr>
+            <td colspan="2">Schedule</td>
+            <td rowspan="2">Topic</td>
+        </tr>
+        <tr>
+            <td>Begin</td>
+            <td>end</td>
+
+        </tr>
+        <tr>
+            <td rowspan="2">Monday</td>
+            <td rowspan="2">8:00 a.m</td>
+            <td rowspan="2">5:00 p.m</td>
+            <td>Introdoctuon to xml</td>
+
+        </tr>
+        <tr>
+            <td>Validity DTD and Relax NG</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Tuesday</td>
+            <td>8:00 p.m</td>
+            <td>11:00 pm</td>
+
+            <td>X Path</td>
+        </tr>
+        <tr>
+            <td>11:00 pm</td>
+            <td>11:00 pm</td>
+            <td rowspan="2">Xsl trasnformation</td>
+        </tr>
+        <tr>
+            <td>11:00 pm</td>
+            <td>11:00 pm</td>
+
+        </tr>
+        <tr>
+            <td>Wednesday</td>
+            <td>11:00 pm</td>
+            <td>11:00 pm</td>
+            <td>X Formatin object</td>
+        </tr>
+    </table>
+
+
+
+    <hr>
+    <form>
+        <br>
+        name: <input>
+        <br>
+        Fav number: <input>
+        <br>
+        email: <input>
+        <br>
+        password: <input>
+        <br>
+        gender: <input type="radio">
+        female: <input type="radio" name="asfas" id="">
+        male<input type="radio" name="asfas" id="">
+        samsung galaxy s23<input type="radio" name="asfas" id="">
+        <br>
+        COuntry: <select name="" id="">
+            <option>usa</option>
+        </select>
+        <br>
+        message:
+        <br><textarea name="message" cols="30" rows="10">asdasd</textarea>
+        <br>Subscribe to newteller <input type="checkbox">
+        <br>
+        upload file <input type="file">
+        <br> birthdate <input type="date">
+        <br> favorite color <input type="color">
+        <br>
+        personal wepsite: <input>
+        <br>
+        <button>submit</button>
+        <button>Reset</button>
+    </form>
+</body>
+
+</html>

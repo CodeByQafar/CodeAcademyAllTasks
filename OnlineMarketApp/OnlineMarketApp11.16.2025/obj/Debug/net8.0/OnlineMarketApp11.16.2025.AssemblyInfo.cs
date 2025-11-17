@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnlineMarketApp11.16.2025")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4e1ad93fca3ddce940a0739049ade21f9056a1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e68f2c6ce3027f3f3c3fc58140ba7dffd487e27a")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnlineMarketApp11.16.2025")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnlineMarketApp11.16.2025")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

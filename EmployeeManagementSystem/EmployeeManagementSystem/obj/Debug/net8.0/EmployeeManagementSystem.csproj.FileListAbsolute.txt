@@ -1,0 +1,15 @@
+C:\Users\II novbe\Desktop\CodeAcademyAllTasks\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.exe
+C:\Users\II novbe\Desktop\CodeAcademyAllTasks\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.deps.json
+C:\Users\II novbe\Desktop\CodeAcademyAllTasks\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\II novbe\Desktop\CodeAcademyAllTasks\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.dll
+C:\Users\II novbe\Desktop\CodeAcademyAllTasks\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.pdb
+C:\Users\II novbe\Desktop\CodeAcademyAllTasks\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\CodeAcademyAllTasks\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\CodeAcademyAllTasks\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\CodeAcademyAllTasks\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\CodeAcademyAllTasks\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.sourcelink.json
+C:\Users\II novbe\Desktop\CodeAcademyAllTasks\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.dll
+C:\Users\II novbe\Desktop\CodeAcademyAllTasks\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\refint\EmployeeManagementSystem.dll
+C:\Users\II novbe\Desktop\CodeAcademyAllTasks\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.pdb
+C:\Users\II novbe\Desktop\CodeAcademyAllTasks\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\CodeAcademyAllTasks\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\ref\EmployeeManagementSystem.dll
