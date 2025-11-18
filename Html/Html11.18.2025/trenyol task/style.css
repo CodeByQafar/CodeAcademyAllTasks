@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.ItemCard {
+    margin: 20px;
+    width: 40%;
+    height: 70%;
+    display: block;
+    border-radius: 20px;
+    padding: 0px 0px;
+    border: 1px solid black;
+    box-shadow: 1px 1px 8px 0px rgba(0, 0, 0, 0.103);
+
+}
+
+
+.ItemCard img {
+    border-radius: 20px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.line {
+    text-align: center;
+    height: 20px;
+    padding: 5px 10px;
+    margin: 20px 0px;
+    background: linear-gradient(to right bottom,
+            #FF581E,
+            #E53935);
+}

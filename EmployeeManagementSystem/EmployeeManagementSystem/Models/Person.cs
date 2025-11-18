@@ -1,12 +1,32 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using EmployeeManagementSystem_Exceptions;
+
 
 namespace EmployeeManagementSystem.Models
 {
-    internal class Person
+    public abstract class Person
     {
+        public int Id;
+        public string Name;
+
+        public Person(int id, string name)
+        {
+            Id = id;
+            if (string.IsNullOrEmpty(name))
+            {
+                throw new NameEmptyException("Name can't be null");
+            }
+            else if (name.Length < 3 || name.Length > 25)
+            {
+                throw new NameLengthException("Name must contain 3-25 character");
+            }
+            else
+            {
+                Name = name;
+            }
+
+
+        }
+
+
     }
 }

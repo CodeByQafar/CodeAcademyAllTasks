@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace EmployeeManagementSystem.Interfaces
 {
-    internal interface IPrintable
+    public interface IPrintable
     {
+          void PrintInfo();
     }
 }
