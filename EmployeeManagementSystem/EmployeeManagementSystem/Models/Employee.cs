@@ -26,9 +26,8 @@ namespace EmployeeManagementSystem.Models
         }
         public void PrintInfo()
         {
-            Helper.ConsolWriteLine(ConsoleColor.DarkGreen, $"\n" +
-                         $"Employee Information:\n" +
-                         $"-----------------------\n" +
+            Helper.ConsolWriteLine(ConsoleColor.DarkGreen, 
+                         $"\n" +
                          $"ID: {Id}\n" +
                          $"Name: {Name}\n" +
                          $"Position: {Postion}\n" +
