@@ -1,42 +1,57 @@
 @media (min-width: 1200px) {
-    .intro-image{
-   display: block;
+    .intro-image {
+        display: block;
     }
+
     .intro-section {
         align-items: start;
     }
+
     .buttons {
         display: flex;
         gap: 30px;
         justify-content: start;
         margin: 20px;
-    
-    
+
+
     }
+
     .intro-section {
         text-align: start;
-    
-    
-        padding:70px 20px;
+    padding: 70px 20px;
         background-color: #212529;
-    
+
     }
+
+    .intro-section h3 {
+        margin: 20px;
+        width: auto;
+        max-width: 600px;
+        text-align: start;
+    }
+
     .info-text {
-        width: 500;
-      align-items: start;
+        padding-top: 20px;
+        align-items: start;
     }
-    .intro-section h1{
+
+    .intro-section h1 {
         margin: 20px;
     }
+
     .intro-section h3 {
         opacity: 60%;
-        font-size: 150%;
+        font-size: 1.25rem;
         font-weight: 100;
-        
-       
-     
         text-align: start;
         align-items: start;
     }
-    
+
+    .intro-image {
+        width: 500px;
+        height: auto;
+    }
+
+
+ 
 }
