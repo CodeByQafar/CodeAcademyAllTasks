@@ -1,0 +1,29 @@
+[
+  {
+    "Postion": 3,
+    "HireDate": "2025-11-20T16:29:32.4628129+04:00",
+    "Salary": 1500.0,
+    "Department": "HR",
+    "WorkInfo": {},
+    "Id": 1,
+    "Name": "Aysel"
+  },
+  {
+    "Postion": 1,
+    "HireDate": "2025-11-20T16:29:32.5997417+04:00",
+    "Salary": 1800.0,
+    "Department": "IT",
+    "WorkInfo": {},
+    "Id": 2,
+    "Name": "Murad"
+  },
+  {
+    "Postion": 2,
+    "HireDate": "2025-11-20T16:29:32.6001138+04:00",
+    "Salary": 1200.0,
+    "Department": "Design",
+    "WorkInfo": {},
+    "Id": 3,
+    "Name": "Aysel"
+  }
+]

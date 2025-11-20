@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cHIZHJgrqVY=",
+  "dgSpecHash": "W2CZDxGD12U=",
   "success": true,
   "projectFilePath": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\II novbe\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

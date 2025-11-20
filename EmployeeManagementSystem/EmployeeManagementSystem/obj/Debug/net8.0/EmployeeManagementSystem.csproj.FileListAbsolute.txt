@@ -13,3 +13,6 @@ C:\Users\II novbe\Desktop\CodeAcademyAllTasks\EmployeeManagementSystem\EmployeeM
 C:\Users\II novbe\Desktop\CodeAcademyAllTasks\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.pdb
 C:\Users\II novbe\Desktop\CodeAcademyAllTasks\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.genruntimeconfig.cache
 C:\Users\II novbe\Desktop\CodeAcademyAllTasks\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\ref\EmployeeManagementSystem.dll
+C:\Users\II novbe\Desktop\CodeAcademyAllTasks\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\II novbe\Desktop\CodeAcademyAllTasks\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\CodeAcademyAllTasks\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net8.0\Employee.A4622930.Up2Date

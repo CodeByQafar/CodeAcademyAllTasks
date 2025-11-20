@@ -1,13 +1,15 @@
-﻿namespace MyApp
+﻿using EmployeeManagementSystem.Controller;
+using EmployeeManagementSystem_Enums;
+using EmployeeManagementSystem_Models;
+using EmployeeManagementSystem_Services;
+
+namespace MyApp
 {
-    class Program
+    internal class Program
     {
-
-
-        static void Main()
+        static void Main(string[] args)
         {
-          
+            Controller.ShowMenu();
         }
-
     }
 }

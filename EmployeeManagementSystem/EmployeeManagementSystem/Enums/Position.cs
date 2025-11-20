@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EmployeeManagementSystem.Models
+namespace EmployeeManagementSystem_Enums
 {
     public enum Positon
     {

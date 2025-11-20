@@ -1,12 +1,12 @@
 ﻿using EmployeeManagementSystem_Exceptions;
 
 
-namespace EmployeeManagementSystem.Models
+namespace EmployeeManagementSystem_Models
 {
     public abstract class Person
     {
-        public int Id;
-        public string Name;
+        public int Id { get; set; }
+        public string Name{ get; set; }
 
         public Person(int id, string name)
         {
