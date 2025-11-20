@@ -1,0 +1,118 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+.up-line {
+    border: 3px solid rgb(220 57 45);
+}
+
+.nav-menu li {
+    list-style: none;
+    display: inline;
+    opacity: 70%;
+    margin: 0px 5px;
+}
+
+.nav-menu li:hover {
+    opacity: 100%;
+
+    transition: 400ms;
+}
+
+nav {
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    padding: 20px;
+    background-color: #212529;
+}
+
+.site-name {
+    font-size: 30px;
+
+}
+
+.intro-section {
+    text-align: center;
+
+
+    padding:70px 20px;
+    background-color: #212529;
+
+}
+
+.intro-section h1 {
+    display: block;
+
+    font-size: 300%;
+
+    margin-bottom: 20px;
+}
+
+.info-text {
+    width: 500;
+    margin: 0 auto;
+}
+
+.intro-section h3 {
+    opacity: 60%;
+    font-size: 150%;
+    font-weight: 100;
+    width: 70%;
+    max-width: 700px;
+    margin: 0px auto;
+    text-align: center;
+    align-items: center;
+}
+
+.buttons {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin: 20px;
+
+
+}
+
+.start-button {
+    border-radius: 15px;
+    padding: 15px 30px;
+    border: 1px #0d6efd solid;
+    background-color: #0d6efd;
+    color: white;
+
+}
+
+.more-button {
+    border-radius: 15px;
+    padding: 15px 30px;
+    background-color: transparent;
+    border: 1px white solid;
+    color: white;
+}
+.more-button:hover{
+    color: black;
+    transition: 400ms;
+    background-color: white;
+}
+button {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+
+.intro{
+    display: flex;
+
+}
+
+
+.intro-image{
+    display: none;
+     }
