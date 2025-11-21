@@ -55,3 +55,41 @@
 
  
 }
+
+
+@media (max-width: 1200px) {
+
+    .double-card-tiles {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+
+        padding: 40px;
+        color: black;
+    }
+
+    .card-tiles {
+        display: inline;
+        padding-right: 40px;
+        justify-content: space-between;
+        gap: 100px;
+    }
+
+    .card-tiles h1 {
+        margin-left: 40px;
+        margin-top: 20px;
+    }
+}
+@media (min-width: 990px) {
+
+.menu{
+    display: block;
+     color: white;
+    padding: 15px;
+     border-radius: 12px;
+    border: 1px 
+    solid white;
+  
+}
+
+
+}

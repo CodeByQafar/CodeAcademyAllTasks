@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: white;
     background-color: white;
 }
@@ -45,14 +45,14 @@ nav {
 }
 
 .intro-section h1 {
-    font-size: 3rem;
+    font-size: 2.7rem;
     margin-bottom: 20px;
 }
 
 .info-text {
     width: 600px;
     max-width: 100%;
-    margin: 0 auto;
+
 }
 
 .intro-section h3 {
@@ -101,6 +101,8 @@ button {
 
 .intro {
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .intro-image {
@@ -110,67 +112,94 @@ button {
 
 /* card tiles*/
 
-.card-tiles{
-display: flex;
-justify-content: center;
-gap: 100px;
+.card-tiles {
+    display: flex;
+    justify-content: center;
+    padding: 60px;
+    gap: 190px;
 }
-.card-tiles h1{
+
+.card-tiles h1 {
     color: black;
-    font-size: 35px;
-    margin:10px 20px;
-    margin-top:  30px;
+    font-size: 32px;
+    margin-left: 20px;
+    margin-top: 20px;
+
+
 }
-.card-tiles h2{
+
+.card-tiles h2 {
     color: black;
     opacity: 80%;
-    font-size: 30px;
-    margin:  10px 0px;
-    
+    font-size: 20px;
+    margin: 10px 0px;
+
 }
-.card-tiles i{
-   background-color:  #1271fd;
-   color: white;
-   padding: 17px;
-   border-radius: 15px;
+
+.card-tiles i {
+    background-color: #1271fd;
+    color: white;
+    padding: 12px;
+    border-radius: 15px;
     font-size: 24px;
 }
-.card-tiles p{
+
+.card-tiles p {
     color: black;
-    font-size: 20px;
+    font-size: 16px;
     max-width: 400px;
 }
-.double-card-tiles{
- display: grid;
-    grid-template-columns: repeat(2, 1fr); 
-   gap: 40px;
+
+.double-card-tiles {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
     margin-top: 30px;
     color: black;
 }
-@media (max-width: 1200px) {
-
-   .double-card-tiles {
-        display: grid;
-        grid-template-columns: repeat(1, 1fr);
-        gap: 40px;
-        margin-top: 30px;
-        color: black;
-    }
-
-}
 
 
-.desciription-text{
+.desciription-text {
     text-align: center;
-    margin: 50px 20px;
-    padding: 90px 0px;
-  background-color: #f8f9fa;
+    margin: 50px 0px;
+    padding-bottom: 60px;
+    padding-top: 70px;
+    background-color: #f8f9fa;
 }
-.desciription-text p{
+
+.description-pararaph {
     max-width: 600px;
     opacity: 0.8;
     color: black;
-    font-size: 35px;
+    font-size: 24px;
     margin: 0 auto;
-  
+
+}
+
+
+.menu {
+    display: none;
+}
+
+.description-bottom-text {
+    display: flex;
+    margin: 20px 00px;
+    gap: 20px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.description-bottom-text i {
+    color: blue;
+}
+
+.description-bottom-text p {
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.description-bottom-text img{
+    border-radius: 50%;
 }
