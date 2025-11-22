@@ -1,39 +1,112 @@
+@media (max-width: 340px) {
+    .card-top-image {
+        width: 250px !important;
+    }
+
+   
+}
+
 @media (max-width: 480px) {
     .double-card-tiles {
         display: grid;
-        grid-template-columns: repeat(1, 1fr);
+        grid-template-columns: repeat(1, 1fr) !important;
         padding: 40px;
         color: black;
     }
-    .menu{
-        display: block; 
+
+    .menu {
+        display: block;
         color: white;
-        padding: 15px; 
+        padding: 15px;
         border-radius: 12px;
-        border: 1px 
-        solid white;
-      
+        border: 1px solid white;
+
     }
-    
-    .nav-menu{
+
+    .nav-menu {
         display: none;
     }
+
+    .card-top-image {
+        width: 300px;
+    }
+
+   
 }
 
 
 @media (max-width: 990px) {
- 
-    .menu{
-        display: block; 
+
+    .menu {
+        display: block;
         color: white;
-        padding: 15px; 
+        padding: 15px;
         border-radius: 12px;
-        border: 1px 
-        solid white;
-      
+        border: 1px solid white;
     }
-    
-    .nav-menu{
+
+    .nav-menu {
         display: none;
     }
+
+    .form {
+        padding: 50px 20px;
+        width: 80%;
+        display: block;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+
+    }
+
+    .input input {
+
+        width: 250px !important;
+    }
+
+    .form-texts {
+        margin-bottom: 20px;
+    }
+
+    .footer-line {
+        background-color: rgb(33, 37, 41);
+        color: white;
+        display: block;
+        padding: 35px 0px;
+        text-align: center;
+        justify-content: center;
+    }
+.footer-line ul {
+   
+    display: flex;
+    list-style: none    ;
+    text-align: center;
+    justify-content: center;
+
+}
+
+    .footer-line a {
+text-align: center;
+margin-top: 10px;
+        margin-right: 10px;
+    }
+}
+
+
+@media (max-width: 1000px) {
+    .form {
+        width: 80%;
+        margin: 20px auto 40px auto;
+        display: block;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+
+    }
+
+    .form-texts {
+        margin-bottom: 20px;
+    }
+
+
 }
