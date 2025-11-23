@@ -1,38 +1,38 @@
 [
   {
-    "Postion": 3,
-    "HireDate": "2025-11-20T17:09:11.7804539+04:00",
-    "Salary": 1500.0,
-    "Department": "HR",
+    "Postion": 0,
+    "HireDate": "2025-11-23T20:40:15.3146826+04:00",
+    "Salary": 2500.0,
+    "Department": "It",
     "WorkInfo": {
-      "OfficeNumber": 101,
-      "Floor": 3
+      "OfficeNumber": 23,
+      "Floor": 12
     },
     "Id": 1,
-    "Name": "Aysel"
+    "Name": "Vuqar Celilov"
   },
   {
     "Postion": 1,
-    "HireDate": "2025-11-20T17:09:11.9329247+04:00",
-    "Salary": 1800.0,
-    "Department": "IT",
+    "HireDate": "2025-11-23T20:40:56.9909219+04:00",
+    "Salary": 1250.0,
+    "Department": "UX/UI",
     "WorkInfo": {
-      "OfficeNumber": 205,
-      "Floor": 5
+      "OfficeNumber": 45,
+      "Floor": 56
     },
     "Id": 2,
-    "Name": "Murad"
+    "Name": "Aysel Rehimli"
   },
   {
     "Postion": 2,
-    "HireDate": "2025-11-20T17:09:11.933467+04:00",
-    "Salary": 1200.0,
-    "Department": "Design",
+    "HireDate": "2025-11-23T20:51:26.4970238+04:00",
+    "Salary": 3400.0,
+    "Department": "It",
     "WorkInfo": {
-      "OfficeNumber": 310,
-      "Floor": 2
+      "OfficeNumber": 78,
+      "Floor": 89
     },
     "Id": 3,
-    "Name": "Aysel"
+    "Name": "Yehya"
   }
 ]

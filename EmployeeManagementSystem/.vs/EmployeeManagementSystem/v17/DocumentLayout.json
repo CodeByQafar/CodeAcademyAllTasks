@@ -1,89 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\exceptions\\invalidworkinfoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\exceptions\\invalidworkinfoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\exceptions\\invalidpostionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\exceptions\\invalidpostionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\exceptions\\employeenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\exceptions\\employeenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\exceptions\\duplicateemployeeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\exceptions\\duplicateemployeeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\controller\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\controller\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\exceptions\\invalidsortbyoptionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\exceptions\\invalidsortbyoptionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\data\\employyes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\data\\employyes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\data\\employyes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\task.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\task.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\enums\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\enums\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\interfaces\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\interfaces\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\enums\\sortoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\enums\\sortoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\enums\\sortoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\exceptions\\invalidsalaryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\exceptions\\invalidsalaryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\controller\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\controller\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\enums\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\enums\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\exceptions\\duplicateemployeeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\exceptions\\duplicateemployeeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\exceptions\\fileloadexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\exceptions\\invalidworkinfoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\exceptions\\invalidworkinfoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\exceptions\\invalidpostionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\exceptions\\invalidpostionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\exceptions\\employeenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\exceptions\\employeenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\exceptions\\invalidsortbyoptionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\exceptions\\invalidsortbyoptionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\task.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\task.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\interfaces\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\interfaces\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\exceptions\\invalidsalaryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\exceptions\\invalidsalaryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\exceptions\\fileloadexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\exceptions\\fileloadexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\exceptions\\nameemptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\exceptions\\nameemptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\exceptions\\nameemptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\exceptions\\namelengthexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\employeemanagementsystem\\employeemanagementsystem\\exceptions\\namelengthexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00D9F338-333C-487B-8A8B-C96EFE86E719}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\exceptions\\namelengthexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -94,223 +94,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmployeeNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\EmployeeNotFoundException.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Exceptions\\EmployeeNotFoundException.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\EmployeeNotFoundException.cs",
-              "RelativeToolTip": "EmployeeManagementSystem\\Exceptions\\EmployeeNotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T13:36:54.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InvalidPostionException.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\InvalidPostionException.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Exceptions\\InvalidPostionException.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\InvalidPostionException.cs",
-              "RelativeToolTip": "EmployeeManagementSystem\\Exceptions\\InvalidPostionException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T13:13:20.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InvalidWorkInfoException.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\InvalidWorkInfoException.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Exceptions\\InvalidWorkInfoException.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\InvalidWorkInfoException.cs",
-              "RelativeToolTip": "EmployeeManagementSystem\\Exceptions\\InvalidWorkInfoException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T13:39:54.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Program.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Program.cs",
-              "RelativeToolTip": "EmployeeManagementSystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T12:56:39.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Services\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Services\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Services\\EmployeeService.cs",
-              "RelativeToolTip": "EmployeeManagementSystem\\Services\\EmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T13:03:18.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DuplicateEmployeeException.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\DuplicateEmployeeException.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Exceptions\\DuplicateEmployeeException.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\DuplicateEmployeeException.cs",
-              "RelativeToolTip": "EmployeeManagementSystem\\Exceptions\\DuplicateEmployeeException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T13:37:09.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Controller.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controller\\Controller.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Controller\\Controller.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controller\\Controller.cs",
-              "RelativeToolTip": "EmployeeManagementSystem\\Controller\\Controller.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T12:30:19.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "InvalidSortByOptionException.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\InvalidSortByOptionException.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Exceptions\\InvalidSortByOptionException.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\InvalidSortByOptionException.cs",
-              "RelativeToolTip": "EmployeeManagementSystem\\Exceptions\\InvalidSortByOptionException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T10:43:03.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "employyes.json",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Data\\employyes.json",
-              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Data\\employyes.json",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Data\\employyes.json",
-              "RelativeToolTip": "EmployeeManagementSystem\\Data\\employyes.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-20T12:32:47.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\Contact.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Models\\Contact.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\Contact.cs",
-              "RelativeToolTip": "EmployeeManagementSystem\\Models\\Contact.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T13:02:17.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "task.txt",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\task.txt",
-              "RelativeDocumentMoniker": "EmployeeManagementSystem\\task.txt",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\task.txt",
-              "RelativeToolTip": "EmployeeManagementSystem\\task.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-11-16T13:47:36.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\Employee.cs",
-              "RelativeToolTip": "EmployeeManagementSystem\\Models\\Employee.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T13:01:54.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Models\\Person.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\Person.cs",
-              "RelativeToolTip": "EmployeeManagementSystem\\Models\\Person.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T13:01:45.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Position.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Enums\\Position.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Enums\\Position.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Enums\\Position.cs",
-              "RelativeToolTip": "EmployeeManagementSystem\\Enums\\Position.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T13:02:27.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IPrintable.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Interfaces\\IPrintable.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Interfaces\\IPrintable.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Interfaces\\IPrintable.cs",
-              "RelativeToolTip": "EmployeeManagementSystem\\Interfaces\\IPrintable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T13:27:00.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "SortOption.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Enums\\SortOption.cs",
+              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Enums\\SortOption.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem\\Enums\\SortOption.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Enums\\SortOption.cs",
+              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Enums\\SortOption.cs",
               "RelativeToolTip": "EmployeeManagementSystem\\Enums\\SortOption.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAywB0AAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T10:36:24.368Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 2,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controller\\Controller.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Controller\\Controller.cs",
+              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controller\\Controller.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Controller\\Controller.cs",
+              "ViewState": "AgIAAH8BAAAAAAAAAAArwIUBAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T12:30:19.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Models\\Employee.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T13:01:54.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T12:56:39.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Enums\\Position.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Enums\\Position.cs",
+              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Enums\\Position.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Enums\\Position.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAWwAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T13:02:27.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAuwGEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T13:03:18.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "employyes.json",
+              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Data\\employyes.json",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Data\\employyes.json",
+              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Data\\employyes.json",
+              "RelativeToolTip": "EmployeeManagementSystem\\Data\\employyes.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T12:32:47.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DuplicateEmployeeException.cs",
+              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\DuplicateEmployeeException.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Exceptions\\DuplicateEmployeeException.cs",
+              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\DuplicateEmployeeException.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Exceptions\\DuplicateEmployeeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T13:37:09.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\Contact.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Models\\Contact.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T13:02:17.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\Person.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Models\\Person.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T13:01:45.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Helper.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Helpers\\Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Helpers\\Helper.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem\\Helpers\\Helper.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Helpers\\Helper.cs",
+              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Helpers\\Helper.cs",
               "RelativeToolTip": "EmployeeManagementSystem\\Helpers\\Helper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -318,11 +235,83 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvalidWorkInfoException.cs",
+              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\InvalidWorkInfoException.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Exceptions\\InvalidWorkInfoException.cs",
+              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\InvalidWorkInfoException.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Exceptions\\InvalidWorkInfoException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T13:39:54.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InvalidPostionException.cs",
+              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\InvalidPostionException.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Exceptions\\InvalidPostionException.cs",
+              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\InvalidPostionException.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Exceptions\\InvalidPostionException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T13:13:20.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\EmployeeNotFoundException.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Exceptions\\EmployeeNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\EmployeeNotFoundException.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Exceptions\\EmployeeNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T13:36:54.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InvalidSortByOptionException.cs",
+              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\InvalidSortByOptionException.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Exceptions\\InvalidSortByOptionException.cs",
+              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\InvalidSortByOptionException.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Exceptions\\InvalidSortByOptionException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:43:03.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "task.txt",
+              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\task.txt",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\task.txt",
+              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\task.txt",
+              "RelativeToolTip": "EmployeeManagementSystem\\task.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-16T13:47:36.146Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Interfaces\\IPrintable.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Interfaces\\IPrintable.cs",
+              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Interfaces\\IPrintable.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Interfaces\\IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T13:27:00.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "InvalidSalaryException.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\InvalidSalaryException.cs",
+              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\InvalidSalaryException.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem\\Exceptions\\InvalidSalaryException.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\InvalidSalaryException.cs",
+              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\InvalidSalaryException.cs",
               "RelativeToolTip": "EmployeeManagementSystem\\Exceptions\\InvalidSalaryException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -332,9 +321,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "FileLoadException.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\FileLoadException.cs",
+              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\FileLoadException.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem\\Exceptions\\FileLoadException.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\FileLoadException.cs",
+              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\FileLoadException.cs",
               "RelativeToolTip": "EmployeeManagementSystem\\Exceptions\\FileLoadException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -344,9 +333,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "NameEmptyException.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\NameEmptyException.cs",
+              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\NameEmptyException.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem\\Exceptions\\NameEmptyException.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\NameEmptyException.cs",
+              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\NameEmptyException.cs",
               "RelativeToolTip": "EmployeeManagementSystem\\Exceptions\\NameEmptyException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -356,9 +345,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "NameLengthException.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\NameLengthException.cs",
+              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\NameLengthException.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem\\Exceptions\\NameLengthException.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\NameLengthException.cs",
+              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\Exceptions\\NameLengthException.cs",
               "RelativeToolTip": "EmployeeManagementSystem\\Exceptions\\NameLengthException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

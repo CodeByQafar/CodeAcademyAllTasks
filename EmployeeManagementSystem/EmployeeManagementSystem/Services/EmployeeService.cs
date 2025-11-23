@@ -28,7 +28,6 @@ namespace EmployeeManagementSystem_Services
             Employee employee = SearchEmployee(id);
             Employees.Remove(employee);
             SaveToFile();
-
         }
         public static Employee SearchEmployee(int id)
         {
@@ -124,7 +123,7 @@ namespace EmployeeManagementSystem_Services
                 throw new FileNotFoundException("JSON file not found.");
             }
 
-            string json = File.ReadAllText("employees.json");
+            string json = File.ReadAllText(jsonPath);
 
             List<Employee>? loaded = JsonConvert.DeserializeObject<List<Employee>>(json);
 
