@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Suppliers</title>
+ <link rel="stylesheet" href="style.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+
+    <header>
+        <nav> 
+
+            <h1>Supplier</h1>
+            <ul>
+                <li><a href="">Home</a> </li>
+                <li><a href="">Supplier List</a> </li>
+                <li><a href="">Add Supplier</a> </li>
+            </ul>
+        </nav>
+    </header>
+  <div class="container mt-4">
+
+    <div class="table-responsive">
+      <table class="table table-striped table-bordered" id="suppliers-table">
+        <thead class="table-dark">
+          <tr>
+            <th>ID</th>
+            <th>Company Name</th>
+            <th>Contact Name</th>
+            <th>Contact Title</th>
+            <th>Address</th>
+            <th>City</th>
+            <th>Region</th>
+            <th>Postal Code</th>
+            <th>Country</th>
+            <th>Phone</th>
+          </tr>
+        </thead>
+        <tbody>
+
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <script>
+    async function loadSuppliers() {
+      try {
+        const resp = await fetch('https://northwind.vercel.app/api/suppliers');
+        const data = await resp.json();
+        const tbody = document.querySelector('#suppliers-table tbody');
+        tbody.innerHTML = '';
+        data.forEach(s => {
+          const addr = s.address || {};
+          const tr = document.createElement('tr');
+          tr.innerHTML = `
+            <td>${s.id ?? ''}</td>
+            <td>${s.companyName ?? ''}</td>
+            <td>${s.contactName ?? ''}</td>
+            <td>${s.contactTitle ?? ''}</td>
+            <td>${addr.street ?? ''}</td>
+            <td>${addr.city ?? ''}</td>
+            <td>${addr.region ?? ''}</td>
+            <td>${addr.postalCode ?? ''}</td>
+            <td>${addr.country ?? ''}</td>
+            <td>${addr.phone ?? ''}</td>
+          `;
+          tbody.appendChild(tr);
+        });
+      } catch (err) {
+        console.error('Məlumat yüklənmədi:', err);
+      }
+    }
+
+
+    window.addEventListener('DOMContentLoaded', loadSuppliers);
+  </script>
+</body>
+</html>
