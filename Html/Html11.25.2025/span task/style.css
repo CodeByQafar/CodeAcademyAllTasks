@@ -1,0 +1,19 @@
+
+
+
+
+
+.containers{
+    display: flex;
+margin: 20px;
+
+}
+.box{
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    background-color: aqua;
+    height: 40px;
+}
+
+
