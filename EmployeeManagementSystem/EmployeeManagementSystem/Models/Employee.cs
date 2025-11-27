@@ -35,7 +35,9 @@ namespace EmployeeManagementSystem_Models
                          $"Position: {Postion}\n" +
                          $"Salary: {Salary:C} \n" +
                          $"Department: {Department}\n" +
-                         $"Contact: {WorkInfo}");
+                         $"Contact: {WorkInfo}\n" +
+                         $"HireDate: {HireDate}\n"
+                         );
         }
     }
 }

@@ -9,8 +9,8 @@ namespace EmployeeManagementSystem_Models
 {
     public struct Contact
     {
-      public  int OfficeNumber { get; set; }
-     public   int Floor { get; set; }
+        public int OfficeNumber { get; set; }
+        public int Floor { get; set; }
         public Contact(int officeNumber, int floor)
         {
             if (officeNumber == null)
