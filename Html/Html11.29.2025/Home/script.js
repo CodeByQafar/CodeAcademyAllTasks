@@ -7,25 +7,18 @@ const cardsContainer = document.querySelector(".cards-container");
 form.addEventListener("submit", async function (e) {
   e.preventDefault();
 
-  const newCategory = {
+  const newCard = {
     name: nameInput.value,
     description: descInput.value,
   };
 
   try {
-    const res = await axios.post("https://northwind.vercel.app/api/categories", newCategory);
-
-  
-    const created = res.data;
-
-   
-    createCard(created);
-
- 
+    const res = await axios.post("https://northwind.vercel.app/api/categories", newCard);
+    const cardData = res.data;
+    createCard([cardData]);
     nameInput.value = "";
     descInput.value = "";
-
-    console.log("Category created", created);
+    console.log("Card created", cardData);
   } catch (error) {
     console.error("Error:", error);
   }
@@ -33,14 +26,10 @@ form.addEventListener("submit", async function (e) {
 
 
 
-
-
-
-
-async function getCategories() {
+async function getCardDatas() {
   try {
     const res = await fetch("https://northwind.vercel.app/api/categories");
-  const data = await res.json();
+    const data = await res.json();
     console.log(data);
     createCard(data);
   } catch (error) {
@@ -48,28 +37,29 @@ async function getCategories() {
   }
 }
 
-getCategories();
+getCardDatas();
 
 
 
-function createCard(data){
-  let cardsContainer=document.querySelector(".cards-container");
-  data.forEach(cardData=>{
-  let card=document.createElement("div");
+function createCard(data) {
+  let cardsContainer = document.querySelector(".cards-container");
+  data.forEach(cardData => {
+    let card = document.createElement("div");
     card.classList.add(cardData.id);
-   let cardElement=`
+    let cardElement = `
    <div class="card" style="width: 18rem;">
    <div class="card-body">
        <h5 class="card-title">${cardData.name}</h5>
        <p class="card-text">${cardData.description}</p>
        <div style="display:flex; justify-content:center; gap:10px;">
-       <button onClick="deleteCategory(${cardData.id}, this.parentElement.parentElement.parentElement)" class="btn btn-primary bg-danger border">Delete</button>
-       <button class="btn btn-primary">Detail</button>
+       <button onClick="deleteCard(${cardData.id}, this.parentElement.parentElement.parentElement.parentElement)" class="btn btn-primary bg-danger border">Delete</button>
+       <button  class="btn btn-primary"><a href="../Detail/detail.html?id=${cardData.id}">Detail</a></button>
+       
    </div>
    </div>
 </div>`
-   
-    card.innerHTML+=cardElement;
+
+    card.innerHTML += cardElement;
     cardsContainer.appendChild(card);
   })
 
@@ -79,7 +69,7 @@ function createCard(data){
 
 
 
-async function deleteCategory(id, cardElement) {
+async function deleteCard(id, cardElement) {
   try {
     const res = await fetch(`https://northwind.vercel.app/api/categories/${id}`, {
       method: "DELETE",
@@ -87,7 +77,7 @@ async function deleteCategory(id, cardElement) {
 
     if (res.ok) {
       console.log(`${id} card deleted `);
-        cardElement.remove(); 
+      cardElement.remove();
     } else {
       console.log("error");
     }
