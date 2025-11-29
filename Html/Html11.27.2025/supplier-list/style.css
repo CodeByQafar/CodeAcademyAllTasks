@@ -1,0 +1,48 @@
+.loading {
+    display: flex;
+    justify-content: center;
+    height: 650px;
+    align-items: center;
+}
+
+
+.spinner-border {
+    display: block;
+    width: 4rem !important;
+    height: 4rem !important;
+    border-width: 0.4em !important;
+}
+
+.loading-error {
+    color: rgb(224, 224, 224);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 650px;
+}
+
+
+.error-box {
+    display: flex;
+    border-radius: 8px;
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 10px;
+    border: 1px solid red;
+    background-color: rgb(75, 0, 0);
+}
+
+.error-box i {
+    transform: translate(-50, -50);
+    font-size: 25px;
+    height: 100%;
+    margin: auto 0;
+}
+
+.error-box h4 {
+    margin: 0px !important;
+}
+
+.container .mt-4 {}
