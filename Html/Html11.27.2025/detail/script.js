@@ -39,7 +39,7 @@ function createElement(data) {
       <p><b>Street:</b> ${data.address.street}</p>
       <p><b>Phone:</b> ${data.address.phone}</p>
       <p><b>Postal Code:</b> ${data.address.postalCode}</p>
-      <button class="back-button"><a href="../supplier-list/index.html">Back</a></button>
+     <a href="../supplier-list/index.html"> <button class="back-button">Back</button></a>
     </div>
     `;
 
