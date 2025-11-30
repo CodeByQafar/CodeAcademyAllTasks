@@ -2,73 +2,96 @@
 
 async function loadSuppliers() {
     try {
-        let response = await fetch('https://northwind.vercel.app/api/suppliers');
+        let response = await fetch('https://northwind.vercel.app/api/suppliers')
         let data = await response.json()
-      
         craateTabels(data)
+        loadingStatusChange(true)
     }
-    catch (err) {
-// let alert=document.
+    catch (error) {
+        loadingStatusChange(false)
+        console.log(`Error: ${error}`)
     }
 }
 
-function loadingStatusChange() {
-let loading=document.getElementsByClassName(".loading");
-loading.style.display = 'none';
+function loadingStatusChange(isSuccses) {
+    console.log()
+    let loading = document.getElementById("loading");
+    loading.style.display = 'none';
+    if (isSuccses) {
+        let tabel = document.getElementById("table");
+        tabel.style.display = 'flex';
+    }
+    else {
+        let errorCard = document.getElementById("error-card");
+        errorCard.style.display = "flex";
+    }
+
 
 }
 function craateTabels(data) {
-   
-    let table = document.getElementById("suppliers-table")
+
+    let table = document.querySelector("#suppliers-table tbody")
     data.forEach(tableData => {
         const tr = document.createElement("tr")
-        tr.innerHTML += `
-            <td>${s.id ?? ''}</td>
-            <td>${s.companyName ?? ''}</td>
-            <td>${s.contactName ?? ''}</td>
-            <td>${s.contactTitle ?? ''}</td>
-            <td>${addr.street ?? ''}</td>
-            <td>${addr.city ?? ''}</td>
-            <td>${addr.region ?? ''}</td>
-            <td>${addr.postalCode ?? ''}</td>
-            <td>${addr.country ?? ''}</td>
-            <td>${addr.phone ?? ''}</td>
+        tr.innerHTML = `
+            <td>${tableData.id ?? ''}</td>
+            <td>${tableData.companyName ?? ''}</td>
+            <td>${tableData.address.postalCode ?? ''}</td>
+            <td>${tableData.address.country ?? ''}</td>
+            <td>${tableData.address.phone ?? ''}</td>
+            <td><a class="detail" href="../detail/index.html?id=${tableData.id}">Detail</a></td>
+            <td><button data-id="${tableData.id}" class="delete">Delete</button></td>
           `;
+
         table.appendChild(tr)
     })
-      loadingStatusChange();
+    
+    document.querySelector("#suppliers-table tbody")
+        .addEventListener("click", async (e) => {
+            if (e.target.classList.contains("delete")) {
+                let id = e.target.getAttribute("data-id");
+                await deleteSuppliers(id);
+               e.target.parentElement.parentElement.remove()
+            }
+
+        });
+
 }
 
 
-loadSuppliers()
 
-async function loadSuppdsdasliers() {
+
+
+async function deleteSuppliers(id) {
+
+
     try {
-        const resp = await fetch('https://northwind.vercel.app/api/suppliers');
-        const data = await resp.json();
-        const tbody = document.querySelector('#suppliers-table tbody');
-        tbody.innerHTML = '';
-        data.forEach(s => {
-            const addr = s.address || {};
-            const tr = document.createElement('tr');
-            tr.innerHTML = `
-            <td>${s.id ?? ''}</td>
-            <td>${s.companyName ?? ''}</td>
-            <td>${s.contactName ?? ''}</td>
-            <td>${s.contactTitle ?? ''}</td>
-            <td>${addr.street ?? ''}</td>
-            <td>${addr.city ?? ''}</td>
-            <td>${addr.region ?? ''}</td>
-            <td>${addr.postalCode ?? ''}</td>
-            <td>${addr.country ?? ''}</td>
-            <td>${addr.phone ?? ''}</td>
-          `;
-            tbody.appendChild(tr);
+
+        let response = await fetch(`https://northwind.vercel.app/api/suppliers/${id}`, {
+            method: "DELETE",
         });
-    } catch (err) {
-        console.error('Məlumat yüklənmədi:', err);
+        if (response.ok) {
+            console.log("supplier deleted")
+
+        } else {
+            console.log("supplier not deleted")
+        }
+    }
+    catch (error) {
+        console.log(`Error: ${error}`)
     }
 }
+// <td>${tableData.id ?? ''}</td>
+// <td>${tableData.companyName ?? ''}</td>
+// <td>${tableData.contactName ?? ''}</td>
+// <td>${tableData.contactTitle ?? ''}</td>
+// <td>${tableData.address.street ?? ''}</td>
+// <td>${tableData.address.city ?? ''}</td>
+// <td>${tableData.address.region ?? ''}</td>
+// <td>${tableData.address.postalCode ?? ''}</td>
+// <td>${tableData.address.country ?? ''}</td>
+// <td>${tableData.address.phone ?? ''}</td>
+// <td>${tableData.address.phone ?? ''}</td>
 
 
-//window.addEventListener('DOMContentLoaded', loadSuppliers);
+window.addEventListener('DOMContentLoaded', loadSuppliers);

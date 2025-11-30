@@ -1,0 +1,11 @@
+.container {
+    justify-content: center;
+    align-items: center;
+    width: 700px !important;
+}
+
+.btn-primary {
+    background-color: #212529 !important;
+    padding: 10px 30px !important;
+    border: none !important;
+}

@@ -1,12 +1,17 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
 .home-page{
-    align-items: center;
-    display: flex;
-    justify-content: center;
-height: 650px;
+  height: calc(100vh - 150px); 
+  display: flex;
+  align-items: center;      
+  justify-content: center; 
+
 
 }
 
-
-a{
-
-}
