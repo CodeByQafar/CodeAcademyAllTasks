@@ -1,0 +1,12 @@
+﻿@{
+}
+<h1>Home Page</h1>
+
+<ul>
+    @foreach (var p in Model.Products)
+    {
+        <li>
+            <strong>@p.Name</strong> - @p.Price AZN (Discount: @p.DiscountPrice AZN)
+        </li>
+    }
+</ul>
