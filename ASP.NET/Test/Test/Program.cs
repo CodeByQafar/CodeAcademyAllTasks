@@ -4,14 +4,15 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-
             var builder = WebApplication.CreateBuilder(args);
+            builder.Services.AddControllersWithViews();
             var app = builder.Build();
-
-        app.Services.
-
+            app.MapControllerRoute(
+                name:"default",
+                pattern:"{controller=home}/{action=index}/{id=1}"
+                
+                );
             app.Run();
-
         }
     }
 }

@@ -4,8 +4,9 @@ namespace Test.Controllers.Home
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        public IActionResult Index(int id)
         {
+            ViewBag.id = id;
             return View();
         }
     }

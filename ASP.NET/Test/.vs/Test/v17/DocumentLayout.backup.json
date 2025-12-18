@@ -1,10 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\ASP.NET\\Test\\",
+  "WorkspaceRootPath": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6460CD1A-40F5-4D18-AE17-F60F80002835}|Test\\Test.csproj|c:\\users\\qafar\\desktop\\programlar\\qafar projeleri\\repo\\c#\\codeacademyalltasks\\asp.net\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6460CD1A-40F5-4D18-AE17-F60F80002835}|Test\\Test.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\test\\test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6460CD1A-40F5-4D18-AE17-F60F80002835}|Test\\Test.csproj|solutionrelative:test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6460CD1A-40F5-4D18-AE17-F60F80002835}|Test\\Test.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\test\\test\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6460CD1A-40F5-4D18-AE17-F60F80002835}|Test\\Test.csproj|solutionrelative:test\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6460CD1A-40F5-4D18-AE17-F60F80002835}|Test\\Test.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\test\\test\\controllers\\detail\\detailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6460CD1A-40F5-4D18-AE17-F60F80002835}|Test\\Test.csproj|solutionrelative:test\\controllers\\detail\\detailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6460CD1A-40F5-4D18-AE17-F60F80002835}|Test\\Test.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\test\\test\\views\\detail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6460CD1A-40F5-4D18-AE17-F60F80002835}|Test\\Test.csproj|solutionrelative:test\\views\\detail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6460CD1A-40F5-4D18-AE17-F60F80002835}|Test\\Test.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6460CD1A-40F5-4D18-AE17-F60F80002835}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6460CD1A-40F5-4D18-AE17-F60F80002835}|Test\\Test.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\test\\test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6460CD1A-40F5-4D18-AE17-F60F80002835}|Test\\Test.csproj|solutionrelative:test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6460CD1A-40F5-4D18-AE17-F60F80002835}|Test\\Test.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\test\\test\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6460CD1A-40F5-4D18-AE17-F60F80002835}|Test\\Test.csproj|solutionrelative:test\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6460CD1A-40F5-4D18-AE17-F60F80002835}|Test\\Test.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\test\\test\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6460CD1A-40F5-4D18-AE17-F60F80002835}|Test\\Test.csproj|solutionrelative:test\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6460CD1A-40F5-4D18-AE17-F60F80002835}|Test\\Test.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\test\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6460CD1A-40F5-4D18-AE17-F60F80002835}|Test\\Test.csproj|solutionrelative:test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,19 +51,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Test\\Test\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Test\\Test\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Test\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T08:06:38.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Test\\Test\\Views\\Detail\\Index.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Detail\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Test\\Test\\Views\\Detail\\Index.cshtml",
+              "RelativeToolTip": "Test\\Views\\Detail\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T11:52:40.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Test\\Test\\Controllers\\Home\\HomeController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\Home\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Test\\Test\\Controllers\\Home\\HomeController.cs*",
+              "RelativeToolTip": "Test\\Controllers\\Home\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T08:05:33.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Test\\Test\\Controllers\\Detail\\DetailController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\Detail\\DetailController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Test\\Test\\Controllers\\Detail\\DetailController.cs",
+              "RelativeToolTip": "Test\\Controllers\\Detail\\DetailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T11:52:29.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\ASP.NET\\Test\\Test\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Test\\Test\\Program.cs",
               "RelativeDocumentMoniker": "Test\\Program.cs",
-              "ToolTip": "C:\\Users\\Qafar\\Desktop\\Programlar\\Qafar Projeleri\\Repo\\C#\\CodeAcademyAllTasks\\ASP.NET\\Test\\Test\\Program.cs*",
-              "RelativeToolTip": "Test\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Test\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T08:01:06.822Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Test\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T11:44:34.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Test\\Test\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Test\\Test\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Test\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T11:42:44.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Test\\Test\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Test\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Test\\Test\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Test\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-18T11:13:10.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Test.csproj",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Test\\Test\\Test.csproj",
+              "RelativeDocumentMoniker": "Test\\Test.csproj",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Test\\Test\\Test.csproj",
+              "RelativeToolTip": "Test\\Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-18T08:04:37.956Z"
             }
           ]
         }
