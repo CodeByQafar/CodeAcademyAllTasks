@@ -28,3 +28,34 @@ C:\Users\user\Desktop\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\refint\Mode
 C:\Users\user\Desktop\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\ModelViewsTask.pdb
 C:\Users\user\Desktop\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\ModelViewsTask.genruntimeconfig.cache
 C:\Users\user\Desktop\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\ref\ModelViewsTask.dll
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\bin\Debug\net8.0\appsettings.json
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\bin\Debug\net8.0\ModelViewsTask.staticwebassets.endpoints.json
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\bin\Debug\net8.0\ModelViewsTask.exe
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\bin\Debug\net8.0\ModelViewsTask.deps.json
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\bin\Debug\net8.0\ModelViewsTask.runtimeconfig.json
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\bin\Debug\net8.0\ModelViewsTask.dll
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\bin\Debug\net8.0\ModelViewsTask.pdb
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\ModelViewsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\ModelViewsTask.AssemblyInfoInputs.cache
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\ModelViewsTask.AssemblyInfo.cs
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\ModelViewsTask.csproj.CoreCompileInputs.cache
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\ModelViewsTask.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\ModelViewsTask.RazorAssemblyInfo.cache
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\ModelViewsTask.RazorAssemblyInfo.cs
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\ModelViewsTask.sourcelink.json
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\scopedcss\bundle\ModelViewsTask.styles.css
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\ModelViewsTask.dll
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\refint\ModelViewsTask.dll
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\ModelViewsTask.pdb
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\ModelViewsTask.genruntimeconfig.cache
+C:\Users\Qafar\Desktop\Programlar\Qafar Projeleri\Repo\C#\CodeAcademyAllTasks\ASP.NET\ModelViewsTask\ModelViewsTask\obj\Debug\net8.0\ref\ModelViewsTask.dll

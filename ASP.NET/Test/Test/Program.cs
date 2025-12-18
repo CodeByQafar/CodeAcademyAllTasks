@@ -6,12 +6,15 @@ namespace MyApp
         {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
+          
             var app = builder.Build();
+            app.UseStaticFiles();
             app.MapControllerRoute(
                 name:"default",
                 pattern:"{controller=home}/{action=index}/{id=1}"
                 
                 );
+           
             app.Run();
         }
     }
