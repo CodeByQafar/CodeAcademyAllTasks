@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\ProniaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E70A45A-4C6D-46C2-944C-0748CA9744C3}|ProniaApp\\ProniaApp.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\proniaapp\\proniaapp\\proniaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4E70A45A-4C6D-46C2-944C-0748CA9744C3}|ProniaApp\\ProniaApp.csproj|solutionrelative:proniaapp\\proniaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E70A45A-4C6D-46C2-944C-0748CA9744C3}|ProniaApp\\ProniaApp.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\proniaapp\\proniaapp\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E70A45A-4C6D-46C2-944C-0748CA9744C3}|ProniaApp\\ProniaApp.csproj|solutionrelative:proniaapp\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E70A45A-4C6D-46C2-944C-0748CA9744C3}|ProniaApp\\ProniaApp.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\proniaapp\\proniaapp\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E70A45A-4C6D-46C2-944C-0748CA9744C3}|ProniaApp\\ProniaApp.csproj|solutionrelative:proniaapp\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E70A45A-4C6D-46C2-944C-0748CA9744C3}|ProniaApp\\ProniaApp.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\proniaapp\\proniaapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E70A45A-4C6D-46C2-944C-0748CA9744C3}|ProniaApp\\ProniaApp.csproj|solutionrelative:proniaapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E70A45A-4C6D-46C2-944C-0748CA9744C3}|ProniaApp\\ProniaApp.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\proniaapp\\proniaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E70A45A-4C6D-46C2-944C-0748CA9744C3}|ProniaApp\\ProniaApp.csproj|solutionrelative:proniaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E70A45A-4C6D-46C2-944C-0748CA9744C3}|ProniaApp\\ProniaApp.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\proniaapp\\proniaapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E70A45A-4C6D-46C2-944C-0748CA9744C3}|ProniaApp\\ProniaApp.csproj|solutionrelative:proniaapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E70A45A-4C6D-46C2-944C-0748CA9744C3}|ProniaApp\\ProniaApp.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\proniaapp\\proniaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E70A45A-4C6D-46C2-944C-0748CA9744C3}|ProniaApp\\ProniaApp.csproj|solutionrelative:proniaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProniaApp",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\ProniaApp\\ProniaApp\\ProniaApp.csproj",
+              "RelativeDocumentMoniker": "ProniaApp\\ProniaApp.csproj",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\ProniaApp\\ProniaApp\\ProniaApp.csproj",
+              "RelativeToolTip": "ProniaApp\\ProniaApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T10:17:40.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\ProniaApp\\ProniaApp\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProniaApp\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\ProniaApp\\ProniaApp\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "ProniaApp\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:17:39.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\ProniaApp\\ProniaApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProniaApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\ProniaApp\\ProniaApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProniaApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAMEEAAAAAAAAAAAowOEEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T11:47:04.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\ProniaApp\\ProniaApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProniaApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\ProniaApp\\ProniaApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProniaApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T11:46:21.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\ProniaApp\\ProniaApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProniaApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\ProniaApp\\ProniaApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProniaApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANwMAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T11:44:50.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\ProniaApp\\ProniaApp\\Controllers\\Home\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProniaApp\\Controllers\\Home\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\ProniaApp\\ProniaApp\\Controllers\\Home\\HomeController.cs",
+              "RelativeToolTip": "ProniaApp\\Controllers\\Home\\HomeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:41:37.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\ProniaApp\\ProniaApp\\Program.cs",
+              "RelativeDocumentMoniker": "ProniaApp\\Program.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\ProniaApp\\ProniaApp\\Program.cs",
+              "RelativeToolTip": "ProniaApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:33:49.326Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
