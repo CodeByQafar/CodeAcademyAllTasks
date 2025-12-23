@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
+<<<<<<< HEAD
 VisualStudioVersion = 17.14.36804.6 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProniaApp", "ProniaApp\ProniaApp.csproj", "{4E70A45A-4C6D-46C2-944C-0748CA9744C3}"
+=======
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProniaApp", "ProniaApp\ProniaApp.csproj", "{0B36E89D-E11E-4EEA-AC7D-2B3D1AD2DD82}"
+>>>>>>> e0010f2c2514cb938bbcbaabf4c64aea975c0d84
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +17,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
 		{4E70A45A-4C6D-46C2-944C-0748CA9744C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4E70A45A-4C6D-46C2-944C-0748CA9744C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E70A45A-4C6D-46C2-944C-0748CA9744C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E70A45A-4C6D-46C2-944C-0748CA9744C3}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{0B36E89D-E11E-4EEA-AC7D-2B3D1AD2DD82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B36E89D-E11E-4EEA-AC7D-2B3D1AD2DD82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B36E89D-E11E-4EEA-AC7D-2B3D1AD2DD82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B36E89D-E11E-4EEA-AC7D-2B3D1AD2DD82}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> e0010f2c2514cb938bbcbaabf4c64aea975c0d84
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
 		SolutionGuid = {59B58D24-4DF8-4CA8-A1D7-520DA3EA16CB}
+=======
+		SolutionGuid = {14DB92C8-E179-41A4-8446-1EA25FD1A7EB}
+>>>>>>> e0010f2c2514cb938bbcbaabf4c64aea975c0d84
 	EndGlobalSection
 EndGlobal

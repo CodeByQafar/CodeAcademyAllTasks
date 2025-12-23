@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <Project Sdk="Microsoft.NET.Sdk.Web">
+=======
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+>>>>>>> e0010f2c2514cb938bbcbaabf4c64aea975c0d84
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -8,6 +12,14 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.22" />
+<<<<<<< HEAD
+=======
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.22" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.22">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+>>>>>>> e0010f2c2514cb938bbcbaabf4c64aea975c0d84
   </ItemGroup>
 
 </Project>

@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\ProniaApp\\ProniaApp\\ProniaApp.csproj": {}
   },
   "projects": {
@@ -12,12 +13,29 @@
         "projectPath": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\ProniaApp\\ProniaApp\\ProniaApp.csproj",
         "packagesPath": "C:\\Users\\II novbe\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\ProniaApp\\ProniaApp\\obj\\",
+=======
+    "C:\\Users\\user\\Desktop\\mvc\\ProniaApp\\ProniaApp\\ProniaApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\user\\Desktop\\mvc\\ProniaApp\\ProniaApp\\ProniaApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\mvc\\ProniaApp\\ProniaApp\\ProniaApp.csproj",
+        "projectName": "ProniaApp",
+        "projectPath": "C:\\Users\\user\\Desktop\\mvc\\ProniaApp\\ProniaApp\\ProniaApp.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\mvc\\ProniaApp\\ProniaApp\\obj\\",
+>>>>>>> e0010f2c2514cb938bbcbaabf4c64aea975c0d84
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\II novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> e0010f2c2514cb938bbcbaabf4c64aea975c0d84
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -53,6 +71,19 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.22, )"
+<<<<<<< HEAD
+=======
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.22, )"
+>>>>>>> e0010f2c2514cb938bbcbaabf4c64aea975c0d84
             }
           },
           "imports": [
@@ -74,7 +105,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+>>>>>>> e0010f2c2514cb938bbcbaabf4c64aea975c0d84
         }
       }
     }
