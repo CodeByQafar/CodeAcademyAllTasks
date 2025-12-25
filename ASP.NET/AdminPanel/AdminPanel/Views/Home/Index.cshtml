@@ -1,4 +1,6 @@
-﻿@using Test.Models
+﻿@using AdminPanel.ViewModels.Home
+@using Test.Models
+@model HomeVM
       <!-- Begin Slider Area -->
       <div class="slider-area">
         <!-- Main Slider -->
@@ -7,7 +9,7 @@
 
 
 
-            @foreach (Slider data in ViewBag.SliderData as List<Slider>)
+            @foreach (Slider data in Model.Sliders)
             {
                    <div class="swiper-slide animation-style-01">
               <div

@@ -1,11 +1,10 @@
-﻿using System.Text.RegularExpressions;
+﻿using AdminPanel.Models.Base;
+using System.Text.RegularExpressions;
 
 namespace AdminPanel.Models
 {
-    public class Purchace
-
+    public class Purchace: BaseEntitiy
     {
-       public int Id { get; set; }
         public  string Name { get; set; }
         public string StatusReport { get; set; }
         public string Office { get; set; }
