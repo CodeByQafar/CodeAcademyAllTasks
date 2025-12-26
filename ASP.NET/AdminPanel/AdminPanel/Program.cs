@@ -12,12 +12,13 @@ namespace AdminPanel
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<AppDbContext>(opt => {
                 opt.UseSqlServer(
-                "Server=DESKTOP-FJ28S1F\\SQLEXPRESS;" +
+                "Server=(localdb)\\MSSQLLocalDB;" +
                 "Database=ProniaAppAdminDb;" +
                 "Trusted_Connection=True;" +
                 "TrustServerCertificate=True"
             );
-
+                //DESKTOP-V8HRJ0E\LOCALDB#B7605496
+                //DESKTOP-V8HRJ0E\\SQLEXPRESS
             });
             var app = builder.Build();
             app.UseStaticFiles();

@@ -13,9 +13,12 @@ namespace Test.Controllers.Home
             _context = context;
         }
 
+        public  IActionResult Index()
 
-        public IActionResult Index()
         {
+             //_context.Sliders.AddRangeAsync(data);
+             //_context.SaveChangesAsync();
+
             List<Slider> sliders=_context.Sliders.ToList();
   
             HomeVM homeVM = new HomeVM
@@ -28,6 +31,60 @@ namespace Test.Controllers.Home
         }
 
 
-      
+
+//                 List<Slider> data = new List<Slider>
+//         {
+//             new Slider
+//             {
+           
+//                 UpTitle = "YAZ KAMPANIYASI",
+//                 Title = "Gul kolleksiyasi",
+//                 SupTitle = "Yeni sezon guller",
+//                 Order = 2,
+//                 IsDeleted = false,
+//                 ImagePath = "1-1-524x617.png"
+//             },
+//             new Slider
+//             {
+           
+//                 UpTitle = "XUSUSI TEKLIF",
+//                 Title = "Toy gulleri",
+//                 SupTitle = "Xususi dizayn buketler",
+//                 Order = 1,
+//                 IsDeleted = false,
+//                 ImagePath = "1-2-524x617.png"
+//             },
+//             new Slider
+//             {
+           
+//                 UpTitle = "EN COX SATILAN",
+//                 Title = "Dekorativ guller",
+//                 SupTitle = "Ev ve ofis ucun",
+//                 Order = 4,
+//                 IsDeleted = false,
+//                 ImagePath = "1-2-570x633.jpg"
+//             },
+//             new Slider
+//             {
+           
+//                 UpTitle = "YENI MEHSULLAR",
+//                 Title = "Mini buketler",
+//                 SupTitle = "Serfeli qiymetlerle",
+//                 Order = 3,
+//                 IsDeleted = false,
+//                 ImagePath = "1-2-270x300.jpg"
+//             } , new Slider
+//             {
+           
+//                 UpTitle = "TEST MEHSULLAR",
+//                 Title = "Mini buketler",
+//                 SupTitle = "Serfeli qiymetlerle",
+//                 Order = 1,
+//                 IsDeleted = false,
+//                 ImagePath = "1-2-270x300.jpg"
+//             }
+//         };
+
+
     }
 }

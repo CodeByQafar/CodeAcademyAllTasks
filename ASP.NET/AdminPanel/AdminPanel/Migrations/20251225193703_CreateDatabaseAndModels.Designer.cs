@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AdminPanel.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251225104016_CreateDatabaseAndModels")]
+    [Migration("20251225193703_CreateDatabaseAndModels")]
     partial class CreateDatabaseAndModels
     {
         /// <inheritdoc />

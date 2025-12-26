@@ -6,6 +6,6 @@ namespace AdminPanel.ViewModels.Home
     public class HomeVM
     {
         public List<Slider> Sliders { get; set; }
-        public List<Purchace> Purchace { get; set; }
+    
     }
 }
