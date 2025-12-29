@@ -1,5 +1,15 @@
 USE ProniaAppAdminDb
 
+
+
+INSERT INTO Sliders (UpTitle, Title, SupTitle, ImagePath, [Order], IsDeleted)
+VALUES
+('YAZ KAMPANIYASI', 'Gul kolleksiyasi', 'Yeni sezon guller', '1-1-524x617.png', 2, 0),
+('XUSUSI TEKLIF', 'Toy gulleri', 'Xususi dizayn buketler', '1-2-524x617.png', 1, 0),
+('EN COX SATILAN', 'Dekorativ guller', 'Ev ve ofis ucun', '1-2-570x633.jpg', 4, 0),
+('YENI MEHSULLAR', 'Mini buketler', 'Serfeli qiymetlerle', '1-2-270x300.jpg', 3, 0),
+('TEST MEHSULLAR', 'Mini buketler', 'Serfeli qiymetlerle', '1-2-270x300.jpg', 1, 0);
+
 INSERT INTO Purchaces
 (Name, StatusReport, Office, Price, [Date], GrossAmount, IsDeleted)
 VALUES
@@ -24,9 +34,32 @@ VALUES
 
 INSERT INTO Products (Name, Price, Description, SKU, CategoryId, IsDeleted)
 VALUES
-('BagdaGul', 25.23, 'Bagdaki Gul', 'Cs-1.6', 1, 0),
-('DagdaGul', 34.24, 'Dagdaki gul', 'Cs-1.7', 2, 0),
-('EvdeGul', 12.23, 'Evdeki gul', 'CS-1.8', 3, 0);
+-- Category 1 : Bansai
+('BagdaGul', 25.23, 'Bagdaki Gul', 'CS-1.6', 1, 0),
+('MiniBansai', 45.50, 'Mini bansai agaci', 'CS-1.9', 1, 0),
+('DekorBansai', 60.00, 'Dekorativ bansai', 'CS-1.10', 1, 0),
+
+-- Category 2 : House Plants
+('DagdaGul', 34.24, 'Dagdaki gul', 'CS-1.7', 2, 0),
+('EvGuluPlus', 40.00, 'Boyuk ev gulu', 'CS-1.11', 2, 0),
+('YasillikBitkisi', 29.99, 'Ev ucun yasilliq', 'CS-1.12', 2, 0),
+
+-- Category 3 : Indoor Living
+('EvdeGul', 12.23, 'Evdeki gul', 'CS-1.8', 3, 0),
+('MiniDekor', 18.75, 'Kicik dekorativ gul', 'CS-1.13', 3, 0),
+('OfisGulu', 55.00, 'Ofis ucun gul', 'CS-1.14', 3, 0),
+
+-- Category 4 : Perennnials
+('BagGulu', 22.00, 'Bag ucun gul', 'CS-1.15', 4, 0),
+('YazGulu', 27.80, 'Yaz movsumu gulu', 'CS-1.16', 4, 0),
+
+-- Category 6 : Plant For Gift
+('HediyyeGulu', 70.00, 'Hediyye ucun gul', 'CS-1.17', 6, 0),
+('RomantikBuket', 85.00, 'Romantik buket', 'CS-1.18', 6, 0),
+
+-- Category 7 : Garden Tools
+('BagQaychisi', 15.00, 'Bag qaychisi', 'CS-1.19', 7, 0),
+('SuSebeti', 20.00, 'Bag su sebeti', 'CS-1.20', 7, 0);
 
 
 
@@ -40,5 +73,17 @@ VALUES
 ('1-4-570x633.jpg', NULL, 2, 0),
 ('1-1-570x633.jpg', 1, 3, 0),
 ('1-2-570x633.jpg', 0, 3, 0),
+('1-3-570x633.jpg', NULL, 3, 0),
 ('1-1-570x633.jpg', 1, 4, 0),
-('1-2-570x633.jpg', 0, 4, 0);
+('1-2-570x633.jpg', 0, 4, 0),
+('1-1-524x617.png', 1, 6, 0),
+('1-2-524x617.png', 0, 6, 0),
+('1-1920x465.jpg', NULL, 6, 0),
+('1-1-1820x443.jpg', 1, 7, 0),
+('1-1-770x300.jpg', 0, 7, 0),
+('1-4-770x300.jpg', NULL, 7, 0);
+
+
+
+
+
