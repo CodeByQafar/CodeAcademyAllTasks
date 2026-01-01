@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AdminPanel.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251228181834_PurchaceCategoryProductProductImageModelsCrated")]
-    partial class PurchaceCategoryProductProductImageModelsCrated
+    [Migration("20260101151357_DatabaseRecreate")]
+    partial class DatabaseRecreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

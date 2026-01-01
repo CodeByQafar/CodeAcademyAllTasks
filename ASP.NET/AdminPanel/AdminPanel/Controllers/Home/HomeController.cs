@@ -1,6 +1,7 @@
 ﻿using AdminPanel.DAL;
 using AdminPanel.ViewModels.Home;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Test.Models;
 
 namespace Test.Controllers.Home
@@ -19,11 +20,12 @@ namespace Test.Controllers.Home
              //_context.Sliders.AddRangeAsync(data);
              //_context.SaveChangesAsync();
 
-            List<Slider> sliders=_context.Sliders.ToList();
-  
+           
+
             HomeVM homeVM = new HomeVM
             {
-                Sliders = sliders.OrderBy(e => e.Order).ToList()
+                Sliders = _context.Sliders.ToList(),
+                Products = _context.Products.Include(p=>p.ProductImages).ToList()
             };
 
          

@@ -1,6 +1,6 @@
-CREATE DATABASE ProniaAppAdminDb;
+Drop DATABASE ProniaAppDb;
 
-USE ProniaAppAdminDb
+USE ProniaAppDb
 
 SELECT * FROM Sliders
 
@@ -10,5 +10,6 @@ SELECT * FROM Categories
 
 SELECT * FROM ProductImages
 
-Select * FROM Products
+SELECT * FROM Products
+
 

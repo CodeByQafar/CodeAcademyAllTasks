@@ -1,4 +1,4 @@
-USE ProniaAppAdminDb
+USE ProniaAppDb
 
 
 
@@ -53,13 +53,13 @@ VALUES
 ('BagGulu', 22.00, 'Bag ucun gul', 'CS-1.15', 4, 0),
 ('YazGulu', 27.80, 'Yaz movsumu gulu', 'CS-1.16', 4, 0),
 
--- Category 6 : Plant For Gift
-('HediyyeGulu', 70.00, 'Hediyye ucun gul', 'CS-1.17', 6, 0),
-('RomantikBuket', 85.00, 'Romantik buket', 'CS-1.18', 6, 0),
+-- Category 5 : Plant For Gift
+('HediyyeGulu', 70.00, 'Hediyye ucun gul', 'CS-1.17', 5, 0),
+('RomantikBuket', 85.00, 'Romantik buket', 'CS-1.18', 5, 0),
 
--- Category 7 : Garden Tools
-('BagQaychisi', 15.00, 'Bag qaychisi', 'CS-1.19', 7, 0),
-('SuSebeti', 20.00, 'Bag su sebeti', 'CS-1.20', 7, 0);
+-- Category 6 : Garden Tools
+('BagQaychisi', 15.00, 'Bag qaychisi', 'CS-1.19', 6, 0),
+('SuSebeti', 20.00, 'Bag su sebeti', 'CS-1.20', 6, 0);
 
 
 
@@ -86,4 +86,41 @@ VALUES
 
 
 
+INSERT INTO ProductImages (ImageUrl, IsPrimary, ProductId, IsDeleted)
+VALUES
+-- Product 7
+('1-1-570x633.jpg', 1, 7, 0),
+('1-2-570x633.jpg', 0, 7, 0),
+('1-3-570x633.jpg', NULL, 7, 0),
 
+-- Product 8
+('1-2-570x633.jpg', 1, 8, 0),
+('1-3-570x633.jpg', 0, 8, 0),
+('1-4-570x633.jpg', NULL, 8, 0),
+
+-- Product 9
+('1-1-570x633.jpg', 1, 9, 0),
+('1-2-570x633.jpg', 0, 9, 0),
+('1-3-570x633.jpg', NULL, 9, 0),
+
+-- Product 10
+('1-1-570x633.jpg', 1, 10, 0),
+('1-2-570x633.jpg', 0, 10, 0),
+
+-- Product 11
+('1-1-524x617.png', 1, 11, 0),
+('1-2-524x617.png', 0, 11, 0),
+
+-- Product 12
+('1-1-570x633.jpg', 1, 12, 0),
+('1-2-570x633.jpg', 0, 12, 0),
+
+-- Product 13
+('1-2-570x633.jpg', 1, 13, 0),
+('1-3-570x633.jpg', 0, 13, 0),
+
+-- Product 14
+('1-1-570x633.jpg', 1, 14, 0),
+
+-- Product 15
+('1-2-570x633.jpg', 1, 15, 0);
