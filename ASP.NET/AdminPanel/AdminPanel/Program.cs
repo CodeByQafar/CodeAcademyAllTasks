@@ -17,6 +17,8 @@ namespace AdminPanel
 
             var app = builder.Build();
             app.UseStaticFiles();
+            app.UseRouting();         
+            app.UseAuthorization();
 
             app.MapControllerRoute(
              name: "admin",

@@ -13,9 +13,15 @@ namespace AdminPanel.Controllers.Shop
         {
             _context = context;
         }
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            ShopVM shopVM = new ShopVM
+            {
+                Products = _context.Products.Include(p => p.ProductImages).Include(p=>p.Category).ToList()
+            };
+
+
+            return View(shopVM);
         }
         public async Task<IActionResult> Detail(int id)
         {
@@ -24,14 +30,14 @@ namespace AdminPanel.Controllers.Shop
     .Include(p => p.ProductImages)
     .Include(p => p.Category)
     .FirstOrDefaultAsync(p => p.Id == id);
-  ;
-            if (product == null) return NotFound();       
-            List<Product> realatedProducts =  _context.Products.Where(p => p.CategoryId == product.CategoryId).ToList();
+
+            if (product == null) return NotFound();
+            List<Product> realatedProducts =await _context.Products.Include(p=>p.ProductImages).Include(p => p.Category).Where(p => p.CategoryId == product.CategoryId).ToListAsync();
 
             DetailVM detailVM = new DetailVM
             {
                 Product = product,
-                RealetdProducts=realatedProducts
+                RealetdProducts = realatedProducts
 
             };
             return View(detailVM);
