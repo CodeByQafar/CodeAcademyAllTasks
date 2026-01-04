@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\megru\\source\\repos\\SixteenClothing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{578A7149-1B22-4DF8-B621-F9084D938FC1}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\megru\\source\\repos\\sixteenclothing\\sixteenclothing\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578A7149-1B22-4DF8-B621-F9084D938FC1}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578A7149-1B22-4DF8-B621-F9084D938FC1}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\megru\\source\\repos\\sixteenclothing\\sixteenclothing\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{578A7149-1B22-4DF8-B621-F9084D938FC1}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578A7149-1B22-4DF8-B621-F9084D938FC1}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\megru\\source\\repos\\sixteenclothing\\sixteenclothing\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{578A7149-1B22-4DF8-B621-F9084D938FC1}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578A7149-1B22-4DF8-B621-F9084D938FC1}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\megru\\source\\repos\\sixteenclothing\\sixteenclothing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{578A7149-1B22-4DF8-B621-F9084D938FC1}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578A7149-1B22-4DF8-B621-F9084D938FC1}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\megru\\source\\repos\\sixteenclothing\\sixteenclothing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{578A7149-1B22-4DF8-B621-F9084D938FC1}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578A7149-1B22-4DF8-B621-F9084D938FC1}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\megru\\source\\repos\\sixteenclothing\\sixteenclothing\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578A7149-1B22-4DF8-B621-F9084D938FC1}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578A7149-1B22-4DF8-B621-F9084D938FC1}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\megru\\source\\repos\\sixteenclothing\\sixteenclothing\\viewmodels\\shop\\shopvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578A7149-1B22-4DF8-B621-F9084D938FC1}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\viewmodels\\shop\\shopvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578A7149-1B22-4DF8-B621-F9084D938FC1}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\megru\\source\\repos\\sixteenclothing\\sixteenclothing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578A7149-1B22-4DF8-B621-F9084D938FC1}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578A7149-1B22-4DF8-B621-F9084D938FC1}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\megru\\source\\repos\\sixteenclothing\\sixteenclothing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{578A7149-1B22-4DF8-B621-F9084D938FC1}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578A7149-1B22-4DF8-B621-F9084D938FC1}|SixteenClothing\\SixteenClothing.csproj|c:\\users\\megru\\source\\repos\\sixteenclothing\\sixteenclothing\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{578A7149-1B22-4DF8-B621-F9084D938FC1}|SixteenClothing\\SixteenClothing.csproj|solutionrelative:sixteenclothing\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\SixteenClothing\\SixteenClothing\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "SixteenClothing\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\megru\\source\\repos\\SixteenClothing\\SixteenClothing\\Models\\Blog.cs",
+              "RelativeToolTip": "SixteenClothing\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T10:22:20.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\SixteenClothing\\SixteenClothing\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SixteenClothing\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\megru\\source\\repos\\SixteenClothing\\SixteenClothing\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SixteenClothing\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-04T10:20:52.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\SixteenClothing\\SixteenClothing\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SixteenClothing\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\megru\\source\\repos\\SixteenClothing\\SixteenClothing\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SixteenClothing\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-04T10:20:53.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\SixteenClothing\\SixteenClothing\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SixteenClothing\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\megru\\source\\repos\\SixteenClothing\\SixteenClothing\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SixteenClothing\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-04T10:20:52.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\SixteenClothing\\SixteenClothing\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SixteenClothing\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\megru\\source\\repos\\SixteenClothing\\SixteenClothing\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SixteenClothing\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-04T10:20:25.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\SixteenClothing\\SixteenClothing\\ViewModels\\Home\\HomeVM.cs",
+              "RelativeDocumentMoniker": "SixteenClothing\\ViewModels\\Home\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\megru\\source\\repos\\SixteenClothing\\SixteenClothing\\ViewModels\\Home\\HomeVM.cs",
+              "RelativeToolTip": "SixteenClothing\\ViewModels\\Home\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T10:20:16.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShopVM.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\SixteenClothing\\SixteenClothing\\ViewModels\\Shop\\ShopVM.cs",
+              "RelativeDocumentMoniker": "SixteenClothing\\ViewModels\\Shop\\ShopVM.cs",
+              "ToolTip": "C:\\Users\\megru\\source\\repos\\SixteenClothing\\SixteenClothing\\ViewModels\\Shop\\ShopVM.cs",
+              "RelativeToolTip": "SixteenClothing\\ViewModels\\Shop\\ShopVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T10:20:13.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\SixteenClothing\\SixteenClothing\\appsettings.json",
+              "RelativeDocumentMoniker": "SixteenClothing\\appsettings.json",
+              "ToolTip": "C:\\Users\\megru\\source\\repos\\SixteenClothing\\SixteenClothing\\appsettings.json",
+              "RelativeToolTip": "SixteenClothing\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-04T10:20:05.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\SixteenClothing\\SixteenClothing\\Program.cs",
+              "RelativeDocumentMoniker": "SixteenClothing\\Program.cs",
+              "ToolTip": "C:\\Users\\megru\\source\\repos\\SixteenClothing\\SixteenClothing\\Program.cs",
+              "RelativeToolTip": "SixteenClothing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T10:19:41.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\SixteenClothing\\SixteenClothing\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SixteenClothing\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\megru\\source\\repos\\SixteenClothing\\SixteenClothing\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SixteenClothing\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-04T10:18:49.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
