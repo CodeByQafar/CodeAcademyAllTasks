@@ -1,0 +1,43 @@
+﻿@using AdminPanel.Areas.Admin.ViewModels.Slide
+@using AdminPanel.Models
+@using Test.Models
+@model SlideVM
+
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-12 stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <p class="card-title">Recent Purchases</p>
+                        <div class="table-responsive">
+                            <table id="recent-purchases-listing" class="table">
+                                <thead>
+                                    <tr>
+                                        <th>UpTitle</th>
+                                        <th>Title</th>
+                                        <th>SupTitle</th>
+                                        <th>ImagePath</th>
+                                        <th>Order</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (Slider data in Model.sliders)
+                                    {
+                                        <tr>
+                                            <td>@data.UpTitle</td>
+                                            <td>@data.Title</td>
+                                            <td>@data.SupTitle</td>
+                                            <td>@data.ImagePath</td>
+                                            <td>@data.Order</td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- content-wrapper ends -->

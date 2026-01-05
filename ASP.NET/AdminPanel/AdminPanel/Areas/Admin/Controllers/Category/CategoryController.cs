@@ -27,7 +27,6 @@ namespace AdminPanel.Areas.Admin.Controllers.Categoryes
         }
 
 
-        [HttpGet]
         public IActionResult Create()
         {
             return View();
@@ -51,7 +50,76 @@ namespace AdminPanel.Areas.Admin.Controllers.Categoryes
             }
             await _context.Categories.AddAsync(category);
             await _context.SaveChangesAsync();
-            return  RedirectToAction("Index");
+            return RedirectToAction("Index");
+
+        }
+        public IActionResult Detail(int id)
+        {
+            Category? category = _context.Categories.Include(c => c.Products).FirstOrDefault(c => c.Id == id);
+            if (category == null) return NotFound();
+            return View(category);
+        }
+
+
+        public async Task<IActionResult> Update(int? id)
+        {
+
+            if (id < 1 || id == null)
+            {
+                return BadRequest();
+            }
+            Category category = await _context.Categories.FirstOrDefaultAsync(p => p.Id == id);
+            if (category is null)
+            {
+                return NotFound();
+
+            }
+            return View(category);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Update(int? id, Category category)
+        {
+
+            if (id < 1 || id == null)
+            {
+                return BadRequest();
+            }
+            else if (category is null) {
+
+                return NotFound();
+            }
+           Console.WriteLine("Category ID: " + category.Id);
+            Category isCategoryExist =await _context.Categories.FirstOrDefaultAsync(p => p.Id == category.Id);
+          
+            if(isCategoryExist == null)
+            {
+                return NotFound();
+            }
+           if(isCategoryExist.Name== category.Name)
+            {
+                ModelState.AddModelError("Name", "New ctagory name can't be same old name");
+                return View();
+            }
+                bool isExistName = await _context.Categories.AnyAsync(p => p.Name == category.Name);
+
+            if (isExistName)
+            {
+                ModelState.AddModelError("Name", "this name used in other category");
+                return View();
+            }
+            if (!ModelState.IsValid)
+            {
+                return View();
+
+            }
+
+            isCategoryExist.Name= category.Name;
+                await _context.SaveChangesAsync();
+                return RedirectToAction("Index");
+
+  
+            //Category category = await _context.Categories.FirstOrDefaultAsync(p => p.Id == id);
           
         }
 
@@ -63,11 +131,6 @@ namespace AdminPanel.Areas.Admin.Controllers.Categoryes
             _context.SaveChanges();
             return RedirectToAction("Index");
         }
-        public IActionResult Detail(int id)
-        {
-            Category? category = _context.Categories.Include(c => c.Products).FirstOrDefault(c => c.Id == id);
-            if (category == null) return NotFound();
-            return View(category);
-        }
+
     }
 }

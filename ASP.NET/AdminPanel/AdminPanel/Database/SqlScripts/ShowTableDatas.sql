@@ -1,4 +1,4 @@
-Drop DATABASE ProniaAppDb;
+USE ProniaAppAdminDb
 
 USE ProniaAppDb
 

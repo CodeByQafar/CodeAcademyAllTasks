@@ -1,7 +1,6 @@
 ﻿@using AdminPanel.Models
 @model Category
 
-
 <div class="row">
     <div class="col-12 grid-margin stretch-card">
         <div class="card">
@@ -9,36 +8,25 @@
                 <table class="table table-striped">
                     <thead>
                         <tr>
-                           
                             <th>
                                 Name
                             </th>
                             <th>
                                 Product Count
                             </th>
-                        
-
                         </tr>
                     </thead>
                     <tbody>
-                     
-                    
-                            <tr>
-                            
-                                <td>
-                                    @Model.Name
-                                </td>
-                                <td>
-                                    <div>
+                        <tr>
+                            <td>
+                                @Model.Name
+                            </td>
+                            <td>
+                                <div>
                                     @Model.Products.Count
-                                    </div>
-                                </td>
-                              
-                            </tr>
-                      
-
-
-
+                                </div>
+                            </td>
+                        </tr>
                     </tbody>
                 </table>
             </div>

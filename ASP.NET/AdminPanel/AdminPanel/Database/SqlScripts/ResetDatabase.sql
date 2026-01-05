@@ -1,4 +1,5 @@
 USE ProniaAppAdminDb;
+USE ProniaAppAdminDb
 
 TRUNCATE TABLE Sliders
 
