@@ -2,6 +2,7 @@
 using AdminPanel.DAL;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
 using Test.Models;
 
 namespace AdminPanel.Areas.Admin.Controllers.Slide
@@ -25,9 +26,43 @@ namespace AdminPanel.Areas.Admin.Controllers.Slide
             };
             return View(slideVM);
         }
+       
         public IActionResult Create()
         {
             return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> Create(Slider slide)
+        {
+            if(slide.ImageFile == null)
+            {
+                ModelState.AddModelError("ImageFile", "Image is required");
+                return View();
+            }
+            if (!slide.ImageFile.ContentType.Contains("image/"))
+            {
+                ModelState.AddModelError("ImageFile", "File type must be image");
+                return View();
+            }
+            if(slide.ImageFile.Length > 2*1024*1024)
+            {
+                ModelState.AddModelError("ImageFile", "Image size must be less than 2MB");
+                return View();
+            }
+            string imageName=string.Concat( Guid.NewGuid().ToString() , slide.ImageFile.FileName);
+            string directoryPath = "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\wwwroot\\assets\\images\\website-images\\"+slide.ImageFile.FileName;
+            FileStream fileStream = new FileStream(directoryPath, FileMode.Create);
+            await slide.ImageFile.CopyToAsync(fileStream);
+            fileStream.Close();
+            slide.ImagePath=slide.ImageFile.FileName;
+
+            if (!ModelState.IsValid)
+            {   
+                return View();
+            }
+            _context.Sliders.Add(slide);
+            _context.SaveChanges();
+            return RedirectToAction("index");
         }
         public IActionResult Update()
         {
@@ -45,6 +80,7 @@ namespace AdminPanel.Areas.Admin.Controllers.Slide
                 return RedirectToAction("Index", "Error", new { area = "Admin", message = "This slider is not exist" });
             }
             return View(slider);
+
         }
         public IActionResult Delete()
         {

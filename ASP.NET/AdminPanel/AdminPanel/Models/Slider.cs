@@ -1,5 +1,6 @@
 ﻿using AdminPanel.Models.Base;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Test.Models
 {
@@ -11,9 +12,10 @@ namespace Test.Models
         public string Title { get; set; }
         [MaxLength(255, ErrorMessage = "Description can't be longer than 255 characters")]
         public string SupTitle { get; set; }
-        public string ImagePath { get; set; }
+        public string? ImagePath { get; set; }
         public int Order { get; set; }
 
-
+        [NotMapped]
+        public IFormFile? ImageFile { get; set; }
     }
 }
