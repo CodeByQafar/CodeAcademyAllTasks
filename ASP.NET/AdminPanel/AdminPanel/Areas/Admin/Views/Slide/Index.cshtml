@@ -10,24 +10,35 @@
                 <div class="card">
                     <div class="card-body">
                         <p class="card-title">Recent Purchases</p>
+                        <a class="btn btn-success" asp-contoller="Slide" asp-action="create" asp-area="Admin">Add slide</a>
                         <div class="table-responsive">
                             <table id="recent-purchases-listing" class="table">
                                 <thead>
                                     <tr>
+                                        <th>Image</th>
                                         <th>UpTitle</th>
                                         <th>Title</th>
                                         <th>SupTitle</th>
+                                        <th>Settings</th>
                                         <th>ImagePath</th>
                                         <th>Order</th>
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    @foreach (Slider data in Model.sliders)
+                                    @foreach (Slider data in Model.Sliders)
                                     {
                                         <tr>
+                                            <td>
+                                                <img src="~/assets/images/website-images//@data.ImagePath"/>
+                                            </td>
                                             <td>@data.UpTitle</td>
                                             <td>@data.Title</td>
                                             <td>@data.SupTitle</td>
+                                            <td>
+                                                <a asp-action="update" asp-route-id="@data.Id" class="p-2 btn btn-warning"> update</a>
+                                                <a asp-action="delete" asp-route-id="@data.Id" class="p-2 btn btn-danger"> delete</a>
+                                                <a asp-action="detail" asp-route-id="@data.Id" class="p-2 btn btn-primary"> detail</a>
+                                            </td>
                                             <td>@data.ImagePath</td>
                                             <td>@data.Order</td>
                                         </tr>

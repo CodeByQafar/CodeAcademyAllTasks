@@ -4,6 +4,6 @@ namespace AdminPanel.Areas.Admin.ViewModels.Slide
 {
     public class SlideVM
     {
-        public List<Slider> sliders { get; set; }
+        public List<Slider> Sliders { get; set; }
     }
 }

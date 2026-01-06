@@ -1,0 +1,39 @@
+﻿@using AdminPanel.Models
+@using Test.Models
+@model Slider
+
+<div class="row">
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <table id="recent-purchases-listing" class="table">
+                    <thead>
+                        <tr>
+                            <th>Image</th>
+                            <th>UpTitle</th>
+                            <th>Title</th>
+                            <th>SupTitle</th>
+                            <th>ImagePath</th>
+                            <th>Order</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                       
+                            <tr>
+                                <td>
+                                    <img src="~/assets/images/website-images//@Model.ImagePath" />
+                                </td>
+                                <td>@Model.UpTitle</td>
+                                <td>@Model.Title</td>
+                                <td>@Model.SupTitle</td>
+                                <td>@Model.ImagePath</td>
+                                <td>@Model.Order</td>
+                            </tr>
+                     
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
