@@ -2,6 +2,7 @@
 using ByBiz.Models;
 using ByBiz.ViewModels.Home;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace ByBiz.Controllers.Home
 {
@@ -14,13 +15,17 @@ namespace ByBiz.Controllers.Home
         }
         public IActionResult Index()
         {
-           List<Slider> sliders=_context.Sliders.ToList();
+            List<Slider> sliders = _context.Sliders.ToList();
+            List<Service> services = _context.Services.ToList();
+            List<Team> teams = _context.Teams.Include(p => p.Position).ToList();
+            List<Portfolio> portfolios= _context.Portfolios.Include(p => p.category).ToList();
+
             HomeVM homeVM = new HomeVM
             {
-                Sliders = sliders,  
-                //Portfolios = _context.Portfolios.ToList(),
-                //Services = _context.Services.ToList(),
-                //Teams = _context.Teams.ToList()
+                Sliders = sliders,
+                Portfolios = portfolios,
+                Services = services,
+                Teams = teams
             };
             return View(homeVM);
         }

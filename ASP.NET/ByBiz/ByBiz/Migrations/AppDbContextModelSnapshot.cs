@@ -42,7 +42,7 @@ namespace ByBiz.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("categories");
+                    b.ToTable("Categories");
                 });
 
             modelBuilder.Entity("ByBiz.Models.Portfolio", b =>
@@ -63,6 +63,10 @@ namespace ByBiz.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("ImageUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<bool>("IsDeleted")
                         .HasColumnType("bit");
 
@@ -75,37 +79,6 @@ namespace ByBiz.Migrations
                     b.HasIndex("CategoryId");
 
                     b.ToTable("Portfolios");
-                });
-
-            modelBuilder.Entity("ByBiz.Models.PortfolioImages", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<DateTime>("CreatedAt")
-                        .HasColumnType("datetime2");
-
-                    b.Property<string>("ImageUrl")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<bool>("IsDeleted")
-                        .HasColumnType("bit");
-
-                    b.Property<int>("PortfolioId")
-                        .HasColumnType("int");
-
-                    b.Property<bool?>("isPrimary")
-                        .HasColumnType("bit");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("PortfolioId");
-
-                    b.ToTable("PortfolioImages");
                 });
 
             modelBuilder.Entity("ByBiz.Models.Position", b =>
@@ -146,7 +119,7 @@ namespace ByBiz.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("ImageUrl")
+                    b.Property<string>("IconName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -246,17 +219,6 @@ namespace ByBiz.Migrations
                     b.Navigation("category");
                 });
 
-            modelBuilder.Entity("ByBiz.Models.PortfolioImages", b =>
-                {
-                    b.HasOne("ByBiz.Models.Portfolio", "Portfolio")
-                        .WithMany("Images")
-                        .HasForeignKey("PortfolioId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Portfolio");
-                });
-
             modelBuilder.Entity("ByBiz.Models.Team", b =>
                 {
                     b.HasOne("ByBiz.Models.Position", "Position")
@@ -271,11 +233,6 @@ namespace ByBiz.Migrations
             modelBuilder.Entity("ByBiz.Models.Category", b =>
                 {
                     b.Navigation("Portfolios");
-                });
-
-            modelBuilder.Entity("ByBiz.Models.Portfolio", b =>
-                {
-                    b.Navigation("Images");
                 });
 
             modelBuilder.Entity("ByBiz.Models.Position", b =>
