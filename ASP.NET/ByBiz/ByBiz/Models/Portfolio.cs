@@ -7,7 +7,7 @@ namespace ByBiz.Models
         public string Title { get; set; }
         public string Description { get; set; }
         public Category category { get; set; }
-        
+        public int CategoryId { get; set; }
        public  List<PortfolioImages> Images { get; set; }
 
     }
