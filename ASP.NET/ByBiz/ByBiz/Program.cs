@@ -24,6 +24,11 @@ namespace ByBiz
                 name:"default",
                 pattern:"{controller=home}/{action=index}/{id?}"
                 );
+
+            app.MapControllerRoute(
+             name: "admin",
+             pattern: "{area=admin}/{controller=home}/{action=index}/{id?}"
+             );
             app.Run();
 
         }

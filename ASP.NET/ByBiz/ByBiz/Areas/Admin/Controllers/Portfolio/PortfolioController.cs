@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace ByBiz.Areas.Admin.Controllers.Create
+namespace ByBiz.Areas.Admin.Controllers.Portfolio
 {
-    [Area("Admin")]
-    public class CreateController : Controller
+   [ Area("Admin")]
+    public class PortfolioController : Controller
     {
         public IActionResult Index()
         {
