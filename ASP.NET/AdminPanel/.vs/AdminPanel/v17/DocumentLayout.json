@@ -7,6 +7,26 @@
       "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\controllers\\slide\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\megru\\desktop\\programlar\\github\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\controllers\\shop\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\controllers\\shop\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\megru\\desktop\\programlar\\github\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\megru\\desktop\\programlar\\github\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\utilities\\extensions\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\utilities\\extensions\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\megru\\desktop\\programlar\\github\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\megru\\desktop\\programlar\\github\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\views\\slide\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\views\\slide\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\megru\\desktop\\programlar\\github\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\views\\slide\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\megru\\desktop\\programlar\\github\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\views\\slide\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\views\\slide\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\megru\\desktop\\programlar\\github\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\wwwroot\\assets\\images\\website-images\\1--1rnu4p.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\wwwroot\\assets\\images\\website-images\\1--1rnu4p.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
@@ -33,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\megru\\desktop\\programlar\\github\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\wwwroot\\assets\\images\\website-images\\quotation.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\wwwroot\\assets\\images\\website-images\\quotation.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\megru\\desktop\\programlar\\github\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\controllers\\shop\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\controllers\\shop\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\megru\\desktop\\programlar\\github\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -135,10 +147,6 @@
       "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\megru\\desktop\\programlar\\github\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\megru\\desktop\\programlar\\github\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -166,23 +174,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "1--1rnu4p.png - PNG [77x77, 32 bit, PNG]",
-              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\wwwroot\\assets\\images\\website-images\\1--1rnu4p.png",
-              "RelativeDocumentMoniker": "AdminPanel\\wwwroot\\assets\\images\\website-images\\1--1rnu4p.png",
-              "ToolTip": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\wwwroot\\assets\\images\\website-images\\1--1rnu4p.png - PNG [77x77, 32 bit, PNG]",
-              "RelativeToolTip": "AdminPanel\\wwwroot\\assets\\images\\website-images\\1--1rnu4p.png - PNG [77x77, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-01-06T17:46:55.467Z",
-              "EditorCaption": " - PNG [77x77, 32 bit, PNG]"
+              "DocumentIndex": 4,
+              "Title": "FileSize.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Utilities\\Enums\\FileSize.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Utilities\\Enums\\FileSize.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Utilities\\Enums\\FileSize.cs",
+              "RelativeToolTip": "AdminPanel\\Utilities\\Enums\\FileSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:29:52.795Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Utilities\\Extensions\\Validator.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Utilities\\Extensions\\Validator.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Utilities\\Extensions\\Validator.cs",
+              "RelativeToolTip": "AdminPanel\\Utilities\\Extensions\\Validator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:27:29.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "quotation.png - PNG [37x26, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\wwwroot\\assets\\images\\website-images\\quotation.png",
               "RelativeDocumentMoniker": "AdminPanel\\wwwroot\\assets\\images\\website-images\\quotation.png",
@@ -200,14 +222,14 @@
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Controllers\\Slide\\SlideController.cs",
               "ToolTip": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Controllers\\Slide\\SlideController.cs",
               "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Controllers\\Slide\\SlideController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAswDkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAA7wCIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T13:22:18.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "create.cshtml",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Slide\\create.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Slide\\create.cshtml",
@@ -215,12 +237,11 @@
               "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Views\\Slide\\create.cshtml",
               "ViewState": "AgIAAAIAAAAAAAAAAAAIwAkAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T06:41:25.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T06:41:25.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Controllers\\Category\\CategoryController.cs",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Controllers\\Category\\CategoryController.cs",
@@ -228,24 +249,62 @@
               "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Controllers\\Category\\CategoryController.cs",
               "ViewState": "AgIAAGoAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T11:24:27.863Z",
+              "WhenOpened": "2026-01-02T11:24:27.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Controllers\\Home\\HomeController.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Controllers\\Home\\HomeController.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Controllers\\Home\\HomeController.cs",
+              "RelativeToolTip": "AdminPanel\\Controllers\\Home\\HomeController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T11:40:57.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Controllers\\Shop\\ShopController.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Controllers\\Shop\\ShopController.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Controllers\\Shop\\ShopController.cs",
+              "RelativeToolTip": "AdminPanel\\Controllers\\Shop\\ShopController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwBsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T11:29:22.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "1--1rnu4p.png - PNG [77x77, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\wwwroot\\assets\\images\\website-images\\1--1rnu4p.png",
+              "RelativeDocumentMoniker": "AdminPanel\\wwwroot\\assets\\images\\website-images\\1--1rnu4p.png",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\wwwroot\\assets\\images\\website-images\\1--1rnu4p.png - PNG [77x77, 32 bit, PNG]",
+              "RelativeToolTip": "AdminPanel\\wwwroot\\assets\\images\\website-images\\1--1rnu4p.png - PNG [77x77, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-06T17:46:55.467Z",
+              "EditorCaption": " - PNG [77x77, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "detail.cshtml",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Slide\\detail.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Slide\\detail.cshtml",
               "ToolTip": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Slide\\detail.cshtml",
               "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Views\\Slide\\detail.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T06:57:10.177Z"
+              "WhenOpened": "2026-01-06T06:57:10.177Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
@@ -253,12 +312,11 @@
               "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwA8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T11:29:11.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T11:29:11.816Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "favicon.ico - Icon [16x16, 32 bit, BMP]",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\wwwroot\\assets\\images\\favicon.ico",
               "RelativeDocumentMoniker": "AdminPanel\\wwwroot\\assets\\images\\favicon.ico",
@@ -270,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
@@ -282,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "create.cshtml",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Category\\create.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Category\\create.cshtml",
@@ -294,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Category\\Index.cshtml",
@@ -306,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Slider.cs",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Models\\Slider.cs",
               "RelativeDocumentMoniker": "AdminPanel\\Models\\Slider.cs",
@@ -318,19 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ShopController.cs",
-              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Controllers\\Shop\\ShopController.cs",
-              "RelativeDocumentMoniker": "AdminPanel\\Controllers\\Shop\\ShopController.cs",
-              "ToolTip": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Controllers\\Shop\\ShopController.cs",
-              "RelativeToolTip": "AdminPanel\\Controllers\\Shop\\ShopController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T11:29:22.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\appsettings.Development.json",
               "RelativeDocumentMoniker": "AdminPanel\\appsettings.Development.json",
@@ -342,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "CategoryVM.cs",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\ViewModels\\Category\\CategoryVM.cs",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\ViewModels\\Category\\CategoryVM.cs",
@@ -354,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "detail.cshtml",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Category\\detail.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Category\\detail.cshtml",
@@ -366,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Models\\Product.cs",
               "RelativeDocumentMoniker": "AdminPanel\\Models\\Product.cs",
@@ -378,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "ProductImage.cs",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Models\\ProductImage.cs",
               "RelativeDocumentMoniker": "AdminPanel\\Models\\ProductImage.cs",
@@ -390,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Program.cs",
               "RelativeDocumentMoniker": "AdminPanel\\Program.cs",
@@ -402,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\appsettings.json",
               "RelativeDocumentMoniker": "AdminPanel\\appsettings.json",
@@ -414,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Views\\Home\\Index.cshtml",
@@ -426,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -438,7 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "ErrorController.cs",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Controllers\\Error\\ErrorController.cs",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Controllers\\Error\\ErrorController.cs",
@@ -450,7 +496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Error\\Index.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Error\\Index.cshtml",
@@ -462,7 +508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -474,7 +520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
@@ -486,7 +532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "SlideVM.cs",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\ViewModels\\Slide\\SlideVM.cs",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\ViewModels\\Slide\\SlideVM.cs",
@@ -498,7 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Home\\Index.cshtml",
@@ -510,7 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Models\\Category.cs",
               "RelativeDocumentMoniker": "AdminPanel\\Models\\Category.cs",
@@ -522,7 +568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "Purchace.cs",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Models\\Purchace.cs",
               "RelativeDocumentMoniker": "AdminPanel\\Models\\Purchace.cs",
@@ -534,7 +580,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "update.cshtml",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Category\\update.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Category\\update.cshtml",
@@ -546,7 +592,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Views\\Shared\\_Layout.cshtml",
@@ -558,7 +604,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "20260106060409_NewDatabase.cs",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Migrations\\20260106060409_NewDatabase.cs",
               "RelativeDocumentMoniker": "AdminPanel\\Migrations\\20260106060409_NewDatabase.cs",
@@ -570,7 +616,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\ViewModels\\Home\\HomeVM.cs",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\ViewModels\\Home\\HomeVM.cs",
@@ -582,19 +628,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Controllers\\Home\\HomeController.cs",
-              "RelativeDocumentMoniker": "AdminPanel\\Controllers\\Home\\HomeController.cs",
-              "ToolTip": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Controllers\\Home\\HomeController.cs",
-              "RelativeToolTip": "AdminPanel\\Controllers\\Home\\HomeController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T11:40:57.203Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "AdminPanel\\DAL\\AppDbContext.cs",
@@ -606,7 +640,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "detail.cshtml",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Views\\Shop\\detail.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Views\\Shop\\detail.cshtml",
@@ -618,7 +652,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Views\\Shop\\Index.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Views\\Shop\\Index.cshtml",
@@ -630,7 +664,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "ShopVM.cs",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\ViewModels\\Shop\\ShopVM.cs",
               "RelativeDocumentMoniker": "AdminPanel\\ViewModels\\Shop\\ShopVM.cs",

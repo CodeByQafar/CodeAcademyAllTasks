@@ -1,5 +1,7 @@
 ﻿using AdminPanel.Areas.Admin.ViewModels.Slide;
 using AdminPanel.DAL;
+using AdminPanel.Utilities.Enums;
+using AdminPanel.Utilities.Extensions;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
@@ -11,10 +13,11 @@ namespace AdminPanel.Areas.Admin.Controllers.Slide
     public class SlideController : Controller
     {
         private readonly AppDbContext _context;
-
-        public SlideController(AppDbContext context)
+        private readonly IWebHostEnvironment _env;
+        public SlideController(AppDbContext context, IWebHostEnvironment env)
         {
             _context = context;
+            _env = env;
         }
 
         public async Task<IActionResult> Index()
@@ -26,7 +29,7 @@ namespace AdminPanel.Areas.Admin.Controllers.Slide
             };
             return View(slideVM);
         }
-       
+
         public IActionResult Create()
         {
             return View();
@@ -34,30 +37,30 @@ namespace AdminPanel.Areas.Admin.Controllers.Slide
         [HttpPost]
         public async Task<IActionResult> Create(Slider slide)
         {
-            if(slide.ImageFile == null)
+            if (slide.ImageFile == null)
             {
                 ModelState.AddModelError("ImageFile", "Image is required");
                 return View();
             }
-            if (!slide.ImageFile.ContentType.Contains("image/"))
+            if (!Validator.FileTypeValidator(slide.ImageFile, "image/"))
             {
                 ModelState.AddModelError("ImageFile", "File type must be image");
                 return View();
             }
-            if(slide.ImageFile.Length > 2*1024*1024)
+            if (!Validator.FileSizeValidator(slide.ImageFile, FileSize.MB, 2))
             {
                 ModelState.AddModelError("ImageFile", "Image size must be less than 2MB");
                 return View();
             }
-            string imageName=string.Concat( Guid.NewGuid().ToString() , slide.ImageFile.FileName);
-            string directoryPath = "C:\\Users\\megru\\Desktop\\Programlar\\Github\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\wwwroot\\assets\\images\\website-images\\"+slide.ImageFile.FileName;
+            string fileName = string.Concat(Guid.NewGuid().ToString(), slide.ImageFile.FileName);
+            string directoryPath = Path.Combine(_env.WebRootPath, "assets", "images", "website-images", fileName);
             FileStream fileStream = new FileStream(directoryPath, FileMode.Create);
             await slide.ImageFile.CopyToAsync(fileStream);
             fileStream.Close();
-            slide.ImagePath=slide.ImageFile.FileName;
+            slide.ImagePath = slide.ImageFile.FileName;
 
             if (!ModelState.IsValid)
-            {   
+            {
                 return View();
             }
             _context.Sliders.Add(slide);
