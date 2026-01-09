@@ -3,16 +3,108 @@
   "WorkspaceRootPath": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\controllers\\slide\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\controllers\\slide\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\controllers\\shop\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\controllers\\shop\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\controllers\\error\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\controllers\\error\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\viewmodels\\auth\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\viewmodels\\auth\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\views\\slide\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\views\\slide\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\viewmodels\\auth\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\viewmodels\\auth\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\views\\loginregister\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\views\\loginregister\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\controllers\\slide\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\controllers\\slide\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\views\\slide\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\views\\slide\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\controllers\\shop\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\controllers\\shop\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\utilities\\extensions\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,20 +115,8 @@
       "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\views\\slide\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\views\\slide\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\controllers\\category\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\controllers\\category\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\views\\slide\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\views\\slide\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\wwwroot\\assets\\images\\website-images\\1--1rnu4p.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
@@ -83,44 +163,12 @@
       "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\controllers\\error\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\controllers\\error\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\views\\error\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\views\\error\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\models\\purchace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -139,16 +187,8 @@
       "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\areas\\admin\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\areas\\admin\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{213D997D-40DF-4A33-A521-58215CC2EA0F}|AdminPanel\\AdminPanel.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\adminpanel\\adminpanel\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -174,47 +214,284 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FileSize.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Utilities\\Enums\\FileSize.cs",
-              "RelativeDocumentMoniker": "AdminPanel\\Utilities\\Enums\\FileSize.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Utilities\\Enums\\FileSize.cs",
-              "RelativeToolTip": "AdminPanel\\Utilities\\Enums\\FileSize.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Models\\AppUser.cs",
+              "RelativeToolTip": "AdminPanel\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T06:29:52.795Z"
+              "WhenOpened": "2026-01-09T09:35:08.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\ViewModels\\Auth\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\ViewModels\\Auth\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\ViewModels\\Auth\\RegisterVM.cs",
+              "RelativeToolTip": "AdminPanel\\ViewModels\\Auth\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T08:52:40.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Views\\Auth\\register.cshtml",
+              "RelativeDocumentMoniker": "AdminPanel\\Views\\Auth\\register.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Views\\Auth\\register.cshtml",
+              "RelativeToolTip": "AdminPanel\\Views\\Auth\\register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T08:40:01.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Controllers\\Home\\HomeController.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Controllers\\Home\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Controllers\\Home\\HomeController.cs",
+              "RelativeToolTip": "AdminPanel\\Controllers\\Home\\HomeController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T11:40:57.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Controllers\\Auth\\AuthController.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Controllers\\Auth\\AuthController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Controllers\\Auth\\AuthController.cs",
+              "RelativeToolTip": "AdminPanel\\Controllers\\Auth\\AuthController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T08:30:20.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "AdminPanel\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T11:40:58.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Models\\ProductImage.cs",
+              "RelativeToolTip": "AdminPanel\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:49:34.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AdminPanel\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T06:11:24.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Controllers\\Error\\ErrorController.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Controllers\\Error\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Controllers\\Error\\ErrorController.cs",
+              "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Controllers\\Error\\ErrorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:08:27.027Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Validator.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Utilities\\Extensions\\Validator.cs",
-              "RelativeDocumentMoniker": "AdminPanel\\Utilities\\Extensions\\Validator.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Utilities\\Extensions\\Validator.cs",
-              "RelativeToolTip": "AdminPanel\\Utilities\\Extensions\\Validator.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBoAAAAOAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Program.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Program.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Program.cs",
+              "RelativeToolTip": "AdminPanel\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T06:27:29.861Z"
+              "WhenOpened": "2026-01-02T12:07:56.206Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "quotation.png - PNG [37x26, 32 bit, PNG]",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\wwwroot\\assets\\images\\website-images\\quotation.png",
-              "RelativeDocumentMoniker": "AdminPanel\\wwwroot\\assets\\images\\website-images\\quotation.png",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\wwwroot\\assets\\images\\website-images\\quotation.png - PNG [37x26, 32 bit, PNG]",
-              "RelativeToolTip": "AdminPanel\\wwwroot\\assets\\images\\website-images\\quotation.png - PNG [37x26, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-01-06T15:48:52.01Z",
-              "EditorCaption": " - PNG [37x26, 32 bit, PNG]"
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Models\\Category.cs",
+              "RelativeToolTip": "AdminPanel\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T07:00:20.006Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
+              "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T11:29:11.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Views\\Auth\\login.cshtml",
+              "RelativeDocumentMoniker": "AdminPanel\\Views\\Auth\\login.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Views\\Auth\\login.cshtml",
+              "RelativeToolTip": "AdminPanel\\Views\\Auth\\login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T08:38:07.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Slide\\create.cshtml",
+              "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Slide\\create.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Slide\\create.cshtml",
+              "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Views\\Slide\\create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T06:41:25.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\ViewModels\\Auth\\LoginVM.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\ViewModels\\Auth\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\ViewModels\\Auth\\LoginVM.cs",
+              "RelativeToolTip": "AdminPanel\\ViewModels\\Auth\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T08:54:00.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAWwMwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T12:04:53.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdminPanel\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AdminPanel\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAIsIAAAAAAAAAAAjwJMIAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T11:49:14.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\ViewModels\\Home\\HomeVM.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\ViewModels\\Home\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\ViewModels\\Home\\HomeVM.cs",
+              "RelativeToolTip": "AdminPanel\\ViewModels\\Home\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T08:54:07.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AdminPanel\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AdminPanel\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T08:43:54.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AdminPanel\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AdminPanel\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T08:43:54.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\LoginRegister\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\LoginRegister\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\LoginRegister\\Index.cshtml",
+              "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Views\\LoginRegister\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T08:29:37.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "SlideController.cs",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Controllers\\Slide\\SlideController.cs",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Controllers\\Slide\\SlideController.cs",
@@ -227,43 +504,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "create.cshtml",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Slide\\create.cshtml",
-              "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Slide\\create.cshtml",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Slide\\create.cshtml",
-              "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Views\\Slide\\create.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAkAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Slide\\detail.cshtml",
+              "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Slide\\detail.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Slide\\detail.cshtml",
+              "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Views\\Slide\\detail.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T06:41:25.434Z"
+              "WhenOpened": "2026-01-06T06:57:10.177Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Controllers\\Category\\CategoryController.cs",
-              "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Controllers\\Category\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Controllers\\Category\\CategoryController.cs",
-              "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Controllers\\Category\\CategoryController.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T11:24:27.863Z"
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T06:29:29.946Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Controllers\\Home\\HomeController.cs",
-              "RelativeDocumentMoniker": "AdminPanel\\Controllers\\Home\\HomeController.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Controllers\\Home\\HomeController.cs",
-              "RelativeToolTip": "AdminPanel\\Controllers\\Home\\HomeController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T11:40:57.203Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 25,
               "Title": "ShopController.cs",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Controllers\\Shop\\ShopController.cs",
               "RelativeDocumentMoniker": "AdminPanel\\Controllers\\Shop\\ShopController.cs",
@@ -271,11 +538,76 @@
               "RelativeToolTip": "AdminPanel\\Controllers\\Shop\\ShopController.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAgwBsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T11:29:22.392Z"
+              "WhenOpened": "2026-01-02T11:29:22.392Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 28,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Controllers\\Category\\CategoryController.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Controllers\\Category\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Controllers\\Category\\CategoryController.cs",
+              "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Controllers\\Category\\CategoryController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T11:24:27.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T06:35:07.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "quotation.png - PNG [37x26, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\wwwroot\\assets\\images\\website-images\\quotation.png",
+              "RelativeDocumentMoniker": "AdminPanel\\wwwroot\\assets\\images\\website-images\\quotation.png",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\wwwroot\\assets\\images\\website-images\\quotation.png - PNG [37x26, 32 bit, PNG]",
+              "RelativeToolTip": "AdminPanel\\wwwroot\\assets\\images\\website-images\\quotation.png - PNG [37x26, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-06T15:48:52.01Z",
+              "EditorCaption": " - PNG [37x26, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Utilities\\Extensions\\Validator.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Utilities\\Extensions\\Validator.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Utilities\\Extensions\\Validator.cs",
+              "RelativeToolTip": "AdminPanel\\Utilities\\Extensions\\Validator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:27:29.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FileSize.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Utilities\\Enums\\FileSize.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Utilities\\Enums\\FileSize.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Utilities\\Enums\\FileSize.cs",
+              "RelativeToolTip": "AdminPanel\\Utilities\\Enums\\FileSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:29:52.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "1--1rnu4p.png - PNG [77x77, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\wwwroot\\assets\\images\\website-images\\1--1rnu4p.png",
               "RelativeDocumentMoniker": "AdminPanel\\wwwroot\\assets\\images\\website-images\\1--1rnu4p.png",
@@ -287,31 +619,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Slide\\detail.cshtml",
-              "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Slide\\detail.cshtml",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Slide\\detail.cshtml",
-              "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Views\\Slide\\detail.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T06:57:10.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
-              "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
-              "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA8AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T11:29:11.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 30,
               "Title": "favicon.ico - Icon [16x16, 32 bit, BMP]",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\wwwroot\\assets\\images\\favicon.ico",
               "RelativeDocumentMoniker": "AdminPanel\\wwwroot\\assets\\images\\favicon.ico",
@@ -323,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 35,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
@@ -331,35 +639,38 @@
               "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-05T13:25:49.801Z"
+              "WhenOpened": "2026-01-05T13:25:49.801Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 34,
               "Title": "create.cshtml",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Category\\create.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Category\\create.cshtml",
               "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Category\\create.cshtml",
               "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Views\\Category\\create.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADYAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAIBJwDYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-02T11:24:45.738Z"
+              "WhenOpened": "2026-01-02T11:24:45.738Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 33,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-02T11:24:22.416Z"
+              "WhenOpened": "2026-01-02T11:24:22.416Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 32,
               "Title": "Slider.cs",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Models\\Slider.cs",
               "RelativeDocumentMoniker": "AdminPanel\\Models\\Slider.cs",
@@ -367,11 +678,12 @@
               "RelativeToolTip": "AdminPanel\\Models\\Slider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T13:28:57.634Z"
+              "WhenOpened": "2026-01-05T13:28:57.634Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 36,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\appsettings.Development.json",
               "RelativeDocumentMoniker": "AdminPanel\\appsettings.Development.json",
@@ -379,11 +691,12 @@
               "RelativeToolTip": "AdminPanel\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-06T14:49:05.547Z"
+              "WhenOpened": "2026-01-06T14:49:05.547Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 37,
               "Title": "CategoryVM.cs",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\ViewModels\\Category\\CategoryVM.cs",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\ViewModels\\Category\\CategoryVM.cs",
@@ -391,11 +704,12 @@
               "RelativeToolTip": "AdminPanel\\Areas\\Admin\\ViewModels\\Category\\CategoryVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T11:36:59.423Z"
+              "WhenOpened": "2026-01-02T11:36:59.423Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 38,
               "Title": "detail.cshtml",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Category\\detail.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Category\\detail.cshtml",
@@ -403,11 +717,12 @@
               "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Views\\Category\\detail.cshtml",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAwCMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-03T08:16:47.736Z"
+              "WhenOpened": "2026-01-03T08:16:47.736Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 39,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Models\\Product.cs",
               "RelativeDocumentMoniker": "AdminPanel\\Models\\Product.cs",
@@ -415,35 +730,12 @@
               "RelativeToolTip": "AdminPanel\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T06:49:35.89Z"
+              "WhenOpened": "2026-01-06T06:49:35.89Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ProductImage.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Models\\ProductImage.cs",
-              "RelativeDocumentMoniker": "AdminPanel\\Models\\ProductImage.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Models\\ProductImage.cs",
-              "RelativeToolTip": "AdminPanel\\Models\\ProductImage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T06:49:34.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Program.cs",
-              "RelativeDocumentMoniker": "AdminPanel\\Program.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Program.cs",
-              "RelativeToolTip": "AdminPanel\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T12:07:56.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 40,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\appsettings.json",
               "RelativeDocumentMoniker": "AdminPanel\\appsettings.json",
@@ -451,83 +743,25 @@
               "RelativeToolTip": "AdminPanel\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-06T05:59:47.48Z"
+              "WhenOpened": "2026-01-06T05:59:47.48Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "AdminPanel\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "AdminPanel\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-02T11:49:14.527Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-03T06:29:29.946Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ErrorController.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Controllers\\Error\\ErrorController.cs",
-              "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Controllers\\Error\\ErrorController.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Controllers\\Error\\ErrorController.cs",
-              "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Controllers\\Error\\ErrorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T07:08:27.027Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 41,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Error\\Index.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Error\\Index.cshtml",
               "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Error\\Index.cshtml",
               "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Views\\Error\\Index.cshtml",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAAD4AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAIBJwD4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T07:08:41.361Z"
+              "WhenOpened": "2026-01-06T07:08:41.361Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T06:35:07.705Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAAMMAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-02T12:04:53.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 43,
               "Title": "SlideVM.cs",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\ViewModels\\Slide\\SlideVM.cs",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\ViewModels\\Slide\\SlideVM.cs",
@@ -535,11 +769,12 @@
               "RelativeToolTip": "AdminPanel\\Areas\\Admin\\ViewModels\\Slide\\SlideVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T13:27:05.865Z"
+              "WhenOpened": "2026-01-05T13:27:05.865Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 44,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Home\\Index.cshtml",
@@ -547,23 +782,12 @@
               "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-02T12:02:21.882Z"
+              "WhenOpened": "2026-01-02T12:02:21.882Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "AdminPanel\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Models\\Category.cs",
-              "RelativeToolTip": "AdminPanel\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T07:00:20.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 42,
               "Title": "Purchace.cs",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Models\\Purchace.cs",
               "RelativeDocumentMoniker": "AdminPanel\\Models\\Purchace.cs",
@@ -571,11 +795,12 @@
               "RelativeToolTip": "AdminPanel\\Models\\Purchace.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T05:57:05.504Z"
+              "WhenOpened": "2026-01-06T05:57:05.504Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 45,
               "Title": "update.cshtml",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\Views\\Category\\update.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\Views\\Category\\update.cshtml",
@@ -583,23 +808,12 @@
               "RelativeToolTip": "AdminPanel\\Areas\\Admin\\Views\\Category\\update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-05T11:29:45.775Z"
+              "WhenOpened": "2026-01-05T11:29:45.775Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AdminPanel\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AdminPanel\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAPECAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T06:11:24.896Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 50,
               "Title": "20260106060409_NewDatabase.cs",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Migrations\\20260106060409_NewDatabase.cs",
               "RelativeDocumentMoniker": "AdminPanel\\Migrations\\20260106060409_NewDatabase.cs",
@@ -607,11 +821,12 @@
               "RelativeToolTip": "AdminPanel\\Migrations\\20260106060409_NewDatabase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T06:04:10.095Z"
+              "WhenOpened": "2026-01-06T06:04:10.095Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 46,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Areas\\Admin\\ViewModels\\Home\\HomeVM.cs",
               "RelativeDocumentMoniker": "AdminPanel\\Areas\\Admin\\ViewModels\\Home\\HomeVM.cs",
@@ -619,23 +834,12 @@
               "RelativeToolTip": "AdminPanel\\Areas\\Admin\\ViewModels\\Home\\HomeVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T11:37:01.504Z"
+              "WhenOpened": "2026-01-02T11:37:01.504Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "AdminPanel\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "AdminPanel\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T11:40:58.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 48,
               "Title": "detail.cshtml",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Views\\Shop\\detail.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Views\\Shop\\detail.cshtml",
@@ -643,11 +847,12 @@
               "RelativeToolTip": "AdminPanel\\Views\\Shop\\detail.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-02T11:29:32.97Z"
+              "WhenOpened": "2026-01-02T11:29:32.97Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 47,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\Views\\Shop\\Index.cshtml",
               "RelativeDocumentMoniker": "AdminPanel\\Views\\Shop\\Index.cshtml",
@@ -655,11 +860,12 @@
               "RelativeToolTip": "AdminPanel\\Views\\Shop\\Index.cshtml",
               "ViewState": "AgIAAN4AAAAAAAAAAAAhwOsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-02T11:46:36.544Z"
+              "WhenOpened": "2026-01-02T11:46:36.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 49,
               "Title": "ShopVM.cs",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\AdminPanel\\AdminPanel\\ViewModels\\Shop\\ShopVM.cs",
               "RelativeDocumentMoniker": "AdminPanel\\ViewModels\\Shop\\ShopVM.cs",
@@ -667,7 +873,8 @@
               "RelativeToolTip": "AdminPanel\\ViewModels\\Shop\\ShopVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T11:49:12.311Z"
+              "WhenOpened": "2026-01-02T11:49:12.311Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,5 +1,7 @@
 
 using AdminPanel.DAL;
+using AdminPanel.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace AdminPanel
@@ -15,6 +17,9 @@ namespace AdminPanel
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("default"));
             });
 
+            builder.Services.AddIdentity<AppUser, IdentityRole>()
+                .AddEntityFrameworkStores<AppDbContext>()
+                .AddDefaultTokenProviders();
             var app = builder.Build();
             app.UseStaticFiles();
             app.UseRouting();         
