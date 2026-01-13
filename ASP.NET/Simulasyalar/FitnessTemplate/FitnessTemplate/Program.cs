@@ -1,3 +1,6 @@
+using FitnessTemplate.DAL;
+using Microsoft.EntityFrameworkCore;
+
 namespace FitnessTemplate
 {
     class Program
@@ -6,6 +9,11 @@ namespace FitnessTemplate
         {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
+            builder.Services.AddDbContext<AppDbContext>(opt => {
+                opt.UseSqlServer(builder.Configuration.GetConnectionString("default"));
+                }
+
+             );         
             var app = builder.Build();
             app.UseStaticFiles();
             app.UseRouting();
@@ -14,7 +22,10 @@ namespace FitnessTemplate
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}"
                 );
-
+            app.MapControllerRoute(
+            name: "addmin",
+            pattern: "{area=admin}/{controller=Home}/{action=Index}/{id?}"
+            );
 
             app.Run();
 

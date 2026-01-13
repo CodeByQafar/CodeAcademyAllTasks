@@ -27,6 +27,7 @@ wwwroot\images\trainer-img1.jpg
 wwwroot\images\trainer-img2.jpg
 wwwroot\images\trainer-img3.jpg
 wwwroot\js\bootstrap.min.js
+wwwroot\js\custom.js
 wwwroot\js\jquery.backstretch.min.js
 wwwroot\js\jquery.js
 wwwroot\js\jquery.nav.js
@@ -34,4 +35,3 @@ wwwroot\js\jquery.parallax.js
 wwwroot\js\owl.carousel.min.js
 wwwroot\js\smoothscroll.js
 wwwroot\js\wow.min.js
-wwwroot\js\custom.js
