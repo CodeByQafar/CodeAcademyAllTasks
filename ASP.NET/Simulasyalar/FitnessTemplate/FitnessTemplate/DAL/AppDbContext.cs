@@ -9,11 +9,9 @@ namespace FitnessTemplate.DAL
         {
          
             }  
-        DbSet<Slider> Sliders { get; set; }
-            DbSet<SmalSlider> SmallSlider { get; set; }
-            DbSet<Trainer> Trainers { get; set; }
-            DbSet<Blog> Blogs { get; set; }
-            DbSet<Price> Prices { get; set; }
+
+         public   DbSet<Trainer> Trainers { get; set; }
+     
 
     }
 }

@@ -4,7 +4,6 @@ namespace FitnessTemplate.ViewModels
 {
     public class HomeVM
     {
-        List<Blog> Blogs { get; set; }
-
+        public List<Trainer> Trainers { get; set; } 
     }
 }
