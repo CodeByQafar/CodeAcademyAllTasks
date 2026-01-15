@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\smulasya2\\smulasya2\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|solutionrelative:smulasya2\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\smulasya2\\smulasya2\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|solutionrelative:smulasya2\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\smulasya2\\smulasya2\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|solutionrelative:smulasya2\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\smulasya2\\smulasya2\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|solutionrelative:smulasya2\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\smulasya2\\smulasya2\\areas\\admin\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|solutionrelative:smulasya2\\areas\\admin\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Migrations\\20260115115224_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Smulasya2\\Migrations\\20260115115224_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\smulasya2\\smulasya2\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|solutionrelative:smulasya2\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\smulasya2\\smulasya2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|solutionrelative:smulasya2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\smulasya2\\smulasya2\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|solutionrelative:smulasya2\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\smulasya2\\smulasya2\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|solutionrelative:smulasya2\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\smulasya2\\smulasya2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|solutionrelative:smulasya2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\smulasya2\\smulasya2\\viewvmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|solutionrelative:smulasya2\\viewvmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\smulasya2\\smulasya2\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|solutionrelative:smulasya2\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\smulasya2\\smulasya2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|solutionrelative:smulasya2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\smulasya2\\smulasya2\\models\\base\\baseentitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|solutionrelative:smulasya2\\models\\base\\baseentitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\smulasya2\\smulasya2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|solutionrelative:smulasya2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\smulasya2\\smulasya2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|solutionrelative:smulasya2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\smulasya2\\smulasya2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB20E3BA-6987-41CD-AA75-9C74E83876D5}|Smulasya2\\Smulasya2.csproj|solutionrelative:smulasya2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260115115224_data.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Migrations\\20260115115224_data.cs",
+              "RelativeDocumentMoniker": "Smulasya2\\Migrations\\20260115115224_data.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Migrations\\20260115115224_data.cs",
+              "RelativeToolTip": "Smulasya2\\Migrations\\20260115115224_data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T11:52:24.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
+              "RelativeDocumentMoniker": "Smulasya2\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
+              "RelativeToolTip": "Smulasya2\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T11:33:59.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Smulasya2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Smulasya2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T10:49:50.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Program.cs",
+              "RelativeDocumentMoniker": "Smulasya2\\Program.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Program.cs",
+              "RelativeToolTip": "Smulasya2\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T10:40:17.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Controllers\\Home\\HomeController.cs",
+              "RelativeDocumentMoniker": "Smulasya2\\Controllers\\Home\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Controllers\\Home\\HomeController.cs",
+              "RelativeToolTip": "Smulasya2\\Controllers\\Home\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T10:48:34.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Smulasya2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Smulasya2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T11:34:14.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Smulasya2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Smulasya2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T11:34:15.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Smulasya2\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Smulasya2\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T11:34:02.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Smulasya2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml*",
+              "RelativeToolTip": "Smulasya2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml*",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAwwDIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T11:34:10.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseEntitiy.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Models\\Base\\BaseEntitiy.cs",
+              "RelativeDocumentMoniker": "Smulasya2\\Models\\Base\\BaseEntitiy.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Models\\Base\\BaseEntitiy.cs",
+              "RelativeToolTip": "Smulasya2\\Models\\Base\\BaseEntitiy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T10:54:51.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "Smulasya2\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Models\\Member.cs",
+              "RelativeToolTip": "Smulasya2\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T10:57:31.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Smulasya2\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Smulasya2\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T11:02:03.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\ViewvModels\\Home\\HomeVM.cs",
+              "RelativeDocumentMoniker": "Smulasya2\\ViewvModels\\Home\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\ViewvModels\\Home\\HomeVM.cs",
+              "RelativeToolTip": "Smulasya2\\ViewvModels\\Home\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T11:24:01.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\appsettings.json",
+              "RelativeDocumentMoniker": "Smulasya2\\appsettings.json",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\appsettings.json",
+              "RelativeToolTip": "Smulasya2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-15T11:17:39.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Smulasya2\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Models\\AppUser.cs",
+              "RelativeToolTip": "Smulasya2\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T11:04:33.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Smulasya2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Smulasya2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAmwJAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T10:49:28.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Smulasya2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Smulasya2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T10:49:15.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Smulasya2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Smulasya2\\Smulasya2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Smulasya2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAqwB4BAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T10:48:41.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

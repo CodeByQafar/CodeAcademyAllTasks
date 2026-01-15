@@ -9,10 +9,12 @@ namespace FitnessTemplate.Controllers.Account
     {
         public readonly UserManager<AppUser> _userManager;
         public readonly SignInManager<AppUser> _signInManager;
-        public AccountController(UserManager<AppUser> userManager, SignInManager<AppUser> signInManager)
+        public readonly RoleManager<IdentityRole> _roleManager;
+        public AccountController(UserManager<AppUser> userManager, SignInManager<AppUser> signInManager, RoleManager<IdentityRole> roleManager)
         {
             _userManager = userManager;
             _signInManager = signInManager;
+            _roleManager = roleManager;
         }
         public IActionResult Register()
         {
@@ -95,6 +97,14 @@ namespace FitnessTemplate.Controllers.Account
         }
         public async Task<IActionResult> Logout(LoginVM loginVM) {
             await _signInManager.SignOutAsync();
+            return RedirectToAction("index", "home");
+
+        }
+
+
+        public async Task<IActionResult> CreateRole( )
+        {
+           
             return RedirectToAction("index", "home");
 
         }
