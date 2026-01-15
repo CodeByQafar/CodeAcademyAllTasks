@@ -144,9 +144,11 @@ wwwroot\fonts\FontAwesome.otf
 wwwroot\images\032e3cf1-844d-44e1-a254-dde63dba1378download.jpg
 wwwroot\images\1ca9432b-8e50-4bf7-a347-a1b470a1d1e6download.jpg
 wwwroot\images\1d7feccb-4acd-4bf3-85d7-4bba1f78fe6fdownload.jpg
+wwwroot\images\2d23c865-3201-4d07-a125-72a8ab3c7718download.jpg
 wwwroot\images\30c9221c-1852-4369-9074-67b591128910download.jpg
 wwwroot\images\3b2a61f2-02ab-4be2-b060-cdb11d0a9f8cdownload.jpg
 wwwroot\images\46c00109-5e99-4d8d-96f4-fbf5a6f4a200download.jpg
+wwwroot\images\59cb4111-50d7-492c-ae7f-ea356e6aa101download (1).jpg
 wwwroot\images\60699a19-fd07-47dc-b2e9-9fac0f9c6be3download.jpg
 wwwroot\images\96249ff8-d981-4024-8c0e-83c1f781b38cdownload.jpg
 wwwroot\images\a50136d7-c20d-4686-a928-ef6299360d5adownload.jpg
@@ -157,6 +159,7 @@ wwwroot\images\blog-thumb.jpg
 wwwroot\images\blog-thumb1.jpg
 wwwroot\images\blog-thumb2.jpg
 wwwroot\images\blog-thumb3.jpg
+wwwroot\images\c35a9df2-c9a1-46e2-b2de-f552ce5415a0download.jpg
 wwwroot\images\comment1.jpg
 wwwroot\images\comment2.jpg
 wwwroot\images\d21a8048-7dbd-4b2d-ab62-7579ef8f6ca3download.jpg

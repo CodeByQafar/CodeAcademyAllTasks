@@ -3,28 +3,112 @@
   "WorkspaceRootPath": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\controllers\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\controllers\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\utilities\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\utilities\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\areas\\admin\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\areas\\admin\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\areas\\admin\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\areas\\admin\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\models\\base\\baseentitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\models\\base\\baseentitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Migrations\\20260115084901_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FitnessTemplate\\Migrations\\20260115084901_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\areas\\admin\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\areas\\admin\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\migrations\\20260114061746_dtabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\migrations\\20260114061746_dtabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\wwwroot\\images\\b5852685-cdff-47d6-9e63-923cc3e89d37download.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
@@ -35,10 +119,6 @@
       "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\wwwroot\\images\\blog-author.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\wwwroot\\images\\blog-author.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
@@ -47,20 +127,8 @@
       "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\wwwroot\\images\\a50136d7-c20d-4686-a928-ef6299360d5adownload.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\wwwroot\\images\\e7bbe941-52f7-4ccd-8a76-e26a68c77d26download.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\wwwroot\\images\\e7bbe941-52f7-4ccd-8a76-e26a68c77d26download.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\wwwroot\\images\\trainer-img3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
@@ -109,30 +177,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\wwwroot\\images\\blog-header-bg.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\wwwroot\\images\\blog-header-bg.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\models\\base\\baseentitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\models\\base\\baseentitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\fitnesstemplate\\fitnesstemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38B53EC6-A2CF-4F8E-B194-EFDC2BA510A9}|FitnessTemplate\\FitnessTemplate.csproj|solutionrelative:fitnesstemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -142,94 +186,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "home-bg-slider-img1.jpg - Bitmap [1920x1280, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\home-bg-slider-img1.jpg",
-              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\home-bg-slider-img1.jpg",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\home-bg-slider-img1.jpg - Bitmap [1920x1280, 24 bit, JPG]",
-              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\home-bg-slider-img1.jpg - Bitmap [1920x1280, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-01-14T09:59:40.659Z",
-              "EditorCaption": " - Bitmap [1920x1280, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Program.cs",
-              "RelativeDocumentMoniker": "FitnessTemplate\\Program.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Program.cs",
-              "RelativeToolTip": "FitnessTemplate\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T09:08:04.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "FitnessTemplate\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "FitnessTemplate\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T09:06:50.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\Home\\delete.cshtml",
-              "RelativeDocumentMoniker": "FitnessTemplate\\Areas\\Admin\\Views\\Home\\delete.cshtml",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\Home\\delete.cshtml",
-              "RelativeToolTip": "FitnessTemplate\\Areas\\Admin\\Views\\Home\\delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Utilities\\Enums\\Role.cs",
+              "RelativeDocumentMoniker": "FitnessTemplate\\Utilities\\Enums\\Role.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Utilities\\Enums\\Role.cs",
+              "RelativeToolTip": "FitnessTemplate\\Utilities\\Enums\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:36:08.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FitnessTemplate\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FitnessTemplate\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T08:59:26.465Z",
+              "WhenOpened": "2026-01-14T08:55:56.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Views\\Account\\login.cshtml",
+              "RelativeDocumentMoniker": "FitnessTemplate\\Views\\Account\\login.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Views\\Account\\login.cshtml",
+              "RelativeToolTip": "FitnessTemplate\\Views\\Account\\login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T06:37:00.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FitnessTemplate\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FitnessTemplate\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T08:55:55.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "FitnessTemplate\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "FitnessTemplate\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-14T08:56:36.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Trainer.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Models\\Trainer.cs",
-              "RelativeDocumentMoniker": "FitnessTemplate\\Models\\Trainer.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Models\\Trainer.cs",
-              "RelativeToolTip": "FitnessTemplate\\Models\\Trainer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T09:03:03.003Z",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FitnessTemplate\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FitnessTemplate\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T08:55:55.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FitnessTemplate\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FitnessTemplate\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T08:55:54.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
               "RelativeDocumentMoniker": "FitnessTemplate\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
               "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
               "RelativeToolTip": "FitnessTemplate\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAcwF4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAuwJoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T09:08:28.644Z",
               "EditorCaption": ""
@@ -237,264 +295,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\Home\\Create.cshtml",
-              "RelativeDocumentMoniker": "FitnessTemplate\\Areas\\Admin\\Views\\Home\\Create.cshtml",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\Home\\Create.cshtml",
-              "RelativeToolTip": "FitnessTemplate\\Areas\\Admin\\Views\\Home\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvykAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T09:02:46.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "update.cshtml",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\Home\\update.cshtml",
-              "RelativeDocumentMoniker": "FitnessTemplate\\Areas\\Admin\\Views\\Home\\update.cshtml",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\Home\\update.cshtml",
-              "RelativeToolTip": "FitnessTemplate\\Areas\\Admin\\Views\\Home\\update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T08:59:20.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "blog-author.jpg - Bitmap [100x100, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-author.jpg",
-              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\blog-author.jpg",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-author.jpg - Bitmap [100x100, 24 bit, JPG]",
-              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\blog-author.jpg - Bitmap [100x100, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-01-14T09:59:33.552Z",
-              "EditorCaption": " - Bitmap [100x100, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "b5852685-cdff-47d6-9e63-923cc3e89d37download.jpg - Bitmap [259x195, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\b5852685-cdff-47d6-9e63-923cc3e89d37download.jpg",
-              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\b5852685-cdff-47d6-9e63-923cc3e89d37download.jpg",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\b5852685-cdff-47d6-9e63-923cc3e89d37download.jpg - Bitmap [259x195, 24 bit, JPG]",
-              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\b5852685-cdff-47d6-9e63-923cc3e89d37download.jpg - Bitmap [259x195, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-01-14T12:03:26.066Z",
-              "EditorCaption": " - Bitmap [259x195, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "FitnessTemplate\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "FitnessTemplate\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T08:56:57.657Z",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Controllers\\Account\\AccountController.cs",
+              "RelativeDocumentMoniker": "FitnessTemplate\\Controllers\\Account\\AccountController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Controllers\\Account\\AccountController.cs",
+              "RelativeToolTip": "FitnessTemplate\\Controllers\\Account\\AccountController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwGAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:36:31.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "HomeVM.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\ViewModels\\HomeVM.cs",
-              "RelativeDocumentMoniker": "FitnessTemplate\\ViewModels\\HomeVM.cs",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\ViewModels\\HomeVM.cs",
-              "RelativeToolTip": "FitnessTemplate\\ViewModels\\HomeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T11:07:48.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "a50136d7-c20d-4686-a928-ef6299360d5adownload.jpg - Bitmap [259x195, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\a50136d7-c20d-4686-a928-ef6299360d5adownload.jpg",
-              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\a50136d7-c20d-4686-a928-ef6299360d5adownload.jpg",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\a50136d7-c20d-4686-a928-ef6299360d5adownload.jpg - Bitmap [259x195, 24 bit, JPG]",
-              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\a50136d7-c20d-4686-a928-ef6299360d5adownload.jpg - Bitmap [259x195, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-01-14T11:10:20.128Z",
-              "EditorCaption": " - Bitmap [259x195, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "e7bbe941-52f7-4ccd-8a76-e26a68c77d26download.jpg - Bitmap [259x195, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\e7bbe941-52f7-4ccd-8a76-e26a68c77d26download.jpg",
-              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\e7bbe941-52f7-4ccd-8a76-e26a68c77d26download.jpg",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\e7bbe941-52f7-4ccd-8a76-e26a68c77d26download.jpg - Bitmap [259x195, 24 bit, JPG]",
-              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\e7bbe941-52f7-4ccd-8a76-e26a68c77d26download.jpg - Bitmap [259x195, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-01-14T10:14:38.813Z",
-              "EditorCaption": " - Bitmap [259x195, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "FitnessTemplate\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "FitnessTemplate\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T09:06:52.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "home-bg-slider-img2.jpg - Bitmap [1920x1280, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\home-bg-slider-img2.jpg",
-              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\home-bg-slider-img2.jpg",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\home-bg-slider-img2.jpg - Bitmap [1920x1280, 24 bit, JPG]",
-              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\home-bg-slider-img2.jpg - Bitmap [1920x1280, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-01-14T09:59:41.409Z",
-              "EditorCaption": " - Bitmap [1920x1280, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "overview-img.jpg - Bitmap [1400x933, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\overview-img.jpg",
-              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\overview-img.jpg",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\overview-img.jpg - Bitmap [1400x933, 24 bit, JPG]",
-              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\overview-img.jpg - Bitmap [1400x933, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-01-14T09:59:42.268Z",
-              "EditorCaption": " - Bitmap [1400x933, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "price-bg.jpg - Bitmap [1920x1280, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\price-bg.jpg",
-              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\price-bg.jpg",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\price-bg.jpg - Bitmap [1920x1280, 24 bit, JPG]",
-              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\price-bg.jpg - Bitmap [1920x1280, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-01-14T09:59:43.013Z",
-              "EditorCaption": " - Bitmap [1920x1280, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "trainer-img3.jpg - Bitmap [474x592, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\trainer-img3.jpg",
-              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\trainer-img3.jpg",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\trainer-img3.jpg - Bitmap [474x592, 24 bit, JPG]",
-              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\trainer-img3.jpg - Bitmap [474x592, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-01-14T10:10:12.565Z",
-              "EditorCaption": " - Bitmap [474x592, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "trainer-img1.jpg - Bitmap [474x592, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\trainer-img1.jpg",
-              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\trainer-img1.jpg",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\trainer-img1.jpg - Bitmap [474x592, 24 bit, JPG]",
-              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\trainer-img1.jpg - Bitmap [474x592, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-01-14T09:59:43.932Z",
-              "EditorCaption": " - Bitmap [474x592, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "comment1.jpg - Bitmap [100x100, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\comment1.jpg",
-              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\comment1.jpg",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\comment1.jpg - Bitmap [100x100, 24 bit, JPG]",
-              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\comment1.jpg - Bitmap [100x100, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-01-14T09:59:39.034Z",
-              "EditorCaption": " - Bitmap [100x100, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "blog-thumb3.jpg - Bitmap [1280x850, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-thumb3.jpg",
-              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\blog-thumb3.jpg",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-thumb3.jpg - Bitmap [1280x850, 24 bit, JPG]",
-              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\blog-thumb3.jpg - Bitmap [1280x850, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-01-14T09:59:38.266Z",
-              "EditorCaption": " - Bitmap [1280x850, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "blog-thumb2.jpg - Bitmap [1280x850, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-thumb2.jpg",
-              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\blog-thumb2.jpg",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-thumb2.jpg - Bitmap [1280x850, 24 bit, JPG]",
-              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\blog-thumb2.jpg - Bitmap [1280x850, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-01-14T09:59:37.159Z",
-              "EditorCaption": " - Bitmap [1280x850, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "blog-thumb1.jpg - Bitmap [1280x850, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-thumb1.jpg",
-              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\blog-thumb1.jpg",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-thumb1.jpg - Bitmap [1280x850, 24 bit, JPG]",
-              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\blog-thumb1.jpg - Bitmap [1280x850, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-01-14T09:59:36.339Z",
-              "EditorCaption": " - Bitmap [1280x850, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "blog-thumb.jpg - Bitmap [1600x1066, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-thumb.jpg",
-              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\blog-thumb.jpg",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-thumb.jpg - Bitmap [1600x1066, 24 bit, JPG]",
-              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\blog-thumb.jpg - Bitmap [1600x1066, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-01-14T09:59:35.274Z",
-              "EditorCaption": " - Bitmap [1600x1066, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "blog-header-bg.jpg - Bitmap [1920x1275, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-header-bg.jpg",
-              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\blog-header-bg.jpg",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-header-bg.jpg - Bitmap [1920x1275, 24 bit, JPG]",
-              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\blog-header-bg.jpg - Bitmap [1920x1275, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-01-14T09:59:31.714Z",
-              "EditorCaption": " - Bitmap [1920x1275, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "FitnessTemplate\\DAL\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\DAL\\AppDbContext.cs",
               "RelativeToolTip": "FitnessTemplate\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T08:57:21.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Controllers\\Home\\HomeController.cs",
+              "RelativeDocumentMoniker": "FitnessTemplate\\Controllers\\Home\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Controllers\\Home\\HomeController.cs",
+              "RelativeToolTip": "FitnessTemplate\\Controllers\\Home\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:28:03.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Program.cs",
+              "RelativeDocumentMoniker": "FitnessTemplate\\Program.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Program.cs",
+              "RelativeToolTip": "FitnessTemplate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:08:04.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Views\\Account\\register.cshtml",
+              "RelativeDocumentMoniker": "FitnessTemplate\\Views\\Account\\register.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Views\\Account\\register.cshtml",
+              "RelativeToolTip": "FitnessTemplate\\Views\\Account\\register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T06:36:51.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "FitnessTemplate\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "FitnessTemplate\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:49:18.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "FitnessTemplate\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "FitnessTemplate\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:49:08.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "FitnessTemplate\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Models\\AppUser.cs",
+              "RelativeToolTip": "FitnessTemplate\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:13:43.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "BaseEntitiy.cs",
               "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Models\\Base\\BaseEntitiy.cs",
               "RelativeDocumentMoniker": "FitnessTemplate\\Models\\Base\\BaseEntitiy.cs",
@@ -507,55 +411,338 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "FitnessTemplate\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "FitnessTemplate\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAPABAAAAAAAAAAAUwCUCAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T08:55:56.847Z",
+              "DocumentIndex": 17,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Models\\Trainer.cs",
+              "RelativeDocumentMoniker": "FitnessTemplate\\Models\\Trainer.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Models\\Trainer.cs",
+              "RelativeToolTip": "FitnessTemplate\\Models\\Trainer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:03:03.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FitnessTemplate\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FitnessTemplate\\Views\\Shared\\_Layout.cshtml",
+              "DocumentIndex": 18,
+              "Title": "20260115084901_account.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Migrations\\20260115084901_account.cs",
+              "RelativeDocumentMoniker": "FitnessTemplate\\Migrations\\20260115084901_account.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Migrations\\20260115084901_account.cs",
+              "RelativeToolTip": "FitnessTemplate\\Migrations\\20260115084901_account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T08:49:02.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\appsettings.json",
+              "RelativeDocumentMoniker": "FitnessTemplate\\appsettings.json",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\appsettings.json",
+              "RelativeToolTip": "FitnessTemplate\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T08:55:55.824Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-15T08:08:37.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "FitnessTemplate\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "FitnessTemplate\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T09:02:46.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\Home\\detail.cshtml",
+              "RelativeDocumentMoniker": "FitnessTemplate\\Areas\\Admin\\Views\\Home\\detail.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\Home\\detail.cshtml",
+              "RelativeToolTip": "FitnessTemplate\\Areas\\Admin\\Views\\Home\\detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T05:56:05.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\ViewModels\\Home\\HomeVM.cs",
+              "RelativeDocumentMoniker": "FitnessTemplate\\ViewModels\\Home\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\ViewModels\\Home\\HomeVM.cs",
+              "RelativeToolTip": "FitnessTemplate\\ViewModels\\Home\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T11:07:48.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260114061746_dtabase.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Migrations\\20260114061746_dtabase.cs",
+              "RelativeDocumentMoniker": "FitnessTemplate\\Migrations\\20260114061746_dtabase.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Migrations\\20260114061746_dtabase.cs",
+              "RelativeToolTip": "FitnessTemplate\\Migrations\\20260114061746_dtabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:09:21.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\Home\\update.cshtml",
+              "RelativeDocumentMoniker": "FitnessTemplate\\Areas\\Admin\\Views\\Home\\update.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\Home\\update.cshtml",
+              "RelativeToolTip": "FitnessTemplate\\Areas\\Admin\\Views\\Home\\update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T08:59:20.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "FitnessTemplate\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "FitnessTemplate\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T08:56:57.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "FitnessTemplate\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "FitnessTemplate\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FitnessTemplate\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FitnessTemplate\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T09:06:52.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FitnessTemplate\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FitnessTemplate\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T08:55:55.331Z",
+              "WhenOpened": "2026-01-14T09:06:50.491Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "home-bg-slider-img1.jpg - Bitmap [1920x1280, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\home-bg-slider-img1.jpg",
+              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\home-bg-slider-img1.jpg",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\home-bg-slider-img1.jpg - Bitmap [1920x1280, 24 bit, JPG]",
+              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\home-bg-slider-img1.jpg - Bitmap [1920x1280, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-14T09:59:40.659Z",
+              "EditorCaption": " - Bitmap [1920x1280, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "blog-author.jpg - Bitmap [100x100, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-author.jpg",
+              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\blog-author.jpg",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-author.jpg - Bitmap [100x100, 24 bit, JPG]",
+              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\blog-author.jpg - Bitmap [100x100, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-14T09:59:33.552Z",
+              "EditorCaption": " - Bitmap [100x100, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "b5852685-cdff-47d6-9e63-923cc3e89d37download.jpg - Bitmap [259x195, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\b5852685-cdff-47d6-9e63-923cc3e89d37download.jpg",
+              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\b5852685-cdff-47d6-9e63-923cc3e89d37download.jpg",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\b5852685-cdff-47d6-9e63-923cc3e89d37download.jpg - Bitmap [259x195, 24 bit, JPG]",
+              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\b5852685-cdff-47d6-9e63-923cc3e89d37download.jpg - Bitmap [259x195, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-14T12:03:26.066Z",
+              "EditorCaption": " - Bitmap [259x195, 24 bit, JPG]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "FitnessTemplate\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "FitnessTemplate\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T08:55:54.112Z",
-              "EditorCaption": ""
+              "Title": "a50136d7-c20d-4686-a928-ef6299360d5adownload.jpg - Bitmap [259x195, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\a50136d7-c20d-4686-a928-ef6299360d5adownload.jpg",
+              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\a50136d7-c20d-4686-a928-ef6299360d5adownload.jpg",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\a50136d7-c20d-4686-a928-ef6299360d5adownload.jpg - Bitmap [259x195, 24 bit, JPG]",
+              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\a50136d7-c20d-4686-a928-ef6299360d5adownload.jpg - Bitmap [259x195, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-14T11:10:20.128Z",
+              "EditorCaption": " - Bitmap [259x195, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "e7bbe941-52f7-4ccd-8a76-e26a68c77d26download.jpg - Bitmap [259x195, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\e7bbe941-52f7-4ccd-8a76-e26a68c77d26download.jpg",
+              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\e7bbe941-52f7-4ccd-8a76-e26a68c77d26download.jpg",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\e7bbe941-52f7-4ccd-8a76-e26a68c77d26download.jpg - Bitmap [259x195, 24 bit, JPG]",
+              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\e7bbe941-52f7-4ccd-8a76-e26a68c77d26download.jpg - Bitmap [259x195, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-14T10:14:38.813Z",
+              "EditorCaption": " - Bitmap [259x195, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "home-bg-slider-img2.jpg - Bitmap [1920x1280, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\home-bg-slider-img2.jpg",
+              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\home-bg-slider-img2.jpg",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\home-bg-slider-img2.jpg - Bitmap [1920x1280, 24 bit, JPG]",
+              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\home-bg-slider-img2.jpg - Bitmap [1920x1280, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-14T09:59:41.409Z",
+              "EditorCaption": " - Bitmap [1920x1280, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "overview-img.jpg - Bitmap [1400x933, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\overview-img.jpg",
+              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\overview-img.jpg",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\overview-img.jpg - Bitmap [1400x933, 24 bit, JPG]",
+              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\overview-img.jpg - Bitmap [1400x933, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-14T09:59:42.268Z",
+              "EditorCaption": " - Bitmap [1400x933, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "price-bg.jpg - Bitmap [1920x1280, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\price-bg.jpg",
+              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\price-bg.jpg",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\price-bg.jpg - Bitmap [1920x1280, 24 bit, JPG]",
+              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\price-bg.jpg - Bitmap [1920x1280, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-14T09:59:43.013Z",
+              "EditorCaption": " - Bitmap [1920x1280, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "trainer-img3.jpg - Bitmap [474x592, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\trainer-img3.jpg",
+              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\trainer-img3.jpg",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\trainer-img3.jpg - Bitmap [474x592, 24 bit, JPG]",
+              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\trainer-img3.jpg - Bitmap [474x592, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-14T10:10:12.565Z",
+              "EditorCaption": " - Bitmap [474x592, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "trainer-img1.jpg - Bitmap [474x592, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\trainer-img1.jpg",
+              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\trainer-img1.jpg",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\trainer-img1.jpg - Bitmap [474x592, 24 bit, JPG]",
+              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\trainer-img1.jpg - Bitmap [474x592, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-14T09:59:43.932Z",
+              "EditorCaption": " - Bitmap [474x592, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "comment1.jpg - Bitmap [100x100, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\comment1.jpg",
+              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\comment1.jpg",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\comment1.jpg - Bitmap [100x100, 24 bit, JPG]",
+              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\comment1.jpg - Bitmap [100x100, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-14T09:59:39.034Z",
+              "EditorCaption": " - Bitmap [100x100, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "blog-thumb3.jpg - Bitmap [1280x850, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-thumb3.jpg",
+              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\blog-thumb3.jpg",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-thumb3.jpg - Bitmap [1280x850, 24 bit, JPG]",
+              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\blog-thumb3.jpg - Bitmap [1280x850, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-14T09:59:38.266Z",
+              "EditorCaption": " - Bitmap [1280x850, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "blog-thumb2.jpg - Bitmap [1280x850, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-thumb2.jpg",
+              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\blog-thumb2.jpg",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-thumb2.jpg - Bitmap [1280x850, 24 bit, JPG]",
+              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\blog-thumb2.jpg - Bitmap [1280x850, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-14T09:59:37.159Z",
+              "EditorCaption": " - Bitmap [1280x850, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "blog-thumb1.jpg - Bitmap [1280x850, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-thumb1.jpg",
+              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\blog-thumb1.jpg",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-thumb1.jpg - Bitmap [1280x850, 24 bit, JPG]",
+              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\blog-thumb1.jpg - Bitmap [1280x850, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-14T09:59:36.339Z",
+              "EditorCaption": " - Bitmap [1280x850, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "blog-thumb.jpg - Bitmap [1600x1066, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-thumb.jpg",
+              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\blog-thumb.jpg",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-thumb.jpg - Bitmap [1600x1066, 24 bit, JPG]",
+              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\blog-thumb.jpg - Bitmap [1600x1066, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-14T09:59:35.274Z",
+              "EditorCaption": " - Bitmap [1600x1066, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "blog-header-bg.jpg - Bitmap [1920x1275, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-header-bg.jpg",
+              "RelativeDocumentMoniker": "FitnessTemplate\\wwwroot\\images\\blog-header-bg.jpg",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\FitnessTemplate\\FitnessTemplate\\wwwroot\\images\\blog-header-bg.jpg - Bitmap [1920x1275, 24 bit, JPG]",
+              "RelativeToolTip": "FitnessTemplate\\wwwroot\\images\\blog-header-bg.jpg - Bitmap [1920x1275, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-14T09:59:31.714Z",
+              "EditorCaption": " - Bitmap [1920x1275, 24 bit, JPG]"
             }
           ]
         }

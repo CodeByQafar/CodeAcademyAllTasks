@@ -1,6 +1,6 @@
 ﻿using FitnessTemplate.DAL;
 using FitnessTemplate.Models;
-using FitnessTemplate.ViewModels;
+using FitnessTemplate.ViewModels.Home;
 using Microsoft.AspNetCore.Mvc;
 using System.IO;
 using System.Threading.Tasks;
@@ -149,7 +149,7 @@ namespace FitnessTemplate.Areas.Admin.Controllers.Home
 
             }
             Trainer trainer = _context.Trainers.FirstOrDefault(p => p.Id == id);
-            HomeVM homeVm = HomeVM
+         
             return View(trainer);
         }
     }
