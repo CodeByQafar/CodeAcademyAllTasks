@@ -1,0 +1,51 @@
+﻿
+@Model DetailVM
+
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Striped Table</h4>
+           
+
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+
+                        <tr>
+                            <th>
+                                Image
+                            </th>
+                            <th>
+                                User
+                            </th>
+                            <th>
+                                Postion
+                            </th>
+                        
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                     
+                            <tr>
+                                <td class="py-1">
+                                    <img src="~/img/@Model.ImageUrl" alt="image" />
+                                </td>
+                                <td>
+                                    @Model.FullName
+                                </td>
+
+                                <td>
+                                    @Model.Position
+                                </td>
+                          
+                            </tr>
+                   
+
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

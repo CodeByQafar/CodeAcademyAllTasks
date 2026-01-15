@@ -1,1 +1,61 @@
-﻿
+﻿@using Smulasya2.Areas.Admin.ViewModel.Home
+@using Smulasya2.Models
+@model List<Member>
+
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Striped Table</h4>
+            <a asp-area="admin" asp-controller="home" asp-action="Create" class="btn-dark p-3 m-3">
+                Add Memeber
+            </a>
+
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+
+                        <tr>
+                            <th>
+                                Image
+                            </th>
+                            <th>
+                                User
+                            </th>
+                            <th>
+                                Postion
+                            </th>
+                            <th>
+                                Settings
+                            </th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Member member in Model)
+                        {
+                            <tr>
+                                <td class="py-1">
+                                    <img src="~/img/@member.ImageUrl" alt="image" />
+                                </td>
+                                <td>
+                                    @member.FullName
+                                </td>
+
+                                <td>
+                                    @member.Position
+                                </td>
+                                <td>
+                                    <a asp-action="detail" asp-controller="home" asp-area="admin" asp-route-id="@member.Id" class="p-3 m-3 btn-primary p-3 m-3">Detail</a>
+                                    <a asp-action="delete" asp-controller="home" asp-area="admin" asp-route-id="@member.Id" class="p-3 m-3 btn-danger p-3 m-3">Delete</a>
+                                    <a asp-action="Update" asp-controller="home" asp-area="admin" asp-route-id="@member.Id" class="p-3 m-3 btn-warning p-3 m-3">Update</a>
+                                </td>
+                            </tr>
+                        }
+
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

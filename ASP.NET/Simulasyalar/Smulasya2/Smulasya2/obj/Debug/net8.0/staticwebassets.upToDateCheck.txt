@@ -257,3 +257,6 @@ wwwroot\scss\bootstrap\scss\_transitions.scss
 wwwroot\scss\bootstrap\scss\_type.scss
 wwwroot\scss\bootstrap\scss\_utilities.scss
 wwwroot\scss\bootstrap\scss\_variables.scss
+wwwroot\img\e21068a1-0336-4984-8f10-2d9d63f859bc111111111111111111111111111111111.jpg
+wwwroot\img\6f1b8efb-5c12-49cc-a516-1d3f16ee4094111111111111111111111111111111111.jpg
+wwwroot\img\3021375f-ddc4-4288-b4d5-bc76fb76254e111111111111111111111111111111111.jpg
