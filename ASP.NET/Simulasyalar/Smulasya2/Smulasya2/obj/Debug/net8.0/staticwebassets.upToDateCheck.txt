@@ -132,14 +132,17 @@ wwwroot\admin\vendors\mdi\fonts\materialdesignicons-webfont.woff2
 wwwroot\css\bootstrap.min.css
 wwwroot\css\style.css
 wwwroot\img\3021375f-ddc4-4288-b4d5-bc76fb76254e111111111111111111111111111111111.jpg
+wwwroot\img\3532925f-e409-4307-a5aa-a34075460f17111111111111111111111111111111111.jpg
 wwwroot\img\6f1b8efb-5c12-49cc-a516-1d3f16ee4094111111111111111111111111111111111.jpg
 wwwroot\img\about.jpg
+wwwroot\img\b12af35c-4122-4104-92c2-13fed3449124WhatsApp Image 2026-01-10 at 19.53.18.jpeg
 wwwroot\img\blog-1.jpg
 wwwroot\img\blog-2.jpg
 wwwroot\img\carousel-1.jpg
 wwwroot\img\carousel-2.jpg
 wwwroot\img\carousel-3.jpg
 wwwroot\img\e21068a1-0336-4984-8f10-2d9d63f859bc111111111111111111111111111111111.jpg
+wwwroot\img\f929eb04-ab01-4f2b-a9cc-723fbe21d92bWhatsApp Image 2026-01-10 at 19.53.40.jpeg
 wwwroot\img\team-1.jpg
 wwwroot\img\team-2.jpg
 wwwroot\img\team-3.jpg
@@ -260,5 +263,5 @@ wwwroot\scss\bootstrap\scss\_transitions.scss
 wwwroot\scss\bootstrap\scss\_type.scss
 wwwroot\scss\bootstrap\scss\_utilities.scss
 wwwroot\scss\bootstrap\scss\_variables.scss
-wwwroot\img\3532925f-e409-4307-a5aa-a34075460f17111111111111111111111111111111111.jpg
-wwwroot\img\b12af35c-4122-4104-92c2-13fed3449124WhatsApp Image 2026-01-10 at 19.53.18.jpeg
+wwwroot\img\fef98c2a-2e53-4b92-96d1-fbbb069f9dcfdownload (1).jpg
+wwwroot\img\0c4f3393-97ec-48a0-bff2-b11f9d59f1eadownload (1).jpg

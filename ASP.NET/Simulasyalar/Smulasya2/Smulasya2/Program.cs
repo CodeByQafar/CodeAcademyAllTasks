@@ -20,7 +20,10 @@ namespace ticket
                 );
             builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
             {
-                
+                opt.Password.RequireUppercase = false;
+                opt.Password.RequiredLength = 8;
+                opt.Password.RequireLowercase = false;
+                opt.Password.RequireNonAlphanumeric = false;
             }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
             var app = builder.Build();
      
