@@ -145,7 +145,7 @@ namespace Smulasya2.Areas.Admin.Controllers.Home
 
                 }
                 else
-                {
+                { 
                     if (!ModelState.IsValid)
                     {
                         return View(updateVM);
@@ -156,33 +156,29 @@ namespace Smulasya2.Areas.Admin.Controllers.Home
                     await updateVM.ImageFile.CopyToAsync(stream);
                     stream.Close();
 
-                    member = new Member
-                    {
-                      
-                        FullName = updateVM.FullName,
-                        Position = updateVM.Position,
-                        isDeletet = false,
-                        ImageUrl = filename,
-                    };
+                
+                    member.Position = updateVM.Position;
+                    member.FullName = updateVM.FullName;
+                    member.ImageUrl = filename;
                     _context.Members.Update(member);
                     _context.SaveChanges();
                     return RedirectToAction("index", "home");
-                } }
+                }
+            }
 
             else
             {
-                member = new Member
-                {
-                    CreatedAt = DateTime.Now,
-                    FullName = updateVM.FullName,
-                    Position = updateVM.Position,
-                    isDeletet = false,
-                    ImageUrl = filename,
-                };
+                member.Position = updateVM.Position;
+                member.FullName = updateVM.FullName;
+         
+              
+                _context.Members.Update(member);
+                return RedirectToAction("index", "home");
+
             }
 
+
          
-            return View();
         }
         public IActionResult Delete()
         {
