@@ -57,12 +57,16 @@
                 </div>
                 @if (User.Identity.IsAuthenticated)
                 {
-                    <a href="testimonial.html" class="dropdown-item">@User.Identity.Name</a>
+                    <a class="nav-item nav-link">@User.Identity.Name</a>
                     <a asp-action="logout" asp-controller="account" class="nav-item nav-link">Logout</a>
 
                 }
-                <a asp-action="register" asp-controller="account"  class="nav-item nav-link">Register</a>
+                else
+                {
+                              <a asp-action="register" asp-controller="account"  class="nav-item nav-link">Register</a>
                 <a asp-action="login" asp-controller="account" class="nav-item nav-link">Login</a>
+                }
+      
 
                 <a href="tel:+123456789" class="nav-item nav-link nav-contact bg-secondary text-white px-5 ms-lg-5"><i class="bi bi-telephone-outbound me-2"></i>+123 456 789</a>
             </div>
