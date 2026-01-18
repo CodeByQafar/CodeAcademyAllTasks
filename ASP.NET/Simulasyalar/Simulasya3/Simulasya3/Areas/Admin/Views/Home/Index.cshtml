@@ -1,0 +1,79 @@
+﻿@using Simulasya3.Models
+@using Simulasya3.ViewModels.Home
+@model HomeVM
+
+
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Team Table</h4>
+            <a class="btn-dark p-3 m-3" asp-action="Create" asp-controller="home" asp-area="admin" >Add Member</a>
+
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>
+                                Id
+                            </th>
+                            <th>
+                                Image
+                            </th>
+                            <th>
+                                Full Name
+                            </th>
+                            <th>
+                                Position
+                            </th>
+                            <th>
+                                Order
+                            </th>
+                            <th>
+                                CreatedAt
+                            </th>
+                            <th>
+                                Options
+                            </th>
+                       
+                   
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Team team in Model.teams)
+                        {
+                      
+                        <tr>
+                                <td>
+                                    @team.Id
+                                </td>
+                                <td class="py-1">
+                                    <img src="~/assets/img/team/@team.ImageUrl" alt="image">
+                            </td>
+                            <td>
+                                @team.FullName
+                            </td>
+                            <td>
+                                @team.Position
+                            </td>
+                            <td>
+                                @team.Order
+                            </td>
+                            <td>
+                                @team.CreatedAt
+                            </td>
+                            <td>
+                                <a class="btn-primary p-3 m-3" asp-action="Update" asp-controller="home" asp-area="admin" asp-route-id="@team.Id">Update</a>
+                                <a class="btn-allert p-3 m-3" asp-action="Detail" asp-controller="home" asp-area="admin" asp-route-id="@team.Id">Detail</a>
+                                <a class="btn-danger p-3 m-3" asp-action="Delete" asp-controller="home" asp-area="admin" asp-route-id="@team.Id">Delete</a>
+                            </td>
+                        </tr>
+
+                    }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
