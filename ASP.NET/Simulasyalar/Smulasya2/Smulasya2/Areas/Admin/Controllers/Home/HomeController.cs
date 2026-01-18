@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http.HttpResults;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using Smulasya2.Areas.Admin.ViewModel.Home;
 using Smulasya2.DAL;
@@ -10,6 +11,7 @@ namespace Smulasya2.Areas.Admin.Controllers.Home
 {
 
     [Area("Admin")]
+    [Authorize(Roles = "Admin,Moderator")]
     public class HomeController : Controller
     {
 

@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Smulasya2.Models;
+using Smulasya2.Utilities.Enums;
 using Smulasya2.ViewvModels.Account;
+using System.Data;
 
 namespace Smulasya2.Controllers.Account
 {
@@ -9,13 +11,15 @@ namespace Smulasya2.Controllers.Account
     {
         public readonly UserManager<AppUser> _userManager;
         public readonly SignInManager<AppUser> _signInManager;
-        public AccountController(UserManager<AppUser> userManager, SignInManager<AppUser> signInManager)
+        public readonly RoleManager<IdentityRole> _roleManager;
+        public AccountController(UserManager<AppUser> userManager, SignInManager<AppUser> signInManager, RoleManager<IdentityRole> roleManager)
         {
             _userManager = userManager;
             _signInManager = signInManager;
+            _roleManager = roleManager;
         }
 
-        public IActionResult Login( )
+        public IActionResult Login()
         {
             return View();
         }
@@ -62,6 +66,11 @@ namespace Smulasya2.Controllers.Account
                 return View(registerVM);
 
             }
+            //if(!await _roleManager.RoleExistsAsync(Role.Memeber.ToString()))
+            //{
+            //    await _roleManager.CreateAsync(new IdentityRole(Role.Memeber.ToString()));
+            //}
+            await _userManager.AddToRoleAsync(newUser, Role.Memeber.ToString());
             await _signInManager.SignInAsync(newUser, false);
 
             return RedirectToAction("index", "home");
@@ -70,14 +79,14 @@ namespace Smulasya2.Controllers.Account
         [HttpPost]
         public async Task<IActionResult> Login(LoginVM loginVM)
         {
-            if(!ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
                 return View(loginVM);
             }
             AppUser? user = await _userManager.FindByNameAsync(loginVM.UserNameOrEmail);
             if (user == null)
             {
-               
+
                 user = await _userManager.FindByEmailAsync(loginVM.UserNameOrEmail);
                 if (user == null)
                 {
@@ -85,7 +94,7 @@ namespace Smulasya2.Controllers.Account
                     return View(loginVM);
                 }
             }
-            var result =await _signInManager.PasswordSignInAsync(user, loginVM.Password, loginVM.RememberMe, false);
+            var result = await _signInManager.PasswordSignInAsync(user, loginVM.Password, loginVM.RememberMe, false);
             if (result.Succeeded)
             {
 
@@ -102,6 +111,15 @@ namespace Smulasya2.Controllers.Account
         {
             await _signInManager.SignOutAsync();
 
+            return RedirectToAction("index", "home");
+        }
+        public async Task<IActionResult> CreateRole()
+        {
+            foreach (Role role in Enum.GetValues(typeof(Role)))
+            {
+                if (!await _roleManager.RoleExistsAsync(role.ToString()))
+                    await _roleManager.CreateAsync(new IdentityRole(roleName: role.ToString()));
+            }
             return RedirectToAction("index", "home");
         }
     }

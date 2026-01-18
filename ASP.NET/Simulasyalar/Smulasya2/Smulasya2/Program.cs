@@ -16,7 +16,7 @@ namespace ticket
                 opt =>
 
                     opt.UseSqlServer(builder.Configuration.GetConnectionString("default"))
-             
+
                 );
             builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
             {
@@ -26,13 +26,16 @@ namespace ticket
                 opt.Password.RequireNonAlphanumeric = false;
             }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
             var app = builder.Build();
-     
-            app.UseAuthorization();
-            app.UseAuthentication();
-            app.UseRouting();
+
             app.UseStaticFiles();
-                     app.MapControllerRoute(name: "admin", pattern: "{area:exists}/{controller=home}/{action=index}/{id?}");
-   app.MapControllerRoute(name: "default", pattern: "{controller=home}/{action=index}/{id?}");
+
+            app.UseRouting();
+
+            app.UseAuthentication();
+            app.UseAuthorization();
+
+            app.MapControllerRoute(name: "admin", pattern: "{area:exists}/{controller=home}/{action=index}/{id?}");
+            app.MapControllerRoute(name: "default", pattern: "{controller=home}/{action=index}/{id?}");
             app.Run();
 
         }
