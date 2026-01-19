@@ -1,0 +1,683 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\areas\\admin\\views\\chef\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\areas\\admin\\views\\chef\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\areas\\admin\\views\\chef\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\areas\\admin\\views\\chef\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\areas\\admin\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\areas\\admin\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\areas\\admin\\controllers\\position\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\areas\\admin\\controllers\\position\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\areas\\admin\\controllers\\chef\\chefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\areas\\admin\\controllers\\chef\\chefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\areas\\admin\\viewmodels\\position\\updatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\areas\\admin\\viewmodels\\position\\updatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\areas\\admin\\viewmodels\\position\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\areas\\admin\\viewmodels\\position\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\areas\\admin\\viewmodels\\chef\\updatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\areas\\admin\\viewmodels\\chef\\updatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\areas\\admin\\viewmodels\\chef\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\areas\\admin\\viewmodels\\chef\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\areas\\admin\\viewmodels\\position\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\areas\\admin\\viewmodels\\position\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\controllers\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\controllers\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\areas\\admin\\viewmodels\\position\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\areas\\admin\\viewmodels\\position\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\areas\\admin\\viewmodels\\chef\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\areas\\admin\\viewmodels\\chef\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\areas\\admin\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\areas\\admin\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\areas\\admin\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\areas\\admin\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\areas\\admin\\views\\chef\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\areas\\admin\\views\\chef\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\models\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\models\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\areas\\admin\\views\\position\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\areas\\admin\\views\\position\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\models\\base\\baseentitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\models\\base\\baseentitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\migrations\\20260119061852_databasecreatedchefandpositionmodelscreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\migrations\\20260119061852_databasecreatedchefandpositionmodelscreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|c:\\users\\ii novbe\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulation5\\simulation5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18DF0A66-C5DD-494C-BDAF-49EFA27D11CF}|Simulation5\\Simulation5.csproj|solutionrelative:simulation5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Controllers\\Position\\PositionController.cs",
+              "RelativeDocumentMoniker": "Simulation5\\Areas\\Admin\\Controllers\\Position\\PositionController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Controllers\\Position\\PositionController.cs",
+              "RelativeToolTip": "Simulation5\\Areas\\Admin\\Controllers\\Position\\PositionController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwGsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:00:18.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simulation5\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "RelativeToolTip": "Simulation5\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T08:27:20.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Views\\Chef\\detail.cshtml",
+              "RelativeDocumentMoniker": "Simulation5\\Areas\\Admin\\Views\\Chef\\detail.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Views\\Chef\\detail.cshtml",
+              "RelativeToolTip": "Simulation5\\Areas\\Admin\\Views\\Chef\\detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T09:42:23.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Views\\Position\\create.cshtml",
+              "RelativeDocumentMoniker": "Simulation5\\Areas\\Admin\\Views\\Position\\create.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Views\\Position\\create.cshtml",
+              "RelativeToolTip": "Simulation5\\Areas\\Admin\\Views\\Position\\create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T08:15:09.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simulation5\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Simulation5\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T06:35:11.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Views\\Chef\\update.cshtml",
+              "RelativeDocumentMoniker": "Simulation5\\Areas\\Admin\\Views\\Chef\\update.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Views\\Chef\\update.cshtml",
+              "RelativeToolTip": "Simulation5\\Areas\\Admin\\Views\\Chef\\update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T09:33:15.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Views\\Account\\register.cshtml",
+              "RelativeDocumentMoniker": "Simulation5\\Views\\Account\\register.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Views\\Account\\register.cshtml",
+              "RelativeToolTip": "Simulation5\\Views\\Account\\register.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T10:02:17.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Views\\Account\\login.cshtml",
+              "RelativeDocumentMoniker": "Simulation5\\Views\\Account\\login.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Views\\Account\\login.cshtml",
+              "RelativeToolTip": "Simulation5\\Views\\Account\\login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T10:02:24.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Simulation5\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "Simulation5\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:20:00.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Simulation5\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "Simulation5\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:19:53.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChefController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Controllers\\Chef\\ChefController.cs",
+              "RelativeDocumentMoniker": "Simulation5\\Areas\\Admin\\Controllers\\Chef\\ChefController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Controllers\\Chef\\ChefController.cs",
+              "RelativeToolTip": "Simulation5\\Areas\\Admin\\Controllers\\Chef\\ChefController.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAuwOYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T06:59:43.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\ViewModels\\Position\\UpdateVM.cs",
+              "RelativeDocumentMoniker": "Simulation5\\Areas\\Admin\\ViewModels\\Position\\UpdateVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\ViewModels\\Position\\UpdateVM.cs",
+              "RelativeToolTip": "Simulation5\\Areas\\Admin\\ViewModels\\Position\\UpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T08:16:45.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\ViewModels\\Position\\HomeVM.cs",
+              "RelativeDocumentMoniker": "Simulation5\\Areas\\Admin\\ViewModels\\Position\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\ViewModels\\Position\\HomeVM.cs",
+              "RelativeToolTip": "Simulation5\\Areas\\Admin\\ViewModels\\Position\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T08:27:52.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\ViewModels\\Chef\\UpdateVM.cs",
+              "RelativeDocumentMoniker": "Simulation5\\Areas\\Admin\\ViewModels\\Chef\\UpdateVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\ViewModels\\Chef\\UpdateVM.cs",
+              "RelativeToolTip": "Simulation5\\Areas\\Admin\\ViewModels\\Chef\\UpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:11:03.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\ViewModels\\Chef\\DetailVM.cs",
+              "RelativeDocumentMoniker": "Simulation5\\Areas\\Admin\\ViewModels\\Chef\\DetailVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\ViewModels\\Chef\\DetailVM.cs",
+              "RelativeToolTip": "Simulation5\\Areas\\Admin\\ViewModels\\Chef\\DetailVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:11:12.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\ViewModels\\Position\\DetailVM.cs",
+              "RelativeDocumentMoniker": "Simulation5\\Areas\\Admin\\ViewModels\\Position\\DetailVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\ViewModels\\Position\\DetailVM.cs",
+              "RelativeToolTip": "Simulation5\\Areas\\Admin\\ViewModels\\Position\\DetailVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T08:16:43.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Simulation5\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Simulation5\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAADIBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T06:31:40.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "Simulation5\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Models\\Position.cs",
+              "RelativeToolTip": "Simulation5\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T05:59:27.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\ViewModels\\Home\\HomeVM.cs",
+              "RelativeDocumentMoniker": "Simulation5\\ViewModels\\Home\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\ViewModels\\Home\\HomeVM.cs",
+              "RelativeToolTip": "Simulation5\\ViewModels\\Home\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T05:53:09.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\ViewModels\\Position\\CreateVM.cs",
+              "RelativeDocumentMoniker": "Simulation5\\Areas\\Admin\\ViewModels\\Position\\CreateVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\ViewModels\\Position\\CreateVM.cs",
+              "RelativeToolTip": "Simulation5\\Areas\\Admin\\ViewModels\\Position\\CreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T08:15:45.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\ViewModels\\Chef\\CreateVM.cs",
+              "RelativeDocumentMoniker": "Simulation5\\Areas\\Admin\\ViewModels\\Chef\\CreateVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\ViewModels\\Chef\\CreateVM.cs",
+              "RelativeToolTip": "Simulation5\\Areas\\Admin\\ViewModels\\Chef\\CreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:09:23.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\ViewModels\\Home\\HomeVM.cs",
+              "RelativeDocumentMoniker": "Simulation5\\Areas\\Admin\\ViewModels\\Home\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\ViewModels\\Home\\HomeVM.cs",
+              "RelativeToolTip": "Simulation5\\Areas\\Admin\\ViewModels\\Home\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T06:53:09.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Controllers\\Account\\AccountController.cs",
+              "RelativeDocumentMoniker": "Simulation5\\Controllers\\Account\\AccountController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Controllers\\Account\\AccountController.cs",
+              "RelativeToolTip": "Simulation5\\Controllers\\Account\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:01:39.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Simulation5\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Simulation5\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T06:30:44.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Simulation5\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Simulation5\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T05:40:56.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Controllers\\Home\\HomeController.cs",
+              "RelativeDocumentMoniker": "Simulation5\\Controllers\\Home\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Controllers\\Home\\HomeController.cs",
+              "RelativeToolTip": "Simulation5\\Controllers\\Home\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T05:40:12.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Simulation5\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Simulation5\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T05:40:36.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Simulation5\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Simulation5\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T06:30:45.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Simulation5\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Simulation5\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T05:40:46.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
+              "RelativeDocumentMoniker": "Simulation5\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
+              "RelativeToolTip": "Simulation5\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T06:29:00.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simulation5\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Simulation5\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAF0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T05:40:17.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Views\\Chef\\create.cshtml",
+              "RelativeDocumentMoniker": "Simulation5\\Areas\\Admin\\Views\\Chef\\create.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Views\\Chef\\create.cshtml",
+              "RelativeToolTip": "Simulation5\\Areas\\Admin\\Views\\Chef\\create.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T07:18:03.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Chef.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Models\\Chef.cs",
+              "RelativeDocumentMoniker": "Simulation5\\Models\\Chef.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Models\\Chef.cs",
+              "RelativeToolTip": "Simulation5\\Models\\Chef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T05:50:54.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Views\\Position\\update.cshtml",
+              "RelativeDocumentMoniker": "Simulation5\\Areas\\Admin\\Views\\Position\\update.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Areas\\Admin\\Views\\Position\\update.cshtml",
+              "RelativeToolTip": "Simulation5\\Areas\\Admin\\Views\\Position\\update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T09:07:01.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BaseEntitiy.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Models\\Base\\BaseEntitiy.cs",
+              "RelativeDocumentMoniker": "Simulation5\\Models\\Base\\BaseEntitiy.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Models\\Base\\BaseEntitiy.cs",
+              "RelativeToolTip": "Simulation5\\Models\\Base\\BaseEntitiy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T05:49:55.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Program.cs",
+              "RelativeDocumentMoniker": "Simulation5\\Program.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Program.cs",
+              "RelativeToolTip": "Simulation5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T05:36:51.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Simulation5\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Simulation5\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T05:54:49.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20260119061852_DatabaseCreatedChefAndPositionModelsCreated.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Migrations\\20260119061852_DatabaseCreatedChefAndPositionModelsCreated.cs",
+              "RelativeDocumentMoniker": "Simulation5\\Migrations\\20260119061852_DatabaseCreatedChefAndPositionModelsCreated.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\Migrations\\20260119061852_DatabaseCreatedChefAndPositionModelsCreated.cs",
+              "RelativeToolTip": "Simulation5\\Migrations\\20260119061852_DatabaseCreatedChefAndPositionModelsCreated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T06:18:52.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\appsettings.json",
+              "RelativeDocumentMoniker": "Simulation5\\appsettings.json",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulation5\\Simulation5\\appsettings.json",
+              "RelativeToolTip": "Simulation5\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-19T06:11:15.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

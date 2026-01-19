@@ -1,0 +1,23 @@
+﻿@using Simulation5.Areas.Admin.ViewModels.Position4
+@using Simulation5.Models
+@model CreateVM
+
+<div class="col-md-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Chef create </h4>
+
+            <form method="post" enctype="multipart/form-data" class="forms-sample">
+                <div class="form-group">
+                    <label for="exampleInputUsername1">Name</label>
+                    <input asp-for="Name" type="text" class="form-control" id="exampleInputUsername1" placeholder="FullName">
+                    <span class="text-danger" asp-validation-for="Name"></span>
+                </div>
+     
+
+                <button type="submit" class="btn btn-primary me-2">Submit</button>
+
+            </form>
+        </div>
+    </div>
+</div>

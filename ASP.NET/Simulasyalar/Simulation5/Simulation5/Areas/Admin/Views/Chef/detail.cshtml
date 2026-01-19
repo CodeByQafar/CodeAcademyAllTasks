@@ -1,0 +1,14 @@
+﻿@using Simulation5.Areas.Admin.ViewModels.Chefs
+
+@model DetailVM
+
+<div class="card" style="width: 18rem;">
+    <img src="~/images/@Model.ImageUrl" alt="image" />
+
+    <div class="card-body">
+        <h5 class="card-title">@Model.FullName</h5>
+        <h5 class="card-title">@Model.Position.Name</h5>
+        <p class="card-text">@Model.Description</p>
+        <a asp-action="index" asp-area="admin" asp-controller="home" class="btn btn-primary">Go back</a>
+    </div>
+</div>
