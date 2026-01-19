@@ -457,3 +457,10 @@ C:\Users\II novbe\Desktop\CodeAcademyAllTasks\ASP.NET\Simulasyalar\Smulasya2\Smu
 C:\Users\II novbe\Desktop\CodeAcademyAllTasks\ASP.NET\Simulasyalar\Smulasya2\Smulasya2\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\II novbe\Desktop\CodeAcademyAllTasks\ASP.NET\Simulasyalar\Smulasya2\Smulasya2\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
 C:\Users\II novbe\Desktop\CodeAcademyAllTasks\ASP.NET\Simulasyalar\Smulasya2\Smulasya2\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\megru\Desktop\CodeAcademyAllTasks\ASP.NET\Simulasyalar\Smulasya2\Smulasya2\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\megru\Desktop\CodeAcademyAllTasks\ASP.NET\Simulasyalar\Smulasya2\Smulasya2\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\megru\Desktop\CodeAcademyAllTasks\ASP.NET\Simulasyalar\Smulasya2\Smulasya2\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\megru\Desktop\CodeAcademyAllTasks\ASP.NET\Simulasyalar\Smulasya2\Smulasya2\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\megru\Desktop\CodeAcademyAllTasks\ASP.NET\Simulasyalar\Smulasya2\Smulasya2\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\megru\Desktop\CodeAcademyAllTasks\ASP.NET\Simulasyalar\Smulasya2\Smulasya2\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\megru\Desktop\CodeAcademyAllTasks\ASP.NET\Simulasyalar\Smulasya2\Smulasya2\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll

@@ -1,7 +1,7 @@
 ﻿@using Smulasya2.ViewvModels.Account
 @{
     Layout = null;
-    
+
 }
 
 @model RegisterVM
@@ -12,41 +12,52 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Glassmorphism Login Form | CodingNepal</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="wrapper">
-        <form action="#">
+        <form method="post" action="#">
             <h2>Register</h2>
+            <br />
+            <div style="color:red" asp-validation-summary="ModelOnly"></div>
+            <br />
+
             <div class="input-field">
                 <input asp-for="FullName" type="text" required>
                 <label>Enter your FullName</label>
-                <span class="text-danger" asp-validation-for="UserName"></span>
-            </div>
+            </div>           
+            <span style="color:red" asp-validation-for="FullName"></span>
+
             <div class="input-field">
                 <input asp-for="UserName" type="text" required>
                 <label>Enter your username</label>
-                <span class="text-danger" asp-validation-for="UserName"></span>
-            </div>  
+            </div>              
+            <span style="color:red" asp-validation-for="UserName"></span>
+
             <div class="input-field">
                 <input asp-for="Email" type="email" required>
                 <label>Enter your email</label>
-                <span class="text-danger" asp-validation-for="Email"></span>
 
-            </div>
+            </div>              
+            <span style="color:red" asp-validation-for="Email"></span>
+
             <div class="input-field">
-                <input asp-for="Password" type="text" required>
+                <input asp-for="Password" type="password" required>
                 <label>Enter your password</label>
-                <span class="text-danger" asp-validation-for="Password"></span>
 
-            </div>
+            </div>             
+            <span style="color:red" asp-validation-for="Password"></span>
+
             <div class="input-field">
-                <input asp-for="ConfrimPassword" type="text" required>
+                <input asp-for="ConfrimPassword" type="password" required>
                 <label>confrim your password</label>
-                <span class="text-danger" asp-validation-for="ConfrimPassword"></span>
 
-            </div>
-     
+            </div>             
+            <span style="color:red" asp-validation-for="ConfrimPassword"></span>
+
+            <br />
             <button type="submit">Log In</button>
             <div class="register">
                 <p>Don't have an account? <a asp-controller="account" asp-action="login">Login</a></p>
@@ -63,7 +74,6 @@
     }
 
     body {
-
         display: flex;
         align-items: center;
         justify-content: center;
