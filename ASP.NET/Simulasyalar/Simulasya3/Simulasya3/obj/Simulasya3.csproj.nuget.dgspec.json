@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Simulasya3.csproj": {}
+    "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Simulasya3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Simulasya3.csproj": {
+    "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Simulasya3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Simulasya3.csproj",
+        "projectUniqueName": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Simulasya3.csproj",
         "projectName": "Simulasya3",
-        "projectPath": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Simulasya3.csproj",
+        "projectPath": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Simulasya3.csproj",
         "packagesPath": "C:\\Users\\megru\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\obj\\",
+        "outputPath": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

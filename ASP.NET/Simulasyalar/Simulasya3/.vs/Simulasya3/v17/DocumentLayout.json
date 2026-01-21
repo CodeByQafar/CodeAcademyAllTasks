@@ -1,160 +1,160 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\megru\\source\\repos\\Simulasya3\\",
+  "WorkspaceRootPath": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\areas\\admin\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\areas\\admin\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\controllers\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\controllers\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\utilities\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\utilities\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\models\\base\\baseentitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\models\\base\\baseentitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\utilities\\extension\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\utilities\\extension\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Migrations\\20260118154558_REgisterAndLoginUserModelCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Simulasya3\\Migrations\\20260118154558_REgisterAndLoginUserModelCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\utilities\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\utilities\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\areas\\admin\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\areas\\admin\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\controllers\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\controllers\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\models\\base\\baseentitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\models\\base\\baseentitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\utilities\\extension\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\utilities\\extension\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\areas\\admin\\viewmodels\\home\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\areas\\admin\\viewmodels\\home\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\areas\\admin\\viewmodels\\home\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\areas\\admin\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\areas\\admin\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\areas\\admin\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\areas\\admin\\viewmodels\\home\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\areas\\admin\\viewmodels\\home\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\areas\\admin\\viewmodels\\home\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\areas\\admin\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\areas\\admin\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\areas\\admin\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\areas\\admin\\viewmodels\\home\\updatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\areas\\admin\\viewmodels\\home\\updatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\areas\\admin\\viewmodels\\home\\updatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\wwwroot\\admin\\images\\faces\\face1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\wwwroot\\admin\\images\\faces\\face1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\wwwroot\\admin\\images\\faces\\face1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\wwwroot\\admin\\images\\faces\\face10.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\wwwroot\\admin\\images\\faces\\face10.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\wwwroot\\admin\\images\\faces\\face10.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\megru\\Desktop\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\wwwroot\\assets\\img\\team\\team-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\wwwroot\\assets\\img\\team\\team-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\wwwroot\\assets\\img\\team\\team-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\megru\\Desktop\\Dewi-1.0.0\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\migrations\\20260118114345_teammodelcreateddatabseinitlazed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\migrations\\20260118114345_teammodelcreateddatabseinitlazed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\migrations\\20260118114345_teammodelcreateddatabseinitlazed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\source\\repos\\simulasya3\\simulasya3\\migrations\\20260118123545_teammodelupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\migrations\\20260118123545_teammodelupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\migrations\\20260118123545_teammodelupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|c:\\users\\megru\\desktop\\codeacademyalltasks\\asp.net\\simulasyalar\\simulasya3\\simulasya3\\migrations\\20260118154558_registerandloginusermodelcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BBA1D4-003A-47BF-A0AD-D3ED5C932881}|Simulasya3\\Simulasya3.csproj|solutionrelative:simulasya3\\migrations\\20260118154558_registerandloginusermodelcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -169,75 +169,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Simulasya3\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Simulasya3\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAuwE4AAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T11:26:13.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Controllers\\Account\\AccountController.cs",
-              "RelativeDocumentMoniker": "Simulasya3\\Controllers\\Account\\AccountController.cs",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Controllers\\Account\\AccountController.cs",
-              "RelativeToolTip": "Simulasya3\\Controllers\\Account\\AccountController.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAowHQAAAAzAAAAAAAAAA==",
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Simulasya3\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "Simulasya3\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:39:43.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "register.cshtml",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Views\\Account\\register.cshtml",
-              "RelativeDocumentMoniker": "Simulasya3\\Views\\Account\\register.cshtml",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Views\\Account\\register.cshtml",
-              "RelativeToolTip": "Simulasya3\\Views\\Account\\register.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAC8AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T14:40:09.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BaseEntitiy.cs",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Models\\Base\\BaseEntitiy.cs",
-              "RelativeDocumentMoniker": "Simulasya3\\Models\\Base\\BaseEntitiy.cs",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Models\\Base\\BaseEntitiy.cs",
-              "RelativeToolTip": "Simulasya3\\Models\\Base\\BaseEntitiy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T11:28:02.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T14:48:06.479Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "LoginVM.cs",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\ViewModels\\Account\\LoginVM.cs",
-              "RelativeDocumentMoniker": "Simulasya3\\ViewModels\\Account\\LoginVM.cs",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\ViewModels\\Account\\LoginVM.cs",
-              "RelativeToolTip": "Simulasya3\\ViewModels\\Account\\LoginVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:48:06.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
               "RelativeDocumentMoniker": "Simulasya3\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
               "RelativeToolTip": "Simulasya3\\Areas\\Admin\\Controllers\\Home\\HomeController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAMAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -246,13 +193,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Simulasya3\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Simulasya3\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAN0CAAAAAAAAAAAAAOcCAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAOACAAAAAAAAAAAAAOcCAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-18T11:18:31.637Z",
               "EditorCaption": ""
@@ -261,100 +208,34 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Program.cs",
               "RelativeDocumentMoniker": "Simulasya3\\Program.cs",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Program.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Program.cs",
               "RelativeToolTip": "Simulasya3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T11:12:18.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "login.cshtml",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Views\\Account\\login.cshtml",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Views\\Account\\login.cshtml",
               "RelativeDocumentMoniker": "Simulasya3\\Views\\Account\\login.cshtml",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Views\\Account\\login.cshtml",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Views\\Account\\login.cshtml",
               "RelativeToolTip": "Simulasya3\\Views\\Account\\login.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T14:40:23.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T14:40:23.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Utilities\\Enums\\Role.cs",
-              "RelativeDocumentMoniker": "Simulasya3\\Utilities\\Enums\\Role.cs",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Utilities\\Enums\\Role.cs",
-              "RelativeToolTip": "Simulasya3\\Utilities\\Enums\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T16:30:40.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "Simulasya3\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Models\\AppUser.cs",
-              "RelativeToolTip": "Simulasya3\\Models\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:30:44.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RegisterVM.cs",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\ViewModels\\Account\\RegisterVM.cs",
-              "RelativeDocumentMoniker": "Simulasya3\\ViewModels\\Account\\RegisterVM.cs",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\ViewModels\\Account\\RegisterVM.cs",
-              "RelativeToolTip": "Simulasya3\\ViewModels\\Account\\RegisterVM.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:43:38.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FileExtension.cs",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Utilities\\Extension\\FileExtension.cs",
-              "RelativeDocumentMoniker": "Simulasya3\\Utilities\\Extension\\FileExtension.cs",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Utilities\\Extension\\FileExtension.cs",
-              "RelativeToolTip": "Simulasya3\\Utilities\\Extension\\FileExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T13:14:54.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Controllers\\Home\\HomeController.cs",
-              "RelativeDocumentMoniker": "Simulasya3\\Controllers\\Home\\HomeController.cs",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Controllers\\Home\\HomeController.cs",
-              "RelativeToolTip": "Simulasya3\\Controllers\\Home\\HomeController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T11:18:19.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
               "Title": "Team.cs",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Models\\Team.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Models\\Team.cs",
               "RelativeDocumentMoniker": "Simulasya3\\Models\\Team.cs",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Models\\Team.cs",
               "RelativeToolTip": "Simulasya3\\Models\\Team.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -363,206 +244,302 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Simulasya3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Simulasya3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwE4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T11:26:13.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\DAL\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Simulasya3\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\DAL\\AppDbContext.cs",
               "RelativeToolTip": "Simulasya3\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T11:31:02.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Simulasya3\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Simulasya3\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T11:23:00.41Z",
+              "DocumentIndex": 1,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Utilities\\Enums\\Role.cs",
+              "RelativeDocumentMoniker": "Simulasya3\\Utilities\\Enums\\Role.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Utilities\\Enums\\Role.cs",
+              "RelativeToolTip": "Simulasya3\\Utilities\\Enums\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T16:30:40.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20260118154558_REgisterAndLoginUserModelCreated.cs",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Migrations\\20260118154558_REgisterAndLoginUserModelCreated.cs",
-              "RelativeDocumentMoniker": "Simulasya3\\Migrations\\20260118154558_REgisterAndLoginUserModelCreated.cs",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Migrations\\20260118154558_REgisterAndLoginUserModelCreated.cs",
-              "RelativeToolTip": "Simulasya3\\Migrations\\20260118154558_REgisterAndLoginUserModelCreated.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "BaseEntitiy.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Models\\Base\\BaseEntitiy.cs",
+              "RelativeDocumentMoniker": "Simulasya3\\Models\\Base\\BaseEntitiy.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Models\\Base\\BaseEntitiy.cs",
+              "RelativeToolTip": "Simulasya3\\Models\\Base\\BaseEntitiy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T15:45:58.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T11:28:02.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Views\\Account\\register.cshtml",
+              "RelativeDocumentMoniker": "Simulasya3\\Views\\Account\\register.cshtml",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Views\\Account\\register.cshtml",
+              "RelativeToolTip": "Simulasya3\\Views\\Account\\register.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T14:40:09.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Controllers\\Account\\AccountController.cs",
+              "RelativeDocumentMoniker": "Simulasya3\\Controllers\\Account\\AccountController.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Controllers\\Account\\AccountController.cs",
+              "RelativeToolTip": "Simulasya3\\Controllers\\Account\\AccountController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAowHQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:39:43.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Simulasya3\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Models\\AppUser.cs",
+              "RelativeToolTip": "Simulasya3\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:30:44.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Simulasya3\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "Simulasya3\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:43:38.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileExtension.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Utilities\\Extension\\FileExtension.cs",
+              "RelativeDocumentMoniker": "Simulasya3\\Utilities\\Extension\\FileExtension.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Utilities\\Extension\\FileExtension.cs",
+              "RelativeToolTip": "Simulasya3\\Utilities\\Extension\\FileExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:14:54.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Controllers\\Home\\HomeController.cs",
+              "RelativeDocumentMoniker": "Simulasya3\\Controllers\\Home\\HomeController.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Controllers\\Home\\HomeController.cs",
+              "RelativeToolTip": "Simulasya3\\Controllers\\Home\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T11:18:19.477Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "CreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\ViewModels\\Home\\CreateVM.cs",
-              "RelativeDocumentMoniker": "Simulasya3\\Areas\\Admin\\ViewModels\\Home\\CreateVM.cs",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\ViewModels\\Home\\CreateVM.cs",
-              "RelativeToolTip": "Simulasya3\\Areas\\Admin\\ViewModels\\Home\\CreateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Simulasya3\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Simulasya3\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T11:23:00.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20260118154558_REgisterAndLoginUserModelCreated.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Migrations\\20260118154558_REgisterAndLoginUserModelCreated.cs",
+              "RelativeDocumentMoniker": "Simulasya3\\Migrations\\20260118154558_REgisterAndLoginUserModelCreated.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Migrations\\20260118154558_REgisterAndLoginUserModelCreated.cs",
+              "RelativeToolTip": "Simulasya3\\Migrations\\20260118154558_REgisterAndLoginUserModelCreated.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T12:04:02.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T15:45:58.523Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "CreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\ViewModels\\Home\\CreateVM.cs",
+              "RelativeDocumentMoniker": "Simulasya3\\Areas\\Admin\\ViewModels\\Home\\CreateVM.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\ViewModels\\Home\\CreateVM.cs",
+              "RelativeToolTip": "Simulasya3\\Areas\\Admin\\ViewModels\\Home\\CreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:04:02.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "create.cshtml",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\Home\\create.cshtml",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\Home\\create.cshtml",
               "RelativeDocumentMoniker": "Simulasya3\\Areas\\Admin\\Views\\Home\\create.cshtml",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\Home\\create.cshtml",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\Home\\create.cshtml",
               "RelativeToolTip": "Simulasya3\\Areas\\Admin\\Views\\Home\\create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T12:31:54.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T12:31:54.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\ViewModels\\Home\\HomeVM.cs",
+              "RelativeDocumentMoniker": "Simulasya3\\ViewModels\\Home\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\ViewModels\\Home\\HomeVM.cs",
+              "RelativeToolTip": "Simulasya3\\ViewModels\\Home\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T11:30:17.672Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "HomeVM.cs",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\ViewModels\\Home\\HomeVM.cs",
-              "RelativeDocumentMoniker": "Simulasya3\\ViewModels\\Home\\HomeVM.cs",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\ViewModels\\Home\\HomeVM.cs",
-              "RelativeToolTip": "Simulasya3\\ViewModels\\Home\\HomeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T11:30:17.672Z",
-              "EditorCaption": ""
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Simulasya3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Simulasya3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T11:49:01.508Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Simulasya3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Simulasya3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Title": "detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\Home\\detail.cshtml",
+              "RelativeDocumentMoniker": "Simulasya3\\Areas\\Admin\\Views\\Home\\detail.cshtml",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\Home\\detail.cshtml",
+              "RelativeToolTip": "Simulasya3\\Areas\\Admin\\Views\\Home\\detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T11:49:01.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T12:32:29.322Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\Home\\detail.cshtml",
-              "RelativeDocumentMoniker": "Simulasya3\\Areas\\Admin\\Views\\Home\\detail.cshtml",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\Home\\detail.cshtml",
-              "RelativeToolTip": "Simulasya3\\Areas\\Admin\\Views\\Home\\detail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T12:32:29.322Z",
-              "EditorCaption": ""
+              "Title": "DetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\ViewModels\\Home\\DetailVM.cs",
+              "RelativeDocumentMoniker": "Simulasya3\\Areas\\Admin\\ViewModels\\Home\\DetailVM.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\ViewModels\\Home\\DetailVM.cs",
+              "RelativeToolTip": "Simulasya3\\Areas\\Admin\\ViewModels\\Home\\DetailVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:05:37.812Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "DetailVM.cs",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\ViewModels\\Home\\DetailVM.cs",
-              "RelativeDocumentMoniker": "Simulasya3\\Areas\\Admin\\ViewModels\\Home\\DetailVM.cs",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\ViewModels\\Home\\DetailVM.cs",
-              "RelativeToolTip": "Simulasya3\\Areas\\Admin\\ViewModels\\Home\\DetailVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T12:05:37.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
               "Title": "HomeVM.cs",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\ViewModels\\Home\\HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\ViewModels\\Home\\HomeVM.cs",
               "RelativeDocumentMoniker": "Simulasya3\\Areas\\Admin\\ViewModels\\Home\\HomeVM.cs",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\ViewModels\\Home\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\ViewModels\\Home\\HomeVM.cs",
               "RelativeToolTip": "Simulasya3\\Areas\\Admin\\ViewModels\\Home\\HomeVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T11:58:36.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "update.cshtml",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\Home\\update.cshtml",
-              "RelativeDocumentMoniker": "Simulasya3\\Areas\\Admin\\Views\\Home\\update.cshtml",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\Home\\update.cshtml",
-              "RelativeToolTip": "Simulasya3\\Areas\\Admin\\Views\\Home\\update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T12:32:14.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "UpdateVM.cs",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\ViewModels\\Home\\UpdateVM.cs",
-              "RelativeDocumentMoniker": "Simulasya3\\Areas\\Admin\\ViewModels\\Home\\UpdateVM.cs",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\ViewModels\\Home\\UpdateVM.cs",
-              "RelativeToolTip": "Simulasya3\\Areas\\Admin\\ViewModels\\Home\\UpdateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T12:04:54.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T11:58:36.253Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
+              "Title": "update.cshtml",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\Home\\update.cshtml",
+              "RelativeDocumentMoniker": "Simulasya3\\Areas\\Admin\\Views\\Home\\update.cshtml",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\Home\\update.cshtml",
+              "RelativeToolTip": "Simulasya3\\Areas\\Admin\\Views\\Home\\update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T12:32:14.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\ViewModels\\Home\\UpdateVM.cs",
+              "RelativeDocumentMoniker": "Simulasya3\\Areas\\Admin\\ViewModels\\Home\\UpdateVM.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\ViewModels\\Home\\UpdateVM.cs",
+              "RelativeToolTip": "Simulasya3\\Areas\\Admin\\ViewModels\\Home\\UpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:04:54.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Simulasya3\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Simulasya3\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T11:53:27.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T11:53:27.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Simulasya3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Simulasya3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T11:49:02.19Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Simulasya3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Simulasya3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Simulasya3\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Simulasya3\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T11:49:02.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T11:49:04.549Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "Simulasya3\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "Simulasya3\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T11:49:04.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
               "Title": "face1.jpg - Bitmap [100x100, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\wwwroot\\admin\\images\\faces\\face1.jpg",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\wwwroot\\admin\\images\\faces\\face1.jpg",
               "RelativeDocumentMoniker": "Simulasya3\\wwwroot\\admin\\images\\faces\\face1.jpg",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\wwwroot\\admin\\images\\faces\\face1.jpg - Bitmap [100x100, 24 bit, JPG]",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\wwwroot\\admin\\images\\faces\\face1.jpg - Bitmap [100x100, 24 bit, JPG]",
               "RelativeToolTip": "Simulasya3\\wwwroot\\admin\\images\\faces\\face1.jpg - Bitmap [100x100, 24 bit, JPG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2026-01-18T12:37:15.246Z",
@@ -570,24 +547,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "20260118123545_TeamModelUpdated.cs",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Migrations\\20260118123545_TeamModelUpdated.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Migrations\\20260118123545_TeamModelUpdated.cs",
               "RelativeDocumentMoniker": "Simulasya3\\Migrations\\20260118123545_TeamModelUpdated.cs",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Migrations\\20260118123545_TeamModelUpdated.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Migrations\\20260118123545_TeamModelUpdated.cs",
               "RelativeToolTip": "Simulasya3\\Migrations\\20260118123545_TeamModelUpdated.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T12:35:45.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T12:35:45.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "face10.jpg - Bitmap [100x100, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\wwwroot\\admin\\images\\faces\\face10.jpg",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\wwwroot\\admin\\images\\faces\\face10.jpg",
               "RelativeDocumentMoniker": "Simulasya3\\wwwroot\\admin\\images\\faces\\face10.jpg",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\wwwroot\\admin\\images\\faces\\face10.jpg - Bitmap [100x100, 24 bit, JPG]",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\wwwroot\\admin\\images\\faces\\face10.jpg - Bitmap [100x100, 24 bit, JPG]",
               "RelativeToolTip": "Simulasya3\\wwwroot\\admin\\images\\faces\\face10.jpg - Bitmap [100x100, 24 bit, JPG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2026-01-18T12:37:13.586Z",
@@ -595,11 +571,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "team-1.jpg - Bitmap [600x600, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\wwwroot\\assets\\img\\team\\team-1.jpg",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\wwwroot\\assets\\img\\team\\team-1.jpg",
               "RelativeDocumentMoniker": "Simulasya3\\wwwroot\\assets\\img\\team\\team-1.jpg",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\wwwroot\\assets\\img\\team\\team-1.jpg - Bitmap [600x600, 24 bit, JPG]",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\wwwroot\\assets\\img\\team\\team-1.jpg - Bitmap [600x600, 24 bit, JPG]",
               "RelativeToolTip": "Simulasya3\\wwwroot\\assets\\img\\team\\team-1.jpg - Bitmap [600x600, 24 bit, JPG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2026-01-18T11:44:05.824Z",
@@ -607,68 +583,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\src\\index.html",
-              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\src\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\src\\index.html",
               "ToolTip": "C:\\Users\\megru\\Desktop\\src\\index.html",
-              "RelativeToolTip": "..\\..\\..\\Desktop\\src\\index.html",
+              "RelativeToolTip": "..\\..\\..\\..\\src\\index.html",
               "ViewState": "AgIAADsBAAAAAAAAAAAowFcBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-18T11:50:11.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "20260118114345_TeamModelCreatedDatabseInitlazed.cs",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Migrations\\20260118114345_TeamModelCreatedDatabseInitlazed.cs",
-              "RelativeDocumentMoniker": "Simulasya3\\Migrations\\20260118114345_TeamModelCreatedDatabseInitlazed.cs",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Migrations\\20260118114345_TeamModelCreatedDatabseInitlazed.cs",
-              "RelativeToolTip": "Simulasya3\\Migrations\\20260118114345_TeamModelCreatedDatabseInitlazed.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T11:43:45.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\appsettings.json",
-              "RelativeDocumentMoniker": "Simulasya3\\appsettings.json",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\appsettings.json",
-              "RelativeToolTip": "Simulasya3\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-18T11:17:54.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Simulasya3\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Simulasya3\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T11:22:46.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T11:50:11.136Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
+              "Title": "20260118114345_TeamModelCreatedDatabseInitlazed.cs",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Migrations\\20260118114345_TeamModelCreatedDatabseInitlazed.cs",
+              "RelativeDocumentMoniker": "Simulasya3\\Migrations\\20260118114345_TeamModelCreatedDatabseInitlazed.cs",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Migrations\\20260118114345_TeamModelCreatedDatabseInitlazed.cs",
+              "RelativeToolTip": "Simulasya3\\Migrations\\20260118114345_TeamModelCreatedDatabseInitlazed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T11:43:45.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\appsettings.json",
+              "RelativeDocumentMoniker": "Simulasya3\\appsettings.json",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\appsettings.json",
+              "RelativeToolTip": "Simulasya3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-18T11:17:54.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Simulasya3\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Simulasya3\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T11:22:46.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\megru\\Desktop\\Dewi-1.0.0\\index.html",
-              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Dewi-1.0.0\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Dewi-1.0.0\\index.html",
               "ToolTip": "C:\\Users\\megru\\Desktop\\Dewi-1.0.0\\index.html",
-              "RelativeToolTip": "..\\..\\..\\Desktop\\Dewi-1.0.0\\index.html",
+              "RelativeToolTip": "..\\..\\..\\..\\Dewi-1.0.0\\index.html",
               "ViewState": "AgIAAJUAAAAAAAAAAAAowJUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-18T11:19:18.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T11:19:18.293Z"
             }
           ]
         }

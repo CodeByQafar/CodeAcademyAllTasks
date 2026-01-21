@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Zb8h1mARGE=",
+  "dgSpecHash": "B3LL4XAfz+0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\megru\\source\\repos\\Simulasya3\\Simulasya3\\Simulasya3.csproj",
+  "projectFilePath": "C:\\Users\\megru\\Desktop\\CodeAcademyAllTasks\\ASP.NET\\Simulasyalar\\Simulasya3\\Simulasya3\\Simulasya3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\megru\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\megru\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
