@@ -1,0 +1,40 @@
+﻿@using Simulation6.Areas.Admin.ViewModels.Home
+@model CreateVM
+
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Basic form elements</h4>
+            <p class="card-description">
+                Create Project
+            </p>
+            <form method="post" enctype="multipart/form-data" class="forms-sample">
+                <div asp-validation-summary="ModelOnly"></div>
+                <div class="form-group">
+                    <label  for="exampleInputName1">Title</label>
+                    <input asp-for="Title" type="text" class="form-control">
+                   <span class="text-danger" asp-validation-for="Title"></span>
+                </div>
+                <div class="form-group">
+
+                    <label for="exampleInputEmail3">Project Type</label>
+                    <input asp-for="ProjectType" type="text" class="form-control" >
+                    <span class="text-danger" asp-validation-for="ProjectType"></span>
+
+                </div>
+             
+               
+                <div class="form-group">
+                    <label>File upload</label>
+                    <input asp-for="imageFile" class="form-control">
+                    <span class="text-danger my-3"   asp-validation-for="imageFile"></span>
+
+                </div>
+    
+                <button type="submit" class="btn btn-primary me-2">Submit</button>
+                <a  asp-action="index" asp-controller="home" class="btn btn-light">Cancel</a>
+            </form>
+        </div>
+    </div>
+</div>
