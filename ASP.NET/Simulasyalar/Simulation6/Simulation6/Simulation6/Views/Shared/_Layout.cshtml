@@ -86,6 +86,8 @@
                             <li class="scroll-to-section"><a href="#portfolio">Projects</a></li>
                             @if (User.Identity.IsAuthenticated)
                             {
+                                <li class="scroll-to-section"><a>@User.Identity.Name</a></li>
+                                <li class="scroll-to-section"><a asp-action="logout" asp-controller="account">Logout</a></li>
 
                             }
                             else

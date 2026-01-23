@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http.HttpResults;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using Simulation6.Areas.Admin.ViewModels.Home;
 using Simulation6.DAL;
@@ -9,6 +10,7 @@ using Simulation6.Utilities.Extensions;
 namespace Simulation6.Areas.Admin.Controllers.Home
 {
     [Area("Admin")]
+    [Authorize(Roles ="Admin,Moderator")]
     public class HomeController : Controller
     {
         public readonly AppDbContext _context;

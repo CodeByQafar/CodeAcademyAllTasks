@@ -33,8 +33,13 @@ namespace Exam
                 }
                 ).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
             var app = builder.Build();
+
+
+
             app.UseRouting();
-            app.UseStaticFiles();
+            app.UseStaticFiles();         
+            app.UseAuthentication();
+            app.UseAuthorization();
             app.MapControllerRoute(
                 name: "admin",
                 pattern: "{area:exists}/{controller=home}/{action=index}/{id?}"
